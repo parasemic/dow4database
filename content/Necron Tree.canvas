@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"377fea87ced3c33f","type":"text","text":"# [[Tomb Citadel]]","x":-746,"y":-454,"width":220,"height":60},
-		{"id":"f8e097e9e1e5751b","type":"file","file":"Canoptek Foundry.md","x":366,"y":-454,"width":400,"height":199},
+		{"id":"f8e097e9e1e5751b","type":"file","file":"Canoptek Foundry.md","x":366,"y":-454,"width":400,"height":199,"color":"5"},
 		{"id":"b1261673e685991d","type":"file","file":"Translocation Science.md","x":-526,"y":-811,"width":432,"height":178},
 		{"id":"ad83b9c1b571c889","type":"text","text":"## Stratagems","x":-77,"y":-1019,"width":179,"height":60},
 		{"id":"2cedb23794f2f4c2","type":"file","file":"Remastered Efficiency.md","x":-24,"y":-811,"width":489,"height":201},
@@ -10,7 +9,7 @@
 		{"id":"a895bf9b2afecb3f","type":"file","file":"Chronomancer.md","x":-1465,"y":-366,"width":400,"height":201},
 		{"id":"bf86150213c57af2","type":"file","file":"Triarch Stalker.md","x":-1387,"y":266,"width":400,"height":187},
 		{"id":"fba688823fad4e26","type":"file","file":"Necron Warriors.md","x":-1465,"y":-37,"width":400,"height":206},
-		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":1573,"y":-454,"width":400,"height":188},
+		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":1573,"y":-454,"width":400,"height":188,"color":"5"},
 		{"id":"ca9ff70326a6afc2","type":"file","file":"Skorpekh Destroyers.md","x":1342,"y":-113,"width":400,"height":187},
 		{"id":"7fe0602dca2cc813","type":"file","file":"Lokhust Heavy Destroyer.md","x":1835,"y":-113,"width":400,"height":187},
 		{"id":"51a6b62d4d7b2fb9","type":"file","file":"Deathmarks.md","x":-1387,"y":557,"width":400,"height":199},
@@ -27,27 +26,28 @@
 		{"id":"ea8c7b3374e5ad32","type":"file","file":"Canoptek Doomstalker.md","x":766,"y":164,"width":400,"height":220},
 		{"id":"60073b29b81c0a0d","type":"file","file":"Canoptek Spyder.md","x":166,"y":-33,"width":400,"height":197},
 		{"id":"3d499baeaad2e94f","type":"text","text":"# Tomb Pylon","x":241,"y":324,"width":250,"height":60},
-		{"id":"7d18a18f8db8051a","type":"text","text":"# [[August 2026 build.canvas|Main Page]]","x":-1270,"y":-959,"width":183,"height":60}
+		{"id":"7d18a18f8db8051a","type":"text","text":"# [[August 2026 build.canvas|Main Page]]","x":-1270,"y":-959,"width":183,"height":60},
+		{"id":"c7630960e538fffe","x":-835,"y":-454,"width":399,"height":192,"color":"5","type":"file","file":"Tomb Citadel.md"}
 	],
 	"edges":[
 		{"id":"5e4c48f38117d36a","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"ea8c7b3374e5ad32","toSide":"left"},
 		{"id":"e31ea4083fcfd4d7","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"5c73f212b3678bf4","toSide":"top"},
 		{"id":"4109414f21332115","fromNode":"ad83b9c1b571c889","fromSide":"bottom","toNode":"b1261673e685991d","toSide":"top"},
 		{"id":"2bc9abc8bafd9b80","fromNode":"ad83b9c1b571c889","fromSide":"bottom","toNode":"2cedb23794f2f4c2","toSide":"top"},
-		{"id":"92d44d5656f07621","fromNode":"377fea87ced3c33f","fromSide":"bottom","toNode":"fb261af853e8f752","toSide":"left","label":"Tier IV"},
-		{"id":"615de73ba601ca15","fromNode":"377fea87ced3c33f","fromSide":"bottom","toNode":"092a4da427f95b0a","toSide":"left","label":"Tier IV"},
-		{"id":"e881794e38faebf9","fromNode":"377fea87ced3c33f","fromSide":"bottom","toNode":"adb6b744f29ada39","toSide":"top","label":"Tier III"},
-		{"id":"b23b4f589504fb59","fromNode":"377fea87ced3c33f","fromSide":"left","toNode":"a895bf9b2afecb3f","toSide":"right"},
-		{"id":"a1d3bb30b786fa0b","fromNode":"377fea87ced3c33f","fromSide":"left","toNode":"fba688823fad4e26","toSide":"right"},
-		{"id":"a928be13eb176ef4","fromNode":"377fea87ced3c33f","fromSide":"left","toNode":"bf86150213c57af2","toSide":"right","label":"Tier II"},
-		{"id":"bef0aa867ceccb04","fromNode":"377fea87ced3c33f","fromSide":"right","toNode":"4602bab1d92bbec6","toSide":"left"},
 		{"id":"538d7d4523b8d8b0","fromNode":"f8e097e9e1e5751b","fromSide":"left","toNode":"4602bab1d92bbec6","toSide":"right"},
 		{"id":"ab42dcaa57133a71","fromNode":"2a6d510f16f53a28","fromSide":"bottom","toNode":"ca9ff70326a6afc2","toSide":"top"},
 		{"id":"c7c952134877e548","fromNode":"2a6d510f16f53a28","fromSide":"bottom","toNode":"7fe0602dca2cc813","toSide":"top"},
-		{"id":"004ddafdab41cd81","fromNode":"377fea87ced3c33f","fromSide":"bottom","toNode":"51a6b62d4d7b2fb9","toSide":"right"},
-		{"id":"4800db11353d46d6","fromNode":"377fea87ced3c33f","fromSide":"bottom","toNode":"76cefa8e9734c5e0","toSide":"right"},
 		{"id":"f25cebe012c28758","fromNode":"ad83b9c1b571c889","fromSide":"right","toNode":"3d2d0b20d3dbe096","toSide":"top"},
 		{"id":"0bc287592c582fa0","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"60073b29b81c0a0d","toSide":"top"},
-		{"id":"f986997d337d900d","fromNode":"60073b29b81c0a0d","fromSide":"bottom","toNode":"3d499baeaad2e94f","toSide":"top"}
+		{"id":"f986997d337d900d","fromNode":"60073b29b81c0a0d","fromSide":"bottom","toNode":"3d499baeaad2e94f","toSide":"top"},
+		{"id":"597c0750cfc59e15","fromNode":"c7630960e538fffe","fromSide":"right","toNode":"4602bab1d92bbec6","toSide":"left"},
+		{"id":"22ab06868bc4b3f1","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"a895bf9b2afecb3f","toSide":"right"},
+		{"id":"8b2861b22411aa75","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"fba688823fad4e26","toSide":"right"},
+		{"id":"fcec408e185f7db8","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"bf86150213c57af2","toSide":"right","label":"Tier II"},
+		{"id":"7f43858fb36fd538","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"092a4da427f95b0a","toSide":"left","label":"Tier IV"},
+		{"id":"9979158c39e7569f","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"fb261af853e8f752","toSide":"left","label":"Tier IV"},
+		{"id":"94e596dbb85f343e","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"adb6b744f29ada39","toSide":"top","label":"Tier III"},
+		{"id":"6889ba0d0d788ca9","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"76cefa8e9734c5e0","toSide":"right"},
+		{"id":"a5443f4378aeff08","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"51a6b62d4d7b2fb9","toSide":"right"}
 	]
 }

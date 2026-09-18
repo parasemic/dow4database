@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Construct
   - Vehicle
+  - Unit
 ---
 # [[Kastellan Robot Maniple]]
 *Elite Constructs*

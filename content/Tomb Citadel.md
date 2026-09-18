@@ -6,7 +6,7 @@ tags:
   - "#HQ"
   - "#Research"
 ---
-# Tomb Citadel I
+# [[Tomb Citadel]] I
 *Headquarters*
 - Produces most units
 - Entered units can be redeployed
