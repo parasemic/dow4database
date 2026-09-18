@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d02231cd15672f6e","type":"file","file":"Media/Hivehold 2v2.png","x":-482,"y":-427,"width":400,"height":396},
+		{"id":"96d4774d2eea76df","type":"text","text":"## Hivehold 2v2","x":-82,"y":-427,"width":195,"height":60},
+		{"id":"c3e9dfe87488d299","type":"text","text":"## [[_Main Page.canvas|Main Page]]","x":-482,"y":-550,"width":200,"height":31},
+		{"id":"f7b9075c9f75e805","x":-482,"y":68,"width":400,"height":406,"type":"file","file":"Media/Pasted image 20260918190343.png"},
+		{"id":"5c99dbe17fae1326","x":-82,"y":68,"width":250,"height":60,"type":"text","text":"## ?? 1v1"}
+	],
+	"edges":[]
+}

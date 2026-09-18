@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0f829cf5bb8d0730","type":"text","text":"# [[August 2026 build.canvas|Main Page]]","x":-156,"y":-252,"width":183,"height":60},
+		{"id":"0f829cf5bb8d0730","type":"text","text":"# [[_Main Page.canvas|Main Page]]","x":-156,"y":-252,"width":183,"height":60},
 		{"id":"630fc2ae0be3a6c0","type":"file","file":"Media/admech_512.svg","x":92,"y":-252,"width":400,"height":400},
 		{"id":"b6bc98d82c4d607d","type":"file","file":"Dominus Forgeshrine.md","x":-646,"y":388,"width":400,"height":205,"color":"2"},
 		{"id":"ef9b3815d80e43fb","type":"file","file":"War Cohort Altar.md","x":400,"y":388,"width":400,"height":205,"color":"2"},

@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"d02231cd15672f6e","type":"file","file":"Media/Hivehold 2v2.png","x":-482,"y":-427,"width":400,"height":396},
-		{"id":"96d4774d2eea76df","type":"text","text":"## Hivehold 2v2","x":-82,"y":-427,"width":195,"height":60},
-		{"id":"c3e9dfe87488d299","type":"text","text":"## [[August 2026 build.canvas|Main Page]]","x":-482,"y":-550,"width":200,"height":31}
-	],
-	"edges":[]
-}
