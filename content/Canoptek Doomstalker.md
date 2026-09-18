@@ -1,0 +1,33 @@
+---
+tags:
+  - "#Vehicle"
+  - Necron
+  - Canoptek
+  - Unit
+  - "#Construct"
+---
+# [[Canoptek Doomstalker]]
+*Anti-Armour Construct*
+- Effective at long range
+- Excels versus vehicles
+- Low mobility
+---
+Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
+
+---
+
+| [[Member Count]]      |  1   |         |
+| --------------------- | :--: | ------- |
+| [[Armour]]            |  10  | Vehicle |
+| Armour Penetration    |  9   |         |
+| Invulnerability Saves |  -   |         |
+| HP                    | 4000 |         |
+
+---
+
+| *Armour Effectiveness* |         |
+| ---------------------- | ------- |
+| Light                  | 75-163  |
+| Heavy                  | 112-170 |
+| Vehicle                | 202-202 |
+| Structure              | 99-99   |

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"497b6096a0c985eb","type":"file","file":"Media/Light.png","x":-980,"y":-1000,"width":332,"height":50},
+		{"id":"410e4ff3591f3ba8","type":"text","text":"# [[Chronomancer]]\n\n# [[Canoptek]] [[Canoptek Scarabs|Scarabs]]\n\n# [[Necron Warriors]]\n\n# [[Immortals]]\n\n# [[Deathmarks]]\n\n# [[Lychguards]]\n","x":-926,"y":-871,"width":327,"height":300,"color":"5"},
+		{"id":"a67eaa352762e056","type":"text","text":"# [[Canoptek]] [[Canoptek Wraiths|Wraiths]]\n\n# [[Skorpekh Destroyers]]\n\n# [[Lokhust Heavy Destroyer]]\n","x":476,"y":-871,"width":356,"height":151,"color":"5"},
+		{"id":"4eecc8a4da6af656","type":"text","text":"# [[Beastboss on Squigosaur]]\n\n# [[Squighog Boyz]]\n\n# [[Flash Gitz]]\n\n# [[Meganobz]]\n","x":81,"y":-871,"width":359,"height":206,"color":"4"},
+		{"id":"9d033c0ed6552057","type":"text","text":"# [[Kataphron Breachers]]\n\n# [[Kataphron Destroyers]]","x":879,"y":-871,"width":316,"height":93,"color":"2"},
+		{"id":"f385f9b75d582038","type":"text","text":"# [[Gretchin]]\n\n# [[Shoota Boyz]]\n\n# [[Slugga Boyz]]\n\n# [[Wurrboy]]\n\n# [[Beast Snagga Boyz]]\n\n# [[Bomb Squig Horde]]\n\n# [[Stormboyz]]\n","x":-1262,"y":-871,"width":282,"height":347,"color":"4"},
+		{"id":"9914200e0c3c5165","type":"file","file":"Media/Vehicle.png","x":-980,"y":-278,"width":232,"height":50},
+		{"id":"887c7ff9e3fa1457","type":"text","text":"# [[Deff Dread]]\n\n# [[Gunwagon]]\n","x":-1262,"y":-164,"width":282,"height":93,"color":"4"},
+		{"id":"dc6ad3d36627ec13","type":"text","text":"# [[Canoptek]] [[Canoptek Spyder|Spyder]]\n\n# [[Triarch Stalker]]\n\n# [[Canoptek]] [[Canoptek Doomstalker|Doomstalker]]\n\n# [[Monolith]]\n","x":-926,"y":-164,"width":327,"height":206,"color":"5"},
+		{"id":"678562d6313fc181","type":"text","text":"# [[Corpuscarii Electro-Priests]]\n\n# [[Cybernetica Datasmith]]\n\n# [[Sicarian Ruststalkers]]\n\n# [[Skitarii Rangers]]\n\n# [[Skitarii Marshal]]\n\n# [[Skitarii Vanguards]]","x":-546,"y":-871,"width":379,"height":300,"color":"2"},
+		{"id":"4ee98e395d75ada8","type":"text","text":"# [[Ironstrider Ballistarius]]\n\n# [[Kastellan Robot Maniple]]","x":-546,"y":-164,"width":343,"height":93,"color":"2"},
+		{"id":"0d3be5c1e56af906","type":"text","text":"# [[Tomb Citadel]]\n\n# [[Convergence of Dominion]]\n\n# [[Sentry Pylon]]\n\n# [[Canoptek]] [[Canoptek Foundry|Foundry]]\n\n# [[Destroyer Crypt]]\n\n# [[Resurrection Gallery]]\n","x":476,"y":-164,"width":375,"height":300,"color":"5"},
+		{"id":"ff34ad75f942fff6","type":"text","text":"# [[Dominus Forgeshrine]]\n\n# [[Cogitator Relay]]\n\n# [[Cognis Weapon Platform]]\n\n# [[Emanatus Field Generator]]\n\n# [[Omnissian Cult]]\n\n# [[Sensorium]]\n\n# [[Void Shield Generator]]\n\n# [[War Cohort Altar]]\n\n# [[War Cohort Armoury]]","x":879,"y":-164,"width":363,"height":442,"color":"2"},
+		{"id":"9cd080f9ae48e8c5","type":"text","text":"# [[Mega Bossbunka]]\n\n# [[Waaagh! Banner]]\n\n# [[Boyz Fort]]\n\n# [[Mek Gun]]\n\n# [[Scrap 'Eap]]\n\n# [[Mekboy Workshop]]\n\n# [[Beast Snagga Hut]]\n\n# [[Cuvva]]\n\n# [[Listenin' Shack]]\n\n# [[Bomb Squig Pen]]\n","x":81,"y":-164,"width":359,"height":489,"color":"4"},
+		{"id":"3d20a69362ea977a","type":"file","file":"Media/Heavy.png","x":515,"y":-1004,"width":364,"height":54},
+		{"id":"338ce2d1ebdf5a73","type":"file","file":"Media/Structure.png","x":585,"y":-283,"width":225,"height":51},
+		{"id":"3057cfaf979dfd14","type":"text","text":"# [[August 2026 build.canvas|Main Page]]","x":-102,"y":-1198,"width":183,"height":60}
+	],
+	"edges":[]
+}

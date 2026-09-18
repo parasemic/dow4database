@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="badmoons_512.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.83496094"
+     inkscape:cx="192.22456"
+     inkscape:cy="375.46667"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch574"
+       inkscape:swatch="solid"
+       inkscape:label="Necron second">
+      <stop
+         style="stop-color:#ccef3a;stop-opacity:1;"
+         offset="0"
+         id="stop574" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch572"
+       id="linearGradient572"
+       x1="681.61835"
+       y1="269.13705"
+       x2="697.76465"
+       y2="269.13705"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(14.500071,0,0,14.500071,-9546.0604,-3552.1066)" />
+    <linearGradient
+       id="swatch572"
+       inkscape:swatch="solid"
+       inkscape:label="Ork prime">
+      <stop
+         style="stop-color:#fde600;stop-opacity:1;"
+         offset="0"
+         id="stop572" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="matrix(1.1208148,0,0,1.1208148,-248.8209,-98.605391)">
+      <path
+         d="m 327.44322,130.93391 -105.44321,99.00663 45.04114,83.64569 117.23727,27.52215 -58.61856,-42.53843 v -57.89936 l -31.09657,-6.07683 z"
+         style="display:inline;fill:#fde600;fill-opacity:1;stroke-width:7.25002;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path144" />
+      <path
+         d="m 416.4464,195.26985 -78.99248,51.82993 3.22207,42.89063 57.54715,45.04113 0.35235,137.61104 28.59371,-32.52757 15.37587,65.41489 26.4432,-74.34665 13.58512,50.39863 16.08768,-51.11797 16.79964,43.60997 5.71723,-38.95676 0.71196,-95.4399 12.51356,-6.43658 11.08226,13.22537 26.09099,-17.51145 -21.80492,-92.57744 -39.31636,10.36291 z m 37.53314,89.00332 19.3022,23.94789 -22.16466,22.16466 -58.61871,-25.01944 6.07698,-20.02169 z m 82.92634,23.94789 -37.1734,21.80506 -13.58511,-16.43989 z m -64.33594,22.51687 6.78878,24.66737 -16.79963,0.35961 z"
+         style="display:inline;fill:url(#linearGradient572);fill-opacity:1;stroke-width:7.25002;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path146" />
+      <path
+         d="m 577.2938,127.00004 32.16783,91.50589 -38.95662,18.23079 17.15924,79.35222 53.61329,-23.59582 37.533,-57.54716 z"
+         style="display:inline;fill:#fde600;fill-opacity:1;stroke-width:7.25002;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path198" />
+    </g>
+  </g>
+</svg>

@@ -1,3 +1,49 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+[data-frame="default"] .page-header {
+  display: none !important;
+}
+
+[data-frame="default"] .markdown-preview-view.markdown-rendered {
+  padding-top: 170px;
+}
+
+.canvas-file-label {
+  display: none !important;
+}
+
+a.internal {
+  background: transparent !important;
+}
+
+html:not([data-slug^="tags/"]) div.popover-hint {
+  display: none !important;
+}
+
+/* Search overlay */
+.search-container {
+  backdrop-filter: blur(2px) !important;
+  background: rgba(0, 0, 0, 0.35) !important;
+}
+
+/* Search card */
+.search-space {
+  background: var(--light) !important;
+  border-radius: 10px !important;
+  padding: 12px 16px 16px !important;
+  box-sizing: border-box;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35) !important;
+}
+
+/* Search result text */
+.search-space a,
+.search-space a * {
+  color: var(--dark) !important;
+}
+
+/* Search-term matching */
+.search-space .highlight {
+  background: rgba(152, 151, 26, 0.25) !important;
+}
