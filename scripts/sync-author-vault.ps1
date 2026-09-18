@@ -3,7 +3,7 @@ $ErrorActionPreference = "Stop"
 $repoRoot = Split-Path -Parent $PSScriptRoot
 $contentDir = Join-Path $repoRoot "content"
 $protectedFile = Join-Path $repoRoot ".sync\protected.txt"
-$tempDir = Join-Path $env:TEMP "dow4-author-sync"
+$tempDir = Join-Path ([System.IO.Path]::GetTempPath()) "dow4-author-sync"
 
 $remote = "artistrepo"
 $branch = "main"
