@@ -28,29 +28,39 @@ Produces units:
 - [[Meganobz]]
 ---
 ### Research:
-#### Ded 'Ard
+> [!tip] Ded 'Ard
+> *Research*
+> Increases Armour for the following units:
+> - Slugga Boyz
+> - [[Stormboyz]]
+>
+> => Armour: **+2**
+> **90.0** sec.
+
+> [!tip] --
+> *Research*
+> Desc.
+> **000.0** sec.
+
+> [!tip] Skarboyz
+> *Research*
+> The following units start with Veterancy Level 1 when produced:
+> - Slugga Boyz
+> - Shoota Boyz
+>
+> **150.0** sec.
+
+> [!tip] Extra Teef
 *Research*
-Increases Armour for the following units:
-- Slugga Boyz
-- [[Stormboyz]]
-=> Armour: **+2**
-90.0 sec.
-#### ??
-#### Skarboyz
-*Research*
-The following units start with Veterancy Level 1 when produced:
-- Slugga Boyz
-- Shoota Boyz
-150.0 sec.
-#### Extra Teef
-*Research*
-Reduces production costs for the following units:
-- Flash Gitz
-- Meganobz
-=> Production costs: **-25%**
-150.0 sec.
-#### Get Stuck In!
+> Reduces production costs for the following units:
+> - Flash Gitz
+> - Meganobz
+>
+> => Production costs: **-25%**
+> **150.0** sec.
+
+> [!tip] Get Stuck In!
 *Research*
 Reduces production time for units from Boyz Forts.
 => Production Time: **-35%**
-150.0 sec.
+**150.0** sec.

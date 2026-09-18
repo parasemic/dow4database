@@ -19,7 +19,7 @@ Base Cost: **150** req | **35** pow | Build Time: **??.?** sec.
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
 
-
+### Research
 > [!tip] Dakka Storm
 > *Research*
 > Increases damage dealt by all structures.

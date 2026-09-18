@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5c43269c51b90ccd","type":"file","file":"Media/Boyz Fort.png","x":591,"y":-196,"width":116,"height":117},
+		{"id":"1e0e058e9aba54ee","type":"file","file":"Boyz Fort.md","subpath":"#Research","x":591,"y":-79,"width":565,"height":1212},
+		{"id":"8d8a5ff314911996","type":"file","file":"Media/Beast Snagga Hut.png","x":1156,"y":-200,"width":120,"height":119},
+		{"id":"930adebc0b6930de","type":"file","file":"Beast Snagga Hut.md","subpath":"#Research","x":1156,"y":-81,"width":400,"height":995},
+		{"id":"b0c1ce84d0a2c113","type":"file","file":"Scrap 'Eap.md","subpath":"#Research","x":1556,"y":-79,"width":574,"height":928},
+		{"id":"514064495bb1ed00","type":"file","file":"Mekboy Workshop.md","subpath":"#Research","x":2130,"y":-79,"width":528,"height":815},
+		{"id":"3fdbd31fc3d58ef2","type":"file","file":"Media/Mekboy Workshop.png","x":2130,"y":-200,"width":118,"height":117},
+		{"id":"20aa1eabf79f7e3b","type":"file","file":"Media/Scrap 'Eap.png","x":1556,"y":-196,"width":116,"height":117},
+		{"id":"9f423d0dbc1859ca","type":"text","text":"# Orksies\n\n[[Boyz Fort#Research]]\n[[Beast Snagga Hut#Research]]\n[[Scrap 'Eap#Research]]\n[[Mekboy Workshop#Research]]\n","x":1403,"y":-501,"width":371,"height":174}
+	],
+	"edges":[
+		{"id":"f5945dc0f03aee11","fromNode":"9f423d0dbc1859ca","fromSide":"bottom","toNode":"b0c1ce84d0a2c113","toSide":"top"},
+		{"id":"8d9a1d8b8f98f0c4","fromNode":"9f423d0dbc1859ca","fromSide":"bottom","toNode":"930adebc0b6930de","toSide":"top"},
+		{"id":"92616be8f2989374","fromNode":"9f423d0dbc1859ca","fromSide":"left","toNode":"1e0e058e9aba54ee","toSide":"top"},
+		{"id":"69a480718e86822b","fromNode":"9f423d0dbc1859ca","fromSide":"right","toNode":"514064495bb1ed00","toSide":"top"}
+	]
+}

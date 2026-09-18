@@ -27,11 +27,11 @@ Base Cost: **100** req | **5** pow | Build Time: **??.?** sec.
 - [[Wurrboy]]
 ---
 ### Research:
-#### Orky Outriderz
-*Research*
-Increases capture speed for Squighog Boyz.
-=> Capture Speed: **+150%**
-**90.0** sec.
+> [!tip] Orky Outriderz
+> *Research*
+> Increases capture speed for Squighog Boyz.
+> => Capture Speed: **+150%**
+> **90.0** sec.
 #### 'Arder Armour
 *Research*
 Increases Armour for all Ork infantry.
