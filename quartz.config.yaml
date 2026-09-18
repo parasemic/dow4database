@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: localhost
+  baseUrl: parasemic.github.io/dow4database
   ignorePatterns:
     - private
     - templates
