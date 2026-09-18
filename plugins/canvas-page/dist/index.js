@@ -239,6 +239,29 @@ function transformLink(src, target, opts) {
     const folderTail = isFolderPath(targetSlug) ? "/" : "";
     const canonicalSlug = stripSlashes(targetSlug.slice(".".length));
     const [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug);
+    {
+      const isMultiSegment = targetCanonical.includes("/");
+      const isFolderTarget = isFolderPath(targetSlug);
+      const matchingFileNames = opts.allSlugs.filter((slug2) => {
+        if (isMultiSegment) {
+          if (slug2 === targetCanonical || slug2.endsWith("/" + targetCanonical)) {
+            return true;
+          }
+          if (isFolderTarget) {
+            const withIndex = targetCanonical + "/index";
+            return slug2 === withIndex || slug2.endsWith("/" + withIndex);
+          }
+          return false;
+        }
+        const parts = slug2.split("/");
+        const fileName = parts.at(-1);
+        return targetCanonical === fileName;
+      });
+      if (matchingFileNames.length === 1) {
+        const matchedSlug = matchingFileNames[0];
+        return resolveRelative(effectiveSrc, matchedSlug) + targetAnchor;
+      }
+    }
     return joinSegments(pathToRoot(effectiveSrc), canonicalSlug) + folderTail;
   }
 }

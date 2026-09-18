@@ -64,7 +64,7 @@ function renderMarkdown(
           const target = path + anchor;
 
           const href = transformLink(sourceSlug, target, {
-            strategy: "absolute",
+            strategy: "shortest",
             allSlugs,
           });
 
