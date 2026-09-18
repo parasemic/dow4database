@@ -58,7 +58,7 @@ Remove-Item (Join-Path $tempDir "_templates") -Recurse -Force -ErrorAction Silen
 # Copy/update normal files.
 Get-ChildItem $tempDir -Recurse -File | ForEach-Object {
 
-    $relative = $_.FullName.Substring($tempDir.Length).TrimStart('\').Replace('\', '/')
+    $relative = $_.FullName.Substring($tempDir.Length).TrimStart('\', '/').Replace('\', '/')
 
     if ($protected -contains $relative) {
         return
@@ -81,7 +81,7 @@ if (Test-Path $contentDir) {
 
     Get-ChildItem $contentDir -Recurse -File | ForEach-Object {
 
-        $relative = $_.FullName.Substring($contentDir.Length).TrimStart('\').Replace('\', '/')
+        $relative = $_.FullName.Substring($contentDir.Length).TrimStart('\', '/').Replace('\', '/')
 
         if ($protected -contains $relative) {
             return
