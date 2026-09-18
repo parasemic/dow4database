@@ -1,13 +1,15 @@
-name: Deploy Quartz to GitHub Pages
+name: Sync and Deploy Quartz
 
 on:
   push:
     branches:
       - v5
+  schedule:
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -16,7 +18,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,6 +36,27 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Configure author repository
+        run: git remote add artistrepo https://gitlab.com/dow4-vault/DoW4-Obsidian.git
+
+      - name: Sync author vault
+        shell: pwsh
+        run: ./scripts/sync-author-vault.ps1
+
+      - name: Commit synced content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync author vault"
+            git push origin HEAD:v5
+          fi
+
       - name: Build Quartz
         run: npx quartz build
 
@@ -45,15 +68,6 @@ jobs:
         with:
           path: public
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
