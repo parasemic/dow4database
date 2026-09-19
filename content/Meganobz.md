@@ -36,7 +36,7 @@ tags:
 >> - Swaps weaponry for a member
 >> - Good versus infantry
 >> - Negates cover and garrisons
->>
+>>+1 AP
 >> Cost: **50** req | Build Time: **15.0** sec.
 >
 >> [!abstract] **Kombi-Rokkit Launcha**
