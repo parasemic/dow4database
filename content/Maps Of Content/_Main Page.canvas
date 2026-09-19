@@ -10,11 +10,11 @@
 		{"id":"3efa83203b0672d5","type":"file","file":"Media/bloodraven_512.svg","x":-497,"y":-910,"width":60,"height":60},
 		{"id":"389be0b7122deb7c","type":"file","file":"Media/Confirmed units vs. 10th ed TT lists.png","x":-512,"y":-729,"width":1060,"height":1130},
 		{"id":"ec1b12cd0bbec985","type":"file","file":"Media/offi_dow4.png","x":236,"y":-1268,"width":113,"height":113},
-		{"id":"514da6be40324e83","type":"text","text":"> [!Welcome]\n> Click the tree links below to explore the tech trees of the different factions.\n> \n> Check the MOC older for different ways to view info.\n> \n> Tags can be used to search for specific stuff.\n> \n> Use Ctrl+O to open cards with fuzzy finding.\n> \n> This is all very much W.I.P..\n> -- Artist","x":-390,"y":-1423,"width":425,"height":368},
-		{"id":"4bf386f695a5b320","type":"file","file":"Mechanics.md","x":192,"y":-1155,"width":248,"height":393},
+		{"id":"4bf386f695a5b320","type":"file","file":"Mechanics.md","x":192,"y":-1155,"width":248,"height":369},
 		{"id":"09bc7719dda89bfc","type":"text","text":"# [[All Entities]]\nLists all the cards for units/structures so far.\nSorted by armour types.","x":463,"y":-906,"width":229,"height":144},
 		{"id":"9af4eceee9d39e17","type":"text","text":"## Sources\n- [Battle Report 3](https://www.youtube.com/watch?v=yvhL7ben1Wc)\n- [Battle Report 4](https://www.youtube.com/watch?v=Ansr816Iujk)\n- [Battle Report 5]","x":463,"y":-1155,"width":204,"height":149},
-		{"id":"24f86385bdc55ac3","type":"text","text":"# [[Maps.canvas|Maps]]","x":463,"y":-988,"width":115,"height":60}
+		{"id":"24f86385bdc55ac3","type":"text","text":"# [[Maps.canvas|Maps]]","x":463,"y":-988,"width":115,"height":60},
+		{"id":"514da6be40324e83","type":"text","text":"> [!Welcome]\n> Click the tree links below to explore the tech trees of the different factions.\n> \n> Check the MOC (Maps of Content) folder for different ways to view info.\n> \n> Tags can be used to search for specific stuff.\n> \n> Use Ctrl+O to open cards with fuzzy finding.\n> \n> This is all very much W.I.P..\n> \n> Get the latest version with [git](https://gitlab.com/dow4-vault/DoW4-Obsidian).\n> Best viewed with [Obsidian](https://obsidian.md/).\n> -- Artist","x":-390,"y":-1484,"width":425,"height":432}
 	],
 	"edges":[]
 }

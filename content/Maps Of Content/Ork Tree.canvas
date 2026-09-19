@@ -23,14 +23,6 @@
 		{"id":"952135434d136d78","type":"file","file":"Media/Unleash Da Waaagh!.png","x":1840,"y":-1730,"width":115,"height":115},
 		{"id":"fd86589e73c911ca","type":"file","file":"Feral Intervention.md","x":883,"y":-1592,"width":400,"height":174},
 		{"id":"46cd852e9295d3b5","type":"file","file":"Media/Feral Intervention.png","x":883,"y":-1707,"width":115,"height":115},
-		{"id":"5f07549f6911f60c","type":"file","file":"Media/Mekboy Workshop.png","x":-846,"y":242,"width":115,"height":114},
-		{"id":"bd64eecce11b48af","type":"file","file":"Mekboy Workshop.md","x":-846,"y":356,"width":400,"height":197},
-		{"id":"22937f6706aa44b1","type":"file","file":"Media/Scrap 'Eap.png","x":615,"y":-96,"width":113,"height":114},
-		{"id":"89d552ed9f7d1d82","type":"file","file":"Scrap 'Eap.md","x":615,"y":18,"width":400,"height":190,"color":"4"},
-		{"id":"77cc20e806093c10","type":"text","text":"# Mekboy","x":200,"y":255,"width":250,"height":60},
-		{"id":"a098e26220c7186d","type":"text","text":"# Deffkoptas","x":455,"y":607,"width":199,"height":50},
-		{"id":"775b024075d1c971","type":"file","file":"Deff Dread.md","x":835,"y":607,"width":400,"height":196},
-		{"id":"5b2739496d661c49","type":"file","file":"Gunwagon.md","x":1147,"y":255,"width":400,"height":200},
 		{"id":"e8954a05452f843b","type":"file","file":"Media/Waaagh! Banner.png","x":2373,"y":128,"width":114,"height":114},
 		{"id":"761408ba80f95d12","type":"file","file":"Media/Cuvva.png","x":1868,"y":131,"width":114,"height":114},
 		{"id":"e51c0a5596d709e3","type":"file","file":"Waaagh! Banner.md","x":2373,"y":242,"width":400,"height":198},
@@ -44,12 +36,20 @@
 		{"id":"d2ab8e514d8d6fdd","type":"file","file":"Media/Gretchin.png","x":496,"y":-563,"width":149,"height":204},
 		{"id":"083a4b4e52562aca","type":"file","file":"Gretchin.md","x":645,"y":-563,"width":400,"height":203},
 		{"id":"f04384230cfd7c81","type":"file","file":"Media/Shoota Boyz.png","x":122,"y":-595,"width":118,"height":162},
-		{"id":"9e0b5b0e4be1513b","type":"file","file":"Media/Stormboyz.png","x":-1401,"y":-622,"width":148,"height":203},
+		{"id":"9e0b5b0e4be1513b","type":"file","file":"Media/Stormboyz.png","x":-1401,"y":-622,"width":148,"height":202},
 		{"id":"db133517d983ef5e","type":"file","file":"Stormboyz.md","x":-1253,"y":-622,"width":400,"height":203},
 		{"id":"ea79dd1d83c2f1e8","type":"file","file":"Media/Flash Gitz.png","x":-1253,"y":-259,"width":146,"height":199},
 		{"id":"5b8b669789372b9e","type":"file","file":"Flash Gitz.md","x":-1107,"y":-259,"width":400,"height":199},
 		{"id":"3ea32e661df030f5","type":"file","file":"Media/Meganobz.png","x":-639,"y":-259,"width":145,"height":199},
-		{"id":"ae2eaa584680e67c","type":"file","file":"Meganobz.md","x":-494,"y":-260,"width":400,"height":200}
+		{"id":"ae2eaa584680e67c","type":"file","file":"Meganobz.md","x":-494,"y":-260,"width":400,"height":200},
+		{"id":"bd64eecce11b48af","type":"file","file":"Mekboy Workshop.md","x":-820,"y":265,"width":400,"height":197},
+		{"id":"5f07549f6911f60c","type":"file","file":"Media/Mekboy Workshop.png","x":-820,"y":151,"width":115,"height":114},
+		{"id":"89d552ed9f7d1d82","type":"file","file":"Scrap 'Eap.md","x":589,"y":12,"width":400,"height":190,"color":"4"},
+		{"id":"22937f6706aa44b1","type":"file","file":"Media/Scrap 'Eap.png","x":589,"y":-102,"width":113,"height":114},
+		{"id":"5b2739496d661c49","type":"file","file":"Gunwagon.md","x":1130,"y":59,"width":400,"height":200},
+		{"id":"775b024075d1c971","type":"file","file":"Deff Dread.md","x":857,"y":456,"width":400,"height":196},
+		{"id":"77cc20e806093c10","type":"text","text":"# Mekboy","x":121,"y":125,"width":250,"height":60},
+		{"id":"a098e26220c7186d","type":"text","text":"# Deffkoptas","x":420,"y":431,"width":199,"height":50}
 	],
 	"edges":[
 		{"id":"911ece8d584d146d","fromNode":"98388bba835d31ca","fromSide":"bottom","toNode":"459cb1bf71d0b1d4","toSide":"top"},
@@ -69,9 +69,9 @@
 		{"id":"22ca35ebd8326a7a","fromNode":"9f6dad3507f9e124","fromSide":"right","toNode":"a89190ca324e2e3b","toSide":"left","label":"WAAAGH!"},
 		{"id":"5f7765db79e092ce","fromNode":"98388bba835d31ca","fromSide":"left","toNode":"178ce5b3590a91ed","toSide":"top"},
 		{"id":"f91270f6742a206a","fromNode":"98388bba835d31ca","fromSide":"right","toNode":"650413e0195852c7","toSide":"top"},
-		{"id":"a8d425ae82ced267","fromNode":"89d552ed9f7d1d82","fromSide":"right","toNode":"5b2739496d661c49","toSide":"top"},
+		{"id":"a8d425ae82ced267","fromNode":"89d552ed9f7d1d82","fromSide":"right","toNode":"5b2739496d661c49","toSide":"left"},
 		{"id":"0b5f3205b7181b73","fromNode":"89d552ed9f7d1d82","fromSide":"bottom","toNode":"775b024075d1c971","toSide":"top"},
 		{"id":"dbfddfb62f406a0a","fromNode":"89d552ed9f7d1d82","fromSide":"bottom","toNode":"a098e26220c7186d","toSide":"top"},
-		{"id":"08d5ca88eb7be068","fromNode":"89d552ed9f7d1d82","fromSide":"left","toNode":"77cc20e806093c10","toSide":"top"}
+		{"id":"08d5ca88eb7be068","fromNode":"89d552ed9f7d1d82","fromSide":"left","toNode":"77cc20e806093c10","toSide":"right"}
 	]
 }

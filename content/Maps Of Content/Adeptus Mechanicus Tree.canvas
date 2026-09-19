@@ -41,7 +41,7 @@
 		{"id":"a19f2fdbaee4cdbd","type":"file","file":"Media/Kastellan Robot Maniple.png","x":1022,"y":1806,"width":146,"height":200},
 		{"id":"8825c6187dbc32d1","type":"file","file":"Kastellan Robot Maniple.md","x":1168,"y":1806,"width":400,"height":200},
 		{"id":"5d17bb8eca63c824","type":"file","file":"Omnissian Cult.md","x":424,"y":1430,"width":400,"height":202,"color":"2"},
-		{"id":"6c9c2f7593fe81ae","x":-1288,"y":946,"width":144,"height":198,"type":"file","file":"Media/Sek-Ix-23.png"}
+		{"id":"6c9c2f7593fe81ae","type":"file","file":"Media/Sek-Ix-23.png","x":-1288,"y":946,"width":144,"height":198}
 	],
 	"edges":[
 		{"id":"9d6d48e96750b012","fromNode":"ef9b3815d80e43fb","fromSide":"bottom","toNode":"6f13eff622c633a2","toSide":"top"},

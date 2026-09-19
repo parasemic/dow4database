@@ -28,8 +28,7 @@ Produces Units:
 - [[Corpuscarii Electro-Priests]]
 - [[Kastellan Robot Maniple]]
 
-
-
+### Research
 > [!tip] Canticles of Battle
 > *Research*
 > Increases all damage dealt by units from Omnissian Cults.

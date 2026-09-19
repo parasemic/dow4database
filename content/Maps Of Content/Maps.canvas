@@ -21,7 +21,7 @@
 		{"id":"c2ef0476f025985a","type":"file","file":"Media/Pasted image 20260919140004.png","x":337,"y":617,"width":400,"height":206},
 		{"id":"085679c41fade06a","type":"text","text":"## ?? 4P","x":736,"y":617,"width":250,"height":60},
 		{"id":"af112e4482ccc53c","type":"file","file":"Media/Blighted Mire 2P.png","x":-520,"y":-427,"width":400,"height":397},
-		{"id":"37b14d59d0ac7ba6","x":-120,"y":-427,"width":250,"height":60,"type":"text","text":"## Blighted Mire 2P"},
+		{"id":"37b14d59d0ac7ba6","type":"text","text":"## Blighted Mire 2P","x":-120,"y":-427,"width":250,"height":60},
 		{"id":"6eb9e53768a7e68b","type":"file","file":"Media/Cinder's Pit 2P.png","x":-520,"y":58,"width":400,"height":398},
 		{"id":"c7e9ef7582a9ce00","type":"text","text":"## Cinder's Pit 2P","x":-120,"y":58,"width":250,"height":60},
 		{"id":"52304a1e55967f0a","type":"file","file":"Media/Reaper's Crossing 2P.png","x":-505,"y":526,"width":400,"height":262},
