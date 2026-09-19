@@ -10,7 +10,7 @@ tags:
 - Good versus infantry
 - Moderate durability
 ---
-**150** req | **15** pow | **28** req/min | **15** sec.
+**150** ![[req.png|20]] | **15** ![[pow.png|20]] | **28** ![[req.png|20]]/min | **15** sec.
 
 ---
 

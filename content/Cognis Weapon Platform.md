@@ -10,7 +10,7 @@ tags:
 - High fire rate
 - Strengthens the Noosphere Network
 ---
-Base Cost: **200** req | **20** pow | Build Time: **??.?** sec.
+Base Cost: **200** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
 
@@ -31,7 +31,7 @@ Base Cost: **200** req | **20** pow | Build Time: **??.?** sec.
 > - Good versus heavy armour
 > - High accuracy
 > - Moderate fire rate
->   Cost: **100** req | **10** pow |  Build Time: **15.0** sec.
+>   Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] |  Build Time: **15.0** sec.
 
 > [!example] Cognis Flamers
 > *Upgrade*

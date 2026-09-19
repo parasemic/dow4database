@@ -10,7 +10,7 @@ tags:
 - Deals area damage
 - High mobility
 ---
-**50** req | **25** pow | **20** req/min | **15.0** sec.
+**50** ![[req.png|20]] | **25** ![[pow.png|20]] | **20** ![[req.png|20]]/min | **15.0** sec.
 
 ---
 
