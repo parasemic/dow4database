@@ -6,7 +6,7 @@ $protectedFile = Join-Path $repoRoot ".sync\protected.txt"
 $tempDir = Join-Path ([System.IO.Path]::GetTempPath()) "dow4-author-sync"
 
 $remote = "artistrepo"
-$branch = "main"
+$branch = "master"
 $sourceRoot = "DoW4 august 2026"
 
 Write-Host "Fetching author's repository..."
