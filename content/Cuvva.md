@@ -10,6 +10,6 @@ tags:
 - Vulnerable to melee
 - Vulnerable to flanking
 ---
-Base Cost: **50** req | Build Time: **??.?** sec.
+Base Cost: **50** ![[req.png|20]] | Build Time: **??.?** sec.
 
 ---

@@ -1,24 +1,38 @@
 {
 	"nodes":[
 		{"id":"93edd794e740ecfc","type":"group","x":741,"y":-529,"width":2107,"height":1674,"color":"4","label":"Ork Research"},
-		{"id":"5c43269c51b90ccd","type":"file","file":"Media/Boyz Fort.png","x":761,"y":-204,"width":116,"height":117},
-		{"id":"1e0e058e9aba54ee","type":"file","file":"Boyz Fort.md","subpath":"#Research","x":761,"y":-87,"width":565,"height":1212},
-		{"id":"8d8a5ff314911996","type":"file","file":"Media/Beast Snagga Hut.png","x":1326,"y":-208,"width":120,"height":119},
 		{"id":"514064495bb1ed00","type":"file","file":"Mekboy Workshop.md","subpath":"#Research","x":2300,"y":-87,"width":528,"height":815},
 		{"id":"20aa1eabf79f7e3b","type":"file","file":"Media/Scrap 'Eap.png","x":1726,"y":-204,"width":116,"height":117},
 		{"id":"b0c1ce84d0a2c113","type":"file","file":"Scrap 'Eap.md","subpath":"#Research","x":1726,"y":-87,"width":574,"height":928},
 		{"id":"3fdbd31fc3d58ef2","type":"file","file":"Media/Mekboy Workshop.png","x":2300,"y":-204,"width":118,"height":117},
-		{"id":"db59207115a4f9ed","type":"file","file":"Omnissian Cult.md","subpath":"#Research","x":2999,"y":-87,"width":622,"height":1170,"color":"2"},
-		{"id":"bff92638a5912395","type":"file","file":"Media/Omnissian Cult.png","x":2999,"y":-204,"width":116,"height":117},
-		{"id":"2f02c1d15298f28f","type":"text","text":"# Admech\n\n[[Omnissian Cult#Research]]","x":3166,"y":-504,"width":289,"height":213,"color":"2"},
+		{"id":"8975a9d764f4dc44","type":"file","file":"Dominus Forgeshrine.md","subpath":"#Research","x":2930,"y":-87,"width":525,"height":1298,"color":"2"},
+		{"id":"127c0886a14fe4b4","type":"file","file":"Media/Dominus Forgeshrine.png","x":2930,"y":-204,"width":119,"height":117},
+		{"id":"08719de5091f9e1c","type":"file","file":"Tomb Citadel.md","subpath":"#Research","x":752,"y":1591,"width":476,"height":862,"color":"5"},
+		{"id":"d9c3d453241270c5","type":"file","file":"Canoptek Foundry.md","subpath":"#Research","x":1228,"y":1591,"width":597,"height":619,"color":"5"},
+		{"id":"34a5e3ed4cc4ea3d","type":"file","file":"Destroyer Crypt.md","subpath":"#Research","x":1825,"y":1591,"width":574,"height":526,"color":"5"},
+		{"id":"79f2fa5c712a70a1","type":"file","file":"Resurrection Gallery.md","x":2399,"y":1591,"width":400,"height":346,"color":"5"},
+		{"id":"bff92638a5912395","type":"file","file":"Media/Omnissian Cult.png","x":3455,"y":-204,"width":116,"height":117},
+		{"id":"db59207115a4f9ed","type":"file","file":"Omnissian Cult.md","subpath":"#Research","x":3455,"y":-87,"width":622,"height":1170,"color":"2"},
+		{"id":"3a47cf87c3bab1a6","type":"text","text":"# Admech\n[[Dominus Forgeshrine#Research]]\n[[Omnissian Cult#Research]]","x":3513,"y":-504,"width":335,"height":153,"color":"2"},
+		{"id":"9f423d0dbc1859ca","type":"text","text":"# Orksies\n\n[[Boyz Fort#Research]]\n[[Beast Snagga Hut#Research]]\n[[Scrap 'Eap#Research]]\n[[Mekboy Workshop#Research]]\n","x":1616,"y":-504,"width":337,"height":174},
+		{"id":"af828ad79f12eda2","type":"text","text":"","x":4077,"y":-87,"width":250,"height":60},
 		{"id":"930adebc0b6930de","type":"file","file":"Beast Snagga Hut.md","subpath":"#Research","x":1326,"y":-89,"width":400,"height":1070},
-		{"id":"9f423d0dbc1859ca","type":"text","text":"# Orksies\n\n[[Boyz Fort#Research]]\n[[Beast Snagga Hut#Research]]\n[[Scrap 'Eap#Research]]\n[[Mekboy Workshop#Research]]\n","x":1616,"y":-504,"width":337,"height":174}
+		{"id":"8d8a5ff314911996","type":"file","file":"Media/Beast Snagga Hut.png","x":1326,"y":-208,"width":120,"height":119},
+		{"id":"1e0e058e9aba54ee","type":"file","file":"Boyz Fort.md","subpath":"#Research","x":761,"y":-87,"width":565,"height":1212},
+		{"id":"5c43269c51b90ccd","type":"file","file":"Media/Boyz Fort.png","x":761,"y":-204,"width":116,"height":117},
+		{"id":"16f0ed0b4975f4b1","x":1577,"y":1211,"width":415,"height":199,"color":"5","type":"text","text":"# Necron\n[[Tomb Citadel#Research]]\n[[Canoptek Foundry#Research]]\n[[Destroyer Crypt#Research]]\n[[Resurrection Gallery]]"}
 	],
 	"edges":[
 		{"id":"f5945dc0f03aee11","fromNode":"9f423d0dbc1859ca","fromSide":"bottom","toNode":"b0c1ce84d0a2c113","toSide":"top"},
 		{"id":"8d9a1d8b8f98f0c4","fromNode":"9f423d0dbc1859ca","fromSide":"bottom","toNode":"930adebc0b6930de","toSide":"top"},
 		{"id":"92616be8f2989374","fromNode":"9f423d0dbc1859ca","fromSide":"left","toNode":"1e0e058e9aba54ee","toSide":"top"},
 		{"id":"69a480718e86822b","fromNode":"9f423d0dbc1859ca","fromSide":"right","toNode":"514064495bb1ed00","toSide":"top"},
-		{"id":"b1ce05b069c72eea","fromNode":"2f02c1d15298f28f","fromSide":"bottom","toNode":"db59207115a4f9ed","toSide":"top"}
+		{"id":"fc1a30ec23ced066","fromNode":"3a47cf87c3bab1a6","fromSide":"bottom","toNode":"8975a9d764f4dc44","toSide":"top"},
+		{"id":"8479e58fd6098cee","fromNode":"3a47cf87c3bab1a6","fromSide":"bottom","toNode":"db59207115a4f9ed","toSide":"top"},
+		{"id":"3580796b2cfa6ae8","fromNode":"3a47cf87c3bab1a6","fromSide":"bottom","toNode":"af828ad79f12eda2","toSide":"top"},
+		{"id":"2775a4abad050ca6","fromNode":"16f0ed0b4975f4b1","fromSide":"bottom","toNode":"08719de5091f9e1c","toSide":"top"},
+		{"id":"f907728ad9db91ca","fromNode":"16f0ed0b4975f4b1","fromSide":"bottom","toNode":"d9c3d453241270c5","toSide":"top"},
+		{"id":"4f558eba27d3c598","fromNode":"16f0ed0b4975f4b1","fromSide":"bottom","toNode":"34a5e3ed4cc4ea3d","toSide":"top"},
+		{"id":"a607d11ddb820474","fromNode":"16f0ed0b4975f4b1","fromSide":"bottom","toNode":"79f2fa5c712a70a1","toSide":"top"}
 	]
 }

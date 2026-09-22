@@ -11,7 +11,7 @@ tags:
 - Can perform repairs
 - Can attach to Kastelan Robots
 ---
-Base Cost: **90** req | Supply Cost: **7** req/min | Build Time: **10.0** sec.
+Base Cost: **90** ![[req.png|20]] | Supply Cost: **7** ![[req.png|20]]/min | Build Time: **10.0** sec.
 
 ---
 

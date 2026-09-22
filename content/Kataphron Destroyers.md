@@ -10,7 +10,7 @@ tags:
 - Good versus all targets
 - High durability
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **21** req/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **??.?** sec.
 *cost 133/11 at NS VI*
 
 ---

@@ -10,7 +10,7 @@ tags:
 - Good versus all targets
 - High durability
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **21** req/min | Build Time: **25.0** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **25.0** sec.
 
 ---
 
@@ -35,16 +35,16 @@ Base Cost: **??** req | **??** pow | Supply Cost: **21** req/min | Build Time: *
 > - Increases all damage dealt
 > - Increases weapon range
 >
-> Cost: **25** req | Build Time: **5.0** sec.
+> Cost: **25** ![[req.png|20]] | Build Time: **5.0** sec.
 
 > [!tip] Force Augmentation I
 > *Upgrade*
 > Adds 1 more member to this unit.
 > Requires research: Battle Servitor Production
-> Cost: **70** req | Build Time: **10.0** sec.
+> Cost: **70** ![[req.png|20]] | Build Time: **10.0** sec.
 
 > [!tip] Force Augmentation II
 > *Upgrade*
 > Adds 2 more members to this unit.
 > Requires research: 
-> Cost: **??** req | Build Time: **??** sec.
+> Cost: **??** ![[req.png|20]] | Build Time: **??** sec.

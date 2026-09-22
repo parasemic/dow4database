@@ -11,7 +11,7 @@ tags:
 - Armed with Big Shootas
 - Armed with a Kustom Mega-blasta
 ---
-Base Cost: **150** req | **35** pow | Build Time: **??.?** sec.
+Base Cost: **150** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
 

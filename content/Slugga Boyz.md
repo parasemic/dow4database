@@ -10,7 +10,7 @@ tags:
 - Low durability
 - Free at maximum [[Waaagh!]]
 ---
-Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
+Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **15.0** sec.
 
 ---
 
@@ -35,7 +35,7 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > - Upgrades weaponry for a member
 > - Good versus infantry
 > - Negates cover and garrisons
-> **30** req | Build Time: **10.0** sec.
+> **30** ![[req.png|20]] | Build Time: **10.0** sec.
 > **+2** AP
 >
 > | *Armour Effectiveness* |  10/10  | per model ? |
@@ -51,7 +51,7 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > - Increases all damage dealt
 > - Grants ability: **Throw Stikkbomb**
 > *Requires Veterancy Level 1*
-> **10** req | **5** pow | Build Time: **10.0** sec.
+> **10** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **10.0** sec.
 > 
 > > [!danger] Throw Stikkbomb
 > > *Active Ability*
@@ -62,4 +62,4 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > *Equipment*
 > Adds 5 more members to this unit.
 > *Requires Veterancy Level 3*
-> Cost: **50** req | Build Time: **10.0** sec.
+> Cost: **50** ![[req.png|20]] | Build Time: **10.0** sec.

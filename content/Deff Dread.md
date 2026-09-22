@@ -11,7 +11,7 @@ tags:
 - Moderate durability
 
 ---
-Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: **20.0** sec.
+Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
 
 ---
 
@@ -24,7 +24,7 @@ Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: 
 |                       |     |     |
 
 ---
-> [!abstract]- Wargear
+> [!abstract] Wargear
 >> [!abstract] **Killsaws**
 >>
 >>*Equipment*
@@ -32,7 +32,7 @@ Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: 
 >> - Good versus all targets
 >> - Cannot engage at range
 >>   
->> Cost: **90** req | Build Time: **20.0** sec.
+>> Cost: **90** ![[req.png|20]] | Build Time: **20.0** sec.
 >
 >> [!abstract] **Skorchas**
 >>
@@ -41,7 +41,7 @@ Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: 
 >> - Deals area damage
 >> - Negates cover and garissons
 >>   
->> Cost: **60** req | Build Time: **20.0** sec.
+>> Cost: **60** ![[req.png|20]] | Build Time: **20.0** sec.
 >> 
 >> | *Armour Effectiveness* |         |
 >| ---------------------- | ------- |
@@ -57,7 +57,7 @@ Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: 
 >> - Deals area damage
 >> - Low accuracy
 >>   
->>Cost: **50** req | **20** pow | Build Time: **20.0** sec.
+>>Cost: **50** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **20.0** sec.
 >> 
 >> | *Armour Effectiveness* |         |
 >> | ---------------------- | ------- |
@@ -73,7 +73,7 @@ Base Cost: **430** req | **45** pow | Supply Cost: **52** req/min | Build Time: 
 >> - Good versus all targets
 >> - Low accuracy
 >> 
->> Cost: **90** req | **10** pow | Build Time: **20.0** sec.
+>> Cost: **90** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **20.0** sec.
 >> 
 >> | *Armour Effectiveness* |         |
 >> | ---------------------- | ------- |

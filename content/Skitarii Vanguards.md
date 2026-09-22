@@ -11,7 +11,7 @@ tags:
 - High Mobility
 - Attacks reduce [[Armour]]
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 
 ---
 
@@ -30,18 +30,18 @@ Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: *
 > - Good versus all targets
 >
 > *Requires Network Strength IV*
-> Cost: **20** req | Build Time: **5.0** sec.
+> Cost: **20** ![[req.png|20]] | Build Time: **5.0** sec.
 
 > [!tip] Force Augmentation I
 > *Equipment*
 > Adds 5 more members to this unit.
 >
 > *Requires research: Battle Maniple Mobilisation*
-> Cost: **70** req | Build Time: **10.0** sec.
+> Cost: **70** ![[req.png|20]] | Build Time: **10.0** sec.
 
 > [!tip] Force Augmentation II
 > *Equipment*
 > Adds 5 more members to this unit.
 >
 > *Requires research: *
-> Cost: **??** req | Build Time: **??.0** sec.
+> Cost: **??** ![[req.png|20]] | Build Time: **??.0** sec.

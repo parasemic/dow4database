@@ -10,7 +10,7 @@ tags:
 - Excels versus vehicles
 - Ineffective in melee
 ---
-**250** req | **25** pow | **36** req/min | **20.0** sec.
+**250** ![[req.png|20]] | **25** ![[pow.png|20]] | **36** req/min | **20.0** sec.
 
 ---
 

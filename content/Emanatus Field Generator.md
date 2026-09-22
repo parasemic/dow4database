@@ -10,6 +10,6 @@ tags:
 - Vulnerable to melee
 - Strengthens the Noosphere Network
 ---
-Base Cost: **45** req | **10** pow | Build Time: **??.?** sec.
+Base Cost: **45** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---

@@ -11,7 +11,7 @@ tags:
 - Effective at range
 - Empowers friendly units
 ---
-Base Cost: **370** req | **30** pow | Supply Cost: **30** req/min | Build Time: **30.0** sec.
+Base Cost: **370** ![[req.png|20]] | **30** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **30.0** sec.
 
 ---
 

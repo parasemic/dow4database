@@ -11,7 +11,7 @@ tags:
 - Produces Commanders
 - Has mounted weapons
 ---
-Base Cost: **300** req | **20** pow | Build Time: **??.?** sec.
+Base Cost: **300** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
 **WAA**
 
 ---

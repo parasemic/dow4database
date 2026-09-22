@@ -10,7 +10,7 @@ tags:
 - Deals area damage
 - High durability
 ---
-Base Cost: **400** req | **35** pow | Build Time: **??.?** sec.
+Base Cost: **400** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?** sec.
 **WA**
 
 ---

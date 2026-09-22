@@ -10,7 +10,7 @@ tags:
 - High mobility
 - Good versus infantry
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 
 ---
 
@@ -34,7 +34,7 @@ Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: *
 > - High fire rate
 > - Ineffective versus vehicles
 >
-> Cost: **??** req | Build Time: **15.0** sec.
+> Cost: **??** ![[req.png|20]] | Build Time: **15.0** sec.
 
 > [!example] Twin Cognis Lascannon
 > *Equipment*
@@ -42,7 +42,7 @@ Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: *
 > - Low fire rate
 > - Ineffective versus infantry
 >
-> Cost: **80** req | **15** pow | Build Time: **15.0** sec.
+> Cost: **80** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **15.0** sec.
 > 
 | *Armour Effectiveness* |  +2 AP   |
 | ---------------------- | --- |

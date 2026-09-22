@@ -11,7 +11,7 @@ tags:
 - Provides research
 - Armed with a Big Shoota
 ---
-Base Cost: **100** req | **5** pow | Build Time: **??.?** sec.
+Base Cost: **100** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
 

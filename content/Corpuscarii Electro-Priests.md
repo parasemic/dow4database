@@ -10,7 +10,7 @@ tags:
 - Deals area damage
 - Attacks reduce [[Armour]]
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **19** req/min | Build Time: **25.0** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **19** ![[req.png|20]]/min | Build Time: **25.0** sec.
 *Requires Network Strength IV*
 
 ---

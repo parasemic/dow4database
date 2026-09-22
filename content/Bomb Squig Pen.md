@@ -10,6 +10,6 @@ tags:
 - Good versus vehicles
 - Long recharge time
 ---
-Base Cost: **200** req | **32** pow | Build Time: **??.?** sec.
+Base Cost: **200** ![[req.png|20]] | **32** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---

@@ -27,18 +27,21 @@ Produces units:
 - [[Canoptek Wraiths]]
 - [[Canoptek Doomstalker]]
 ---
-#### Unyielding Armament
+#### Research
+> [!tip] Unyielding Armament
 *Research*
 Increases HP regain rate while out of combat for the following units:
-- Canoptek Spyder
-- [[Triarch Stalker]]
-- Canoptek Doomstalker
-- [[Monolith]]
-*Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
-150.0 sec.
-#### Accelerated Awakening
-*Research*
-Reduces production time for units from Canoptek Foundries.
-*Requires structure: Tomb Citadel II*
-=> Production time: **-25%**
-150.0 sec.
+> - Canoptek Spyder
+> - [[Triarch Stalker]]
+> - Canoptek Doomstalker
+> - [[Monolith]]
+>
+> *Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
+> 150.0 sec.
+
+> [!tip] Accelerated Awakening
+> *Research*
+> Reduces production time for units from Canoptek Foundries.
+> *Requires structure: Tomb Citadel II*
+> => Production time: **-25%**
+> 150.0 sec.

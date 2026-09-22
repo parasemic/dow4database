@@ -11,9 +11,12 @@ tags:
 - Provides research
 - Strengthens the Noosphere Network
 ---
-Base Cost: **85** req | Build Time: **??.?** sec.
+Base Cost: **85** ![[req.png|20]] | Build Time: **??.?** sec.
 *Requires Network Strength 0*
 
 ---
 Produces Units:
 - [[Skitarii Vanguards]]
+- [[Skitarii Rangers]]
+- [[Sicarian Ruststalkers]]
+- [[Ironstrider Ballistarius]]

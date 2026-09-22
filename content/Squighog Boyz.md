@@ -10,7 +10,7 @@ tags:
 - High mobility
 - Can throw Explosives
 ---
-Base Cost: **250** req | **20** pow | Supply Cost: **30** req/min | Build Time: **20.0** sec.
+Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **20.0** sec.
 
 ---
 

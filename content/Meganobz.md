@@ -10,7 +10,7 @@ tags:
 - Good versus all targets
 - High durability
 ---
-**350** req | **40** pow | **46** req/min | **25.0** sec.
+**350** ![[req.png|20]] | **40** ![[pow.png|20]] | **46** ![[req.png|20]]/min | **25.0** sec.
 
 ---
 
@@ -37,7 +37,7 @@ tags:
 >> - Good versus infantry
 >> - Negates cover and garrisons
 >>+1 AP
->> Cost: **50** req | Build Time: **15.0** sec.
+>> Cost: **50** ![[req.png|20]] | Build Time: **15.0** sec.
 >
 >> [!abstract] **Kombi-Rokkit Launcha**
 >>
@@ -46,7 +46,7 @@ tags:
 >> - Good versus vehicles
 >> - Deals area damage
 >>   
->> Cost: **60** req | **3** pow | Build Time: **15.0** sec.
+>> Cost: **60** ![[req.png|20]] | **3** ![[pow.png|20]] | Build Time: **15.0** sec.
 >> 
 >> | *Armour Effectiveness* |         |
 >| ---------------------- | ------- |

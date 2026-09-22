@@ -10,7 +10,7 @@ tags:
 - Low durability
 - Free at maximum [[Waaagh!]]
 ---
-Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
+Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **15.0** sec.
 
 ---
 
@@ -36,7 +36,7 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > - Upgrades weaponry for member
 > - Increases ranged damage dealt
 > - High fire rate
-> Cost: **30** req | Build Time: **10.0** sec.
+> Cost: **30** ![[req.png|20]] | Build Time: **10.0** sec.
 
 
 > [!tip] Upgrade
@@ -45,7 +45,7 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > - Adds a member to this unit
 > - Increases all damage dealt
 > - Grants ability: *Throw Stikkbomb*
-> Cost: **10** req | **5** pow | Build Time: **10.0** sec.
+> Cost: **10** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **10.0** sec.
 >   > [!danger] Throw Stikkbomb
 >   > *kaboom*
 
@@ -53,7 +53,7 @@ Base Cost: **160** req | **28** req/min | Build Time: **15.0** sec.
 > Mobbin' Up I
 > *Equipment*
 > Adds 5 more members to this unit.
-> Cost: **50** req | Build Time: **10.0** sec.
+> Cost: **50** ![[req.png|20]] | Build Time: **10.0** sec.
 > *Requires Veterancy Level 3*
 
 ![[Pasted image 20260916202846.png]]

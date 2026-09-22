@@ -11,7 +11,7 @@ tags:
 - Good versus infantry
 - Low mobility
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **??** req/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 
 ---
 

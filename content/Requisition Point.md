@@ -9,4 +9,4 @@ tags:
 - Can be captured by infantry
 - Upgrade to prevent enemy capture
 ---
-Provides **+65** req/min income when held.
+Provides **+65** ![[req.png|20]]/min income when held.

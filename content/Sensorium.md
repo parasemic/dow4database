@@ -9,7 +9,7 @@ tags:
 Prevents enemy capture and increases Requisition gain. Strengthens the Noosphere Network.
 
 ---
-Base Cost: **370** req | **30** pow | Build Time: **??.?** sec.
+Base Cost: **370** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
 

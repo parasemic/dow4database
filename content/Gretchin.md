@@ -11,7 +11,7 @@ tags:
 - Ineffective in combat
 -  Very low durability
 ---
-Base Cost: **50** req | Supply Cost: **2** req/min | Build Time: **10.0** sec.
+Base Cost: **50** ![[req.png|20]] | Supply Cost: **2** ![[req.png|20]]/min | Build Time: **10.0** sec.
 
 ---
 ![[Gretchin.png]]

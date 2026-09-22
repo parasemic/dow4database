@@ -11,7 +11,7 @@ tags:
 - Provides research
 - Armour with a Big Shoota
 ---
-Base Cost: **150** req | Build Time: **??.?** sec.
+Base Cost: **150** ![[req.png|20]] | Build Time: **??.?** sec.
 
 ---
 

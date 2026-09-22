@@ -11,7 +11,7 @@ tags:
 - Very high durability
 - Cannot engage in melee
 ---
-Base Cost: **??** req | **??** pow | Supply Cost: **23** req/min | Build Time: **40.0** sec.
+Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **23** ![[req.png|20]]/min | Build Time: **40.0** sec.
 *Requires Network Strength V*
 
 ---

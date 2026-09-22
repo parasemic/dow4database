@@ -10,6 +10,6 @@ tags:
 - Armed with a Big Shoota
 - Low durability
 ---
-Base Cost: **70** req | Build Time: **??.?** sec.
+Base Cost: **70** ![[req.png|20]] | Build Time: **??.?** sec.
 
 ---

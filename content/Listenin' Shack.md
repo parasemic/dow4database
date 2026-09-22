@@ -11,7 +11,7 @@ tags:
 - Prevents enemy capture
 - Armed with a Big Shoota
 ---
-Base Cost: **100** req | **10** pow | Build Time: **??.?** sec.
+Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
 **+65** req/min income
@@ -24,7 +24,7 @@ Base Cost: **100** req | **10** pow | Build Time: **??.?** sec.
 #### Listenin' Shack II
 *Upgrade*
 Adds a Rokkit Launcha and increases Requisition gain.
-**200** req | **10** pow | Build Time: **45.0** sec.
+**200** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **45.0** sec.
 **WA**
 
 ## Listenin' Shack II
@@ -32,10 +32,10 @@ Adds a Rokkit Launcha and increases Requisition gain.
 - Provides Requisition
 - Prevents enemy capture
 - Armed with a Rokkit Launcha
-=> **+65** req/min (130)
+=> **+65** ![[req.png|20]]/min (130)
 
 5000hp
 #### Listenin' Shack III
 *Upgrade*
 Adds a Kustom Mega-Kannon and increases Requisition gain.
-**300** req | **30** pow | Build Time: **45.0** sec.
+**300** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **45.0** sec.

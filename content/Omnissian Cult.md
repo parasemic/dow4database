@@ -11,7 +11,7 @@ tags:
 - Provides research
 - Strengthens the Noosphere Network (+3)
 ---
-Base Cost: **120** req | **10** pow | Build Time: **??.?** sec.
+Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 *Requires Network Strength 0*
 
 ---
