@@ -22,6 +22,11 @@
 - [[Skitarii Rangers]]
 - [[Skitarii Marshal]]
 - [[Skitarii Vanguards]]
+## Spess 'muhreens
+[[Chief Librarian]]
+[[Infiltrator Squad]]
+[[Intercessor Squad]]
+[[Assault Intercessor Squad]]
 
 ---
 
@@ -38,6 +43,9 @@
 ## Adeptus Mechanicus
 - [[Kataphron Breachers]]
 - [[Kataphron Destroyers]]
+## Spess 'muhreens
+- [[Eradicator squad]]
+- [[Outrider Squad]]
 
 ---
 
@@ -53,6 +61,8 @@
 ## Adeptus Mechanicus
 - [[Ironstrider Ballistarius]]
 - [[Kastellan Robot Maniple]]
+## Spess 'muhreens
+- [[Invictor Tactical Warsuit]]
 
 ---
 
@@ -85,3 +95,13 @@
 - [[Void Shield Generator]]
 - [[War Cohort Altar]]
 - [[War Cohort Armoury]]
+## Spess 'muhreens
+- [[Chapter Keep]]
+- [[Chapel Barracks]]
+- [[Sanctum]]
+- [[Armoury]]
+- [[Strategium]]
+- [[Auspex Shrine]]
+- [[Tarantula Turret]]
+- [[Hammerfall Bunker]]
+- [[Thunderhawk Relay]]

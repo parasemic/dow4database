@@ -43,5 +43,5 @@ Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??**
 > *Equipment*
 > Adds 5 more members to this unit.
 >
-> *Requires research: *
-> Cost: **??** ![[req.png|20]] | Build Time: **??.0** sec.
+> *Requires research: Greater Battle Maniple Mobilisation *
+> Cost: **70** ![[req.png|20]] | Build Time: **10.0** sec.

@@ -9,9 +9,6 @@
 		{"id":"a895bf9b2afecb3f","type":"file","file":"Chronomancer.md","x":-1465,"y":-366,"width":400,"height":201},
 		{"id":"bf86150213c57af2","type":"file","file":"Triarch Stalker.md","x":-1387,"y":266,"width":400,"height":187},
 		{"id":"fba688823fad4e26","type":"file","file":"Necron Warriors.md","x":-1465,"y":-37,"width":400,"height":206},
-		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":1573,"y":-454,"width":400,"height":188,"color":"5"},
-		{"id":"ca9ff70326a6afc2","type":"file","file":"Skorpekh Destroyers.md","x":1342,"y":-113,"width":400,"height":187},
-		{"id":"7fe0602dca2cc813","type":"file","file":"Lokhust Heavy Destroyer.md","x":1835,"y":-113,"width":400,"height":187},
 		{"id":"51a6b62d4d7b2fb9","type":"file","file":"Deathmarks.md","x":-1387,"y":557,"width":400,"height":199},
 		{"id":"adb6b744f29ada39","type":"file","file":"Lychguards.md","x":-677,"y":861,"width":400,"height":191},
 		{"id":"76cefa8e9734c5e0","type":"file","file":"Immortals.md","x":-1265,"y":861,"width":400,"height":194},
@@ -27,7 +24,10 @@
 		{"id":"60073b29b81c0a0d","type":"file","file":"Canoptek Spyder.md","x":166,"y":-33,"width":400,"height":197},
 		{"id":"3d499baeaad2e94f","type":"text","text":"# Tomb Pylon","x":241,"y":324,"width":250,"height":60},
 		{"id":"7d18a18f8db8051a","type":"text","text":"# [[_Main Page.canvas|Main Page]]","x":-1270,"y":-959,"width":183,"height":60},
-		{"id":"c7630960e538fffe","x":-835,"y":-454,"width":399,"height":192,"color":"5","type":"file","file":"Tomb Citadel.md"}
+		{"id":"c7630960e538fffe","type":"file","file":"Tomb Citadel.md","x":-835,"y":-454,"width":399,"height":192,"color":"5"},
+		{"id":"ca9ff70326a6afc2","type":"file","file":"Skorpekh Destroyers.md","x":166,"y":998,"width":400,"height":187},
+		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":397,"y":657,"width":400,"height":188,"color":"5"},
+		{"id":"7fe0602dca2cc813","type":"file","file":"Lokhust Heavy Destroyer.md","x":659,"y":998,"width":400,"height":187}
 	],
 	"edges":[
 		{"id":"5e4c48f38117d36a","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"ea8c7b3374e5ad32","toSide":"left"},

@@ -5,8 +5,6 @@
 		{"id":"b6bc98d82c4d607d","type":"file","file":"Dominus Forgeshrine.md","x":-646,"y":388,"width":400,"height":205,"color":"2"},
 		{"id":"ef9b3815d80e43fb","type":"file","file":"War Cohort Altar.md","x":400,"y":388,"width":400,"height":205,"color":"2"},
 		{"id":"888fe0a5b067716a","type":"file","file":"Skitarii Marshal.md","x":-1144,"y":946,"width":400,"height":198},
-		{"id":"737f854ef5f78d7d","type":"file","file":"Skitarii Rangers.md","x":663,"y":807,"width":400,"height":200},
-		{"id":"6f13eff622c633a2","type":"file","file":"Skitarii Vanguards.md","x":174,"y":807,"width":400,"height":200},
 		{"id":"9048c8ce5aac1ecf","type":"file","file":"Cybernetica Datasmith.md","x":-478,"y":1007,"width":400,"height":202},
 		{"id":"bbdc5052a95fdf68","type":"file","file":"Media/Rapid Fortification Assembly.png","x":627,"y":-146,"width":104,"height":102},
 		{"id":"acc77f62ec3027fe","type":"file","file":"Rapid Fortification Assembly.md","x":627,"y":-39,"width":400,"height":201},
@@ -41,7 +39,11 @@
 		{"id":"a19f2fdbaee4cdbd","type":"file","file":"Media/Kastellan Robot Maniple.png","x":1022,"y":1806,"width":146,"height":200},
 		{"id":"8825c6187dbc32d1","type":"file","file":"Kastellan Robot Maniple.md","x":1168,"y":1806,"width":400,"height":200},
 		{"id":"5d17bb8eca63c824","type":"file","file":"Omnissian Cult.md","x":424,"y":1430,"width":400,"height":202,"color":"2"},
-		{"id":"6c9c2f7593fe81ae","type":"file","file":"Media/Sek-Ix-23.png","x":-1288,"y":946,"width":144,"height":198}
+		{"id":"6c9c2f7593fe81ae","type":"file","file":"Media/Sek-Ix-23.png","x":-1288,"y":946,"width":144,"height":198},
+		{"id":"d013770561e9b076","type":"file","file":"Ironstrider Ballistarius.md","x":1065,"y":687,"width":400,"height":200},
+		{"id":"6f13eff622c633a2","type":"file","file":"Skitarii Vanguards.md","x":-108,"y":687,"width":400,"height":200},
+		{"id":"737f854ef5f78d7d","type":"file","file":"Skitarii Rangers.md","x":200,"y":941,"width":400,"height":200},
+		{"id":"dc4ac0ab689296e7","type":"file","file":"Sicarian Ruststalkers.md","x":695,"y":941,"width":400,"height":200}
 	],
 	"edges":[
 		{"id":"9d6d48e96750b012","fromNode":"ef9b3815d80e43fb","fromSide":"bottom","toNode":"6f13eff622c633a2","toSide":"top"},
@@ -56,6 +58,8 @@
 		{"id":"a5a938da0f79cdbd","fromNode":"3ba08ea8d79eb0aa","fromSide":"bottom","toNode":"d73e589d32892e2f","toSide":"top"},
 		{"id":"8cb32eefc7255c12","fromNode":"3ba08ea8d79eb0aa","fromSide":"left","toNode":"acc77f62ec3027fe","toSide":"top"},
 		{"id":"b90cf96385b73437","fromNode":"3ba08ea8d79eb0aa","fromSide":"right","toNode":"ffc2be63c9b5bf3c","toSide":"top"},
-		{"id":"4b5cc314003d83ad","fromNode":"3ba08ea8d79eb0aa","fromSide":"right","toNode":"2cc0873f3decd310","toSide":"top"}
+		{"id":"4b5cc314003d83ad","fromNode":"3ba08ea8d79eb0aa","fromSide":"right","toNode":"2cc0873f3decd310","toSide":"top"},
+		{"id":"9ca04fce18e7d230","fromNode":"ef9b3815d80e43fb","fromSide":"bottom","toNode":"dc4ac0ab689296e7","toSide":"top"},
+		{"id":"e21cfa4a9f3c3804","fromNode":"ef9b3815d80e43fb","fromSide":"bottom","toNode":"d013770561e9b076","toSide":"top"}
 	]
 }
