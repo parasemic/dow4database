@@ -5,6 +5,7 @@ tags:
   - "#Canoptek"
   - Research
   - Necron
+dg-publish: true
 ---
 # [[Canoptek Foundry]]
 *Production Structure*

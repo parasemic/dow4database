@@ -3,8 +3,9 @@ tags:
   - SM
   - Light
   - Unit
+dg-publish: true
 ---
-  # Intercessor Squad
+  # [[Intercessor Squad]]
 *All-Purpose Infantry*
 - Effective at range
 - Good versus infantry

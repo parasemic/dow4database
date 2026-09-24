@@ -3,8 +3,9 @@ tags:
   - SM
   - Fortification
   - Structure
+dg-publish: true
 ---
-# Tarantula Turret
+# [[Tarantula Turret]]
 *Fortification*
 - Good versus infantry
 - High fire rate

@@ -4,6 +4,7 @@ tags:
   - Production
   - Structure
   - Research
+dg-publish: true
 ---
 # [[War Cohort Altar]]
 *Production Structure*
@@ -20,3 +21,5 @@ Produces Units:
 - [[Skitarii Rangers]]
 - [[Sicarian Ruststalkers]]
 - [[Ironstrider Ballistarius]]
+
+#### Research

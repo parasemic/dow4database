@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Fortification
   - Unit
+dg-publish: true
 ---
 # [[Drop Keep]]
 *Fortification*

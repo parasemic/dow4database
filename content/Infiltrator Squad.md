@@ -3,8 +3,9 @@ tags:
   - SM
   - Unit
   - Light
+dg-publish: true
 ---
-# Infiltrator Squad
+# [[Infiltrator Squad]]
 *Light Infantry*
 - Effective at range
 - High mobility

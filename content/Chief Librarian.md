@@ -4,8 +4,9 @@ tags:
   - Commander
   - Unit
   - Light
+dg-publish: true
 ---
-# Chief Librarian
+# [[Chief Librarian]]
 *Commander*
 - Powerful psyker
 - Effective in melee

@@ -3,6 +3,7 @@ tags:
   - Necron
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Necron Warriors]]
 *All-Purpose Infantry*

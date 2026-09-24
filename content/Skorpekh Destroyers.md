@@ -4,6 +4,7 @@ tags:
   - Heavy
   - Unit
   - Destroyer
+dg-publish: true
 ---
 # [[Skorpekh Destroyers]]
 *Melee Infantry*

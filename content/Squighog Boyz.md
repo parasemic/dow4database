@@ -3,6 +3,7 @@ tags:
   - Ork
   - Heavy
   - Unit
+dg-publish: true
 ---
 # [[Squighog Boyz]]
 *Melee Infantry*

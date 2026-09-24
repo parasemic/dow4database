@@ -2,6 +2,7 @@
 tags:
   - Neutral
   - Resource
+dg-publish: true
 ---
 # Power Node
 *Resource Point*

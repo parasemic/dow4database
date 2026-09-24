@@ -3,6 +3,7 @@ tags:
   - Ork
   - Vehicle
   - Unit
+dg-publish: true
 ---
 # [[Gunwagon]]
 *All-Purpose Vehicles*

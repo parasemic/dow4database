@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # [[Command Points]]
 Used for activating Stratagems.
 

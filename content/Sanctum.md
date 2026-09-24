@@ -3,8 +3,9 @@ tags:
   - SM
   - Production
   - Structure
+dg-publish: true
 ---
-# Sanctum
+# [[Sanctum]]
 *Production Structure*
 - Produces veteran units
 - Provides research

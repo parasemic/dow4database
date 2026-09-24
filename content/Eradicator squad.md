@@ -3,8 +3,9 @@ tags:
   - SM
   - Heavy
   - Unit
+dg-publish: true
 ---
-# Eradicator Squad
+# [[Eradicator Squad]]
 *Anti-Armour Infantry*
 - Effective at range
 - Excels versus heavy armour

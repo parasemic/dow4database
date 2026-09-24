@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Light.png]]
 
 ## Ork
@@ -23,10 +26,10 @@
 - [[Skitarii Marshal]]
 - [[Skitarii Vanguards]]
 ## Spess 'muhreens
-[[Chief Librarian]]
-[[Infiltrator Squad]]
-[[Intercessor Squad]]
-[[Assault Intercessor Squad]]
+- [[Chief Librarian]]
+- [[Infiltrator Squad]]
+- [[Intercessor Squad]]
+- [[Assault Intercessor Squad]]
 
 ---
 

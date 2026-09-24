@@ -4,6 +4,7 @@ tags:
   - Utility
   - Structure
   - Research
+dg-publish: true
 ---
 # [[Mekboy Workshop]]
 *Utility Structure*

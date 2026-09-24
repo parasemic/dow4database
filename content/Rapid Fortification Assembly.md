@@ -2,6 +2,7 @@
 tags:
   - AdMech
   - Stratagem
+dg-publish: true
 ---
 # [[Rapid Fortification Assembly]]
 *Stratagem*

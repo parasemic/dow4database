@@ -2,6 +2,7 @@
 tags:
   - SM
   - Stratagem
+dg-publish: true
 ---
 # Battle Honours
 *Stratagem*

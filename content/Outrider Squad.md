@@ -3,8 +3,9 @@ tags:
   - SM
   - Heavy
   - Unit
+dg-publish: true
 ---
-# Outrider Squad
+# [[Outrider Squad]]
 *Melee Infantry*
 - Good versus infantry
 - Very high mobility

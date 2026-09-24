@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Fortification
   - Structure
+dg-publish: true
 ---
 # [[Void Shield Generator]]
 *Heavy Fortification*

@@ -2,6 +2,7 @@
 tags:
   - Neutral
   - Mechanic
+dg-publish: true
 ---
 # Veterancy
 

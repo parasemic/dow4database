@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Heavy
   - Unit
+dg-publish: true
 ---
 # [[Kataphron Destroyers]]
 *Heavy Infantry*

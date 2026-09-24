@@ -4,6 +4,7 @@ tags:
   - Production
   - Structure
   - Research
+dg-publish: true
 ---
 # [[Beast Snagga Hut]]
 *Production Structure*

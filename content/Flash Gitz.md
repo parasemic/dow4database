@@ -3,6 +3,7 @@ tags:
   - Ork
   - Heavy
   - Unit
+dg-publish: true
 ---
 # [[Flash Gitz]]
 *Anti-Armour Infantry*

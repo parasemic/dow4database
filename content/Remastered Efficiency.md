@@ -2,6 +2,7 @@
 tags:
   - Necron
   - Stratagem
+dg-publish: true
 ---
 # [[Remastered Efficiency]]
 *Stratagem*

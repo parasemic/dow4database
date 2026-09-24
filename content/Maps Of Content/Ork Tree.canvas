@@ -51,7 +51,7 @@
 		{"id":"77cc20e806093c10","type":"text","text":"# Mekboy","x":121,"y":125,"width":250,"height":60},
 		{"id":"a098e26220c7186d","type":"text","text":"# Deffkoptas","x":420,"y":431,"width":199,"height":50},
 		{"id":"b347691b8803b34f","type":"file","file":"Media/Beastboss on Squigosaur.png","x":1583,"y":-881,"width":149,"height":203},
-		{"id":"10e625b397426c40","x":1183,"y":-678,"width":302,"height":200,"type":"text","text":"# Warboss\n*Commander*\n- High durability brawler\n- Effective at all ranges\n- Can teleport to safety\n"}
+		{"id":"10e625b397426c40","type":"text","text":"# Warboss\n*Commander*\n- High durability brawler\n- Effective at all ranges\n- Can teleport to safety\n","x":1183,"y":-678,"width":302,"height":200}
 	],
 	"edges":[
 		{"id":"911ece8d584d146d","fromNode":"98388bba835d31ca","fromSide":"bottom","toNode":"459cb1bf71d0b1d4","toSide":"top"},
@@ -75,5 +75,9 @@
 		{"id":"0b5f3205b7181b73","fromNode":"89d552ed9f7d1d82","fromSide":"bottom","toNode":"775b024075d1c971","toSide":"top"},
 		{"id":"dbfddfb62f406a0a","fromNode":"89d552ed9f7d1d82","fromSide":"bottom","toNode":"a098e26220c7186d","toSide":"top"},
 		{"id":"08d5ca88eb7be068","fromNode":"89d552ed9f7d1d82","fromSide":"left","toNode":"77cc20e806093c10","toSide":"right"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
 }

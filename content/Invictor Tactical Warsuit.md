@@ -3,8 +3,9 @@ tags:
   - SM
   - Vehicle
   - Unit
+dg-publish: true
 ---
-# Invictor Tactical Warsuit
+# [[Invictor Tactical Warsuit]]
 *Anti-Infantry Walker*
 - Excels versus infantry
 - deals area damage

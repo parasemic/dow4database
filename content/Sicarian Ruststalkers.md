@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Sicarian Ruststalkers]]
 *Melee Infantry*

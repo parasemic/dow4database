@@ -3,6 +3,7 @@ tags:
   - "#Ork"
   - Commander
   - Unit
+dg-publish: true
 ---
 # [[Beastboss on Squigosaur]]
 *Commander*

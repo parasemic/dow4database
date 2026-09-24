@@ -5,6 +5,7 @@ tags:
   - Construct
   - Unit
   - Necron
+dg-publish: true
 ---
 # [[Canoptek Wraiths]]
 *Heavy Constructs*

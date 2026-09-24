@@ -5,6 +5,7 @@ tags:
   - Necron
   - "#Unit"
   - "#Utility"
+dg-publish: true
 ---
 # [[Canoptek Spyder]]
 *Utility Construct*

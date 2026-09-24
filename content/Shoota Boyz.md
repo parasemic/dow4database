@@ -3,6 +3,7 @@ tags:
   - Ork
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Shoota Boyz]]
 *Light Infantry*

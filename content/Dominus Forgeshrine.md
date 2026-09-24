@@ -5,6 +5,7 @@ tags:
   - Structure
   - Production
   - Research
+dg-publish: true
 ---
 # [[Dominus Forgeshrine]]
 *Headquarters*

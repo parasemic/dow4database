@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Unit
   - Vehicle
+dg-publish: true
 ---
 # [[Ironstrider Ballistarius]]
 *Anti-Infantry Walker*

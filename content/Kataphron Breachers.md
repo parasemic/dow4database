@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Heavy
   - Unit
+dg-publish: true
 ---
 # [[Kataphron Breachers]]
 *Anti-Armour Infantry*

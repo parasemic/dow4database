@@ -4,6 +4,7 @@ tags:
   - Fortification
   - Structure
   - "#Resource"
+dg-publish: true
 ---
 # Listenin' Shack
 *Resource Point*

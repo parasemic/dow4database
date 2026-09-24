@@ -5,6 +5,7 @@ tags:
   - Canoptek
   - Unit
   - "#Construct"
+dg-publish: true
 ---
 # [[Canoptek Doomstalker]]
 *Anti-Armour Construct*

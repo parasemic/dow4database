@@ -3,8 +3,9 @@ tags:
   - SM
   - Utility
   - Structure
+dg-publish: true
 ---
-# Thunderhawk Relay
+# [[Thunderhawk Relay]]
 *Utility Structure*
 - Entered units can be redeployed
 - Deployment requires visibility

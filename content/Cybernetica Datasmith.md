@@ -4,6 +4,7 @@ tags:
   - Light
   - Utility
   - Unit
+dg-publish: true
 ---
 # [[Cybernetica Datasmith]]
 *Utility Infantry*

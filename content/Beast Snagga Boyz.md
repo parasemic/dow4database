@@ -3,6 +3,7 @@ tags:
   - Ork
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Beast Snagga Boyz]]
 *Heavy Infantry*

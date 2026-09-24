@@ -3,8 +3,9 @@ tags:
   - SM
   - Fortification
   - Structure
+dg-publish: true
 ---
-# Hammerfall Bunker
+# [[Hammerfall Bunker]]
 *Heavy Fortification*
 - Good versus all targets
 - Fast construction time

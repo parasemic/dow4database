@@ -2,6 +2,7 @@
 tags:
   - Ork
   - Stratagem
+dg-publish: true
 ---
 # [[Feral Intervention]]
 *Stratagem*

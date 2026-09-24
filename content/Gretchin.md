@@ -4,6 +4,7 @@ tags:
   - Light
   - Unit
   - Utility
+dg-publish: true
 ---
 # [[Gretchin]]
 *Utility Infantry*

@@ -4,6 +4,7 @@ tags:
   - Production
   - Structure
   - Research
+dg-publish: true
 ---
 # [[Boyz Fort]]
 *Production Structure*

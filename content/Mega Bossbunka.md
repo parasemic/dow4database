@@ -4,6 +4,7 @@ tags:
   - HQ
   - Structure
   - Production
+dg-publish: true
 ---
 # [[Mega Bossbunka]]
 *Headquarters*

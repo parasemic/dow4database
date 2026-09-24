@@ -2,6 +2,7 @@
 tags:
   - Stratagem
   - SM
+dg-publish: true
 ---
 # Thunderhawk Cluster Bombs
 *Stratagem*

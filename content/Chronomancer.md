@@ -4,6 +4,7 @@ tags:
   - "#Commander"
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Chronomancer]]
 *Commander*

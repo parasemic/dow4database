@@ -1,12 +1,16 @@
 {
 	"nodes":[
+		{"id":"e912f48f83f180dc","type":"group","x":-2279,"y":-519,"width":1240,"height":1431,"label":"Lobby Settings"},
+		{"id":"42a71d66bf3996c0","type":"file","file":"Lobby Settings.md","subpath":"#GENERAL","x":-2259,"y":-499,"width":400,"height":1391},
+		{"id":"f15d2b28352602c9","type":"file","file":"Lobby Settings.md","subpath":"#ECONOMY","x":-1859,"y":-499,"width":400,"height":1391},
+		{"id":"1da334d8b53719e0","type":"file","file":"Lobby Settings.md","subpath":"#COMBAT","x":-1459,"y":-499,"width":400,"height":1391},
 		{"id":"ba136234c4052626","type":"text","text":"## Machine District","x":-1445,"y":-823,"width":250,"height":60},
 		{"id":"527251b456347deb","type":"text","text":"## Manufactorum","x":-1445,"y":-746,"width":250,"height":60},
 		{"id":"c3e9dfe87488d299","type":"text","text":"## [[_Main Page.canvas|Main Page]]","x":-1395,"y":-951,"width":200,"height":99},
-		{"id":"5c99dbe17fae1326","type":"text","text":"## Glacier's Ridge 2P\n\n*A wide expanse of snow and\nice spills down from the\njagged base of a glacier to\nthe remains of an industrial\noutpost at its edge.*","x":-120,"y":-946,"width":265,"height":400},
 		{"id":"f7b9075c9f75e805","type":"file","file":"Media/Galcier's Ridge match.png","x":-520,"y":-946,"width":400,"height":406},
 		{"id":"b65cd4698621c07e","type":"file","file":"Media/Glacier's Ridge lobby.png","x":-924,"y":-946,"width":404,"height":406},
 		{"id":"af112e4482ccc53c","type":"file","file":"Media/Blighted Mire 2P.png","x":-520,"y":-427,"width":400,"height":397},
+		{"id":"5c99dbe17fae1326","type":"text","text":"## Glacier's Ridge 2P\n\n*A wide expanse of snow and\nice spills down from the\njagged base of a glacier to\nthe remains of an industrial\noutpost at its edge.*","x":-120,"y":-946,"width":265,"height":400},
 		{"id":"37b14d59d0ac7ba6","type":"text","text":"## Blighted Mire 2P","x":-120,"y":-427,"width":250,"height":60},
 		{"id":"6eb9e53768a7e68b","type":"file","file":"Media/Cinder's Pit 2P.png","x":-520,"y":58,"width":400,"height":398},
 		{"id":"c7e9ef7582a9ce00","type":"text","text":"## Cinder's Pit 2P","x":-120,"y":58,"width":250,"height":60},
@@ -14,23 +18,27 @@
 		{"id":"fb35656e69199fa4","type":"text","text":"## Reaper's Crossing 2P","x":-105,"y":526,"width":301,"height":60},
 		{"id":"58f9c3cc56896c9e","type":"file","file":"Media/Pasted image 20260919135929.png","x":-505,"y":874,"width":400,"height":209},
 		{"id":"ebed7ac8ff56f8b9","type":"text","text":"## ?? 2P","x":-105,"y":874,"width":250,"height":60},
+		{"id":"c2ef0476f025985a","type":"file","file":"Media/Pasted image 20260919140004.png","x":722,"y":617,"width":400,"height":206},
+		{"id":"4577231ef2ad8f45","type":"file","file":"Media/Silent Desolation 4P match.png","x":725,"y":874,"width":397,"height":400},
 		{"id":"ddafa9d5c0eb4dc3","type":"file","file":"Media/Wrecked Sprawl 4P.png","x":722,"y":-427,"width":400,"height":265},
 		{"id":"2c74a3c5e6dedb49","type":"text","text":"## Wrecked Sprawl 4P","x":1122,"y":-427,"width":292,"height":60},
-		{"id":"f3349cc91254c084","type":"file","file":"Media/Pasted image 20260919135828.png","x":1599,"y":-424,"width":400,"height":204},
-		{"id":"c09e5943bb5b1506","type":"text","text":"## ?? 6P","x":1999,"y":-424,"width":250,"height":60},
-		{"id":"c2ef0476f025985a","type":"file","file":"Media/Pasted image 20260919140004.png","x":722,"y":617,"width":400,"height":206},
 		{"id":"085679c41fade06a","type":"text","text":"## ?? 4P","x":1121,"y":617,"width":250,"height":60},
-		{"id":"4577231ef2ad8f45","x":725,"y":874,"width":397,"height":400,"type":"file","file":"Media/Silent Desolation 4P match.png"},
-		{"id":"c520d4d11ac7a62c","x":1121,"y":874,"width":284,"height":218,"type":"text","text":"## Silent Desolation 4P\n### Maelstrom\n*Dry sand and bare rock are the only monuments that will stand over the graves of those that fall in battle here.*"},
-		{"id":"0184ae5ee3241de3","x":323,"y":874,"width":399,"height":400,"type":"file","file":"Media/Silent Desolation 4P lobby.png"},
+		{"id":"c520d4d11ac7a62c","type":"text","text":"## Silent Desolation 4P\n### Maelstrom\n*Dry sand and bare rock are the only monuments that will stand over the graves of those that fall in battle here.*","x":1121,"y":874,"width":284,"height":218},
+		{"id":"0184ae5ee3241de3","type":"file","file":"Media/Silent Desolation 4P lobby.png","x":323,"y":874,"width":399,"height":400},
+		{"id":"96d4774d2eea76df","type":"text","text":"## Hivehold 4P\n### Domination","x":1122,"y":-946,"width":193,"height":89},
+		{"id":"d02231cd15672f6e","type":"file","file":"Media/Hivehold 4P.png","x":722,"y":-946,"width":400,"height":396},
 		{"id":"9c6792686a05afae","type":"file","file":"Media/Badzones 4P.png","x":722,"y":-77,"width":400,"height":261},
-		{"id":"dea87260550123ed","type":"text","text":"## Badzones 4P","x":1122,"y":-77,"width":250,"height":60},
 		{"id":"8cf21e93ccc95430","type":"file","file":"Media/Cold Heaven 4P.png","x":722,"y":257,"width":399,"height":263},
 		{"id":"615a72090df72f5e","type":"text","text":"## Cold Heaven 4P","x":1122,"y":257,"width":250,"height":60},
-		{"id":"96d4774d2eea76df","type":"text","text":"## Hivehold 4P\n### Domination","x":1122,"y":-946,"width":193,"height":89},
+		{"id":"f3349cc91254c084","type":"file","file":"Media/Pasted image 20260919135828.png","x":1599,"y":-424,"width":400,"height":204},
+		{"id":"c09e5943bb5b1506","type":"text","text":"## ?? 6P","x":1999,"y":-424,"width":250,"height":60},
 		{"id":"0a754702694f8a4e","type":"text","text":"## Frosthold 6P","x":1999,"y":-946,"width":250,"height":50},
-		{"id":"3a91e3d82590802b","type":"file","file":"Media/Frosthold 6P.png","x":1599,"y":-946,"width":400,"height":265},
-		{"id":"d02231cd15672f6e","type":"file","file":"Media/Hivehold 4P.png","x":722,"y":-946,"width":400,"height":396}
+		{"id":"dea87260550123ed","type":"text","text":"## Badzones 4P","x":1122,"y":-77,"width":250,"height":60},
+		{"id":"3a91e3d82590802b","type":"file","file":"Media/Frosthold 6P.png","x":1599,"y":-946,"width":400,"height":265}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
 }

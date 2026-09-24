@@ -4,6 +4,7 @@ tags:
   - Skitarii
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Skitarii Vanguards]]
 *Light Infantry*

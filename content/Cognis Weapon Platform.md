@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Fortification
   - Structure
+dg-publish: true
 ---
 # [[Cognis Weapon Platform]]
 *Fortification*
@@ -38,7 +39,7 @@ Base Cost: **200** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?
 > - Excels versus light armour
 > - Deals area damage
 > - Short range
->   Cost: **150** req | **5** pow |  Build Time: **15.0** sec.>   
+>   Cost: **150** req | **5** pow |  Build Time: **15.0** sec. 
 
 > [!example] Cognis Lascannon
 > *Upgrade*

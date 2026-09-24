@@ -4,8 +4,9 @@ tags:
   - Production
   - Structure
   - Research
+dg-publish: true
 ---
-# Chapel Barracks
+# [[Chapel Barracks]]
 *Production Structure*
 - Produces infantry
 - Provides research

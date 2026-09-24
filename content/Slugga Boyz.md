@@ -3,6 +3,7 @@ tags:
   - Ork
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Slugga Boyz]]
 *Melee Infantry*

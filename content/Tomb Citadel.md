@@ -5,6 +5,7 @@ tags:
   - Production
   - "#HQ"
   - "#Research"
+dg-publish: true
 ---
 # [[Tomb Citadel]] I
 *Headquarters*

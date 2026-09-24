@@ -3,6 +3,7 @@ tags:
   - Ork
   - Fortification
   - Structure
+dg-publish: true
 ---
 # [[Cuvva]]
 *Fortification*

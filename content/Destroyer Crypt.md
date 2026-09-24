@@ -5,6 +5,7 @@ tags:
   - Structure
   - Destroyer
   - Research
+dg-publish: true
 ---
 # [[Destroyer Crypt]]
 *Production Structure*

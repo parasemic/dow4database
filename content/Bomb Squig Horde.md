@@ -3,6 +3,7 @@ tags:
   - Ork
   - Unit
   - Light
+dg-publish: true
 ---
 # [[Bomb Squig Horde]]
 *Explosive Beasts*

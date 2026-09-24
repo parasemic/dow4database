@@ -3,6 +3,7 @@ tags:
   - Ork
   - Heavy
   - Unit
+dg-publish: true
 ---
 # [[Meganobz]]
 *Elite Infantry*
@@ -14,12 +15,12 @@ tags:
 
 ---
 
-| [[Member Count]]      |  3   |     |
-| --------------------- | :--: | --- |
-| [[Armour]]            |  6   |     |
-| Armour Penetration    |  7   |     |
-| Invulnerability Saves |  -   |     |
-| HP                    | 4800 |     |
+| [[Member Count]]      |  3   |       |
+| --------------------- | :--: | ----- |
+| [[Armour]]            |  6   | Heavy |
+| Armour Penetration    |  7   |       |
+| Invulnerability Saves |  -   |       |
+| HP                    | 4800 |       |
 
 
 | *Armour Effectiveness* | 7 AP    |

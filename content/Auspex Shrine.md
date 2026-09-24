@@ -3,8 +3,9 @@ tags:
   - SM
   - Resource
   - Structure
+dg-publish: true
 ---
-# Auspex Shrine
+# [[Auspex Shrine]]
 
 ## Auspex Shrine
 *Upgrade*

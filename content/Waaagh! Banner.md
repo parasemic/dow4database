@@ -3,6 +3,7 @@ tags:
   - Fortification
   - Ork
   - Structure
+dg-publish: true
 ---
 # [[Waaagh! Banner]]
 *Light Fortification*

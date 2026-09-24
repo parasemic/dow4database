@@ -3,6 +3,7 @@ tags:
   - Necron
   - Structure
   - "#Fortification"
+dg-publish: true
 ---
 # [[Sentry Pylon]]
 *Fortification*

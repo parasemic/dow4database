@@ -4,6 +4,7 @@ tags:
   - Light
   - Unit
   - Skitarii
+dg-publish: true
 ---
 # [[Skitarii Rangers]]
 *All-Purpose Infantry*

@@ -4,8 +4,9 @@ tags:
   - Utility
   - Structure
   - Research
+dg-publish: true
 ---
-# Strategium
+# [[Strategium]]
 *Utility Structure*
 - Provides research
 - Build structures to unlock research

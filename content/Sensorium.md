@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Resource
   - Structure
+dg-publish: true
 ---
 # [[Sensorium]] I
 *Upgrade* ([[Requisition Point]])

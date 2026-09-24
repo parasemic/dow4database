@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Production
   - Structure
+dg-publish: true
 ---
 # [[War Cohort Armoury]]
 *Production Structure*

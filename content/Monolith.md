@@ -3,6 +3,7 @@ tags:
   - Necron
   - Vehicle
   - Construct
+dg-publish: true
 ---
 # [[Monolith]]
 *Super Heavy Construct*

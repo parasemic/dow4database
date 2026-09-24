@@ -4,6 +4,7 @@ tags:
   - Construct
   - Vehicle
   - Unit
+dg-publish: true
 ---
 # [[Kastellan Robot Maniple]]
 *Elite Constructs*

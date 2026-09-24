@@ -4,8 +4,9 @@ tags:
   - Production
   - Structure
   - Research
+dg-publish: true
 ---
-# Armoury
+# [[Armoury]]
 *Production Structure*
 - Produces vehicles
 - Provides research

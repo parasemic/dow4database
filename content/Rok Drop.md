@@ -2,6 +2,7 @@
 tags:
   - Ork
   - Stratagem
+dg-publish: true
 ---
 # [[Rok Drop]]
 *Stratagem*

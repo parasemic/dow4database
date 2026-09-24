@@ -3,6 +3,7 @@ tags:
   - Necron
   - Light
   - Unit
+dg-publish: true
 ---
 # Deathmarks
 *Sniper Infantry*

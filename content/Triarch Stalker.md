@@ -3,6 +3,7 @@ tags:
   - Necron
   - Unit
   - Vehicle
+dg-publish: true
 ---
 # [[Triarch Stalker]]
 *All-Purpose Walker*

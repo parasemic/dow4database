@@ -2,6 +2,7 @@
 tags:
   - Necron
   - Unit
+dg-publish: true
 ---
 # [[C'Tan Shard of the Void Dragon]]
 *Flying Monster*

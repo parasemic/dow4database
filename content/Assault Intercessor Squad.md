@@ -3,8 +3,9 @@ tags:
   - SM
   - Light
   - Unit
+dg-publish: true
 ---
-# Assault Intercessor Squad
+# [[Assault Intercessor Squad]]
 *Melee Infantry*
 - Effective in melee
 - Good versus infantry

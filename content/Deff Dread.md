@@ -3,6 +3,7 @@ tags:
   - Ork
   - Vehicle
   - Unit
+dg-publish: true
 ---
 # [[Deff Dread]]
 *All-Purpose Walker*
@@ -44,11 +45,11 @@ Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52*
 >> Cost: **60** ![[req.png|20]] | Build Time: **20.0** sec.
 >> 
 >> | *Armour Effectiveness* |         |
->| ---------------------- | ------- |
->| Light                  | 340-564 |
->| Heavy                  | 231-340 |
->| Vehicle                | 111-135 |
->| Structure              | 87-113  |
+>> | ---------------------- | ------- |
+>> | Light                  | 340-564 |
+>> | Heavy                  | 231-340 |
+>> | Vehicle                | 111-135 |
+>> | Structure              | 87-113  |
 >
 >> [!abstract] **Rokkit Launcha**
 >>

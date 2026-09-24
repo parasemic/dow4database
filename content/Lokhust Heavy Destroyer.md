@@ -4,6 +4,7 @@ tags:
   - Unit
   - Heavy
   - "#Destroyer"
+dg-publish: true
 ---
 
 # [[Lokhust Heavy Destroyer]]
@@ -23,19 +24,19 @@ Base Cost:  dominion | Supply Cost:  **6** dom/min | Base build time: sec.
 | HP                    | 2000 |       |
 
 ---
-#### Enmitic Exterminator^[Default Wargear]
-*Equipment*
-- Excels versus light armour
-- Good versus heavy armour
-- High fire rate
-? dom | 10.0 sec.
+> [!example] Enmitic Exterminator
+> *Equipment* (default)
+> - Excels versus light armour
+> - Good versus heavy armour
+> - High fire rate
+> Cost: **?** dom | **10.0** sec.
 
-#### Gauss Destructor
-*Equipment*
-- Excels versus vehicles
-- Good versus heavy armour
-- Low fire rate
-20 dom | 10 sec.
+> [!example] Gauss Destructor
+> *Equipment*
+> - Excels versus vehicles
+> - Good versus heavy armour
+> - Low fire rate
+> Cost: **20** dom | **10.0** sec.
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |
@@ -44,4 +45,3 @@ Base Cost:  dominion | Supply Cost:  **6** dom/min | Base build time: sec.
 | Vehicle                | 288-291 |
 | Structure              | 202-206 |
 
-[^1]: Default Wargear

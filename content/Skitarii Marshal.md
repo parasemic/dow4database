@@ -4,6 +4,7 @@ tags:
   - Commander
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Skitarii Marshal]]
 *Commander*

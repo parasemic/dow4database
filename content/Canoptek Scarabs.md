@@ -5,6 +5,7 @@ tags:
   - Unit
   - Construct
   - Necron
+dg-publish: true
 ---
 # [[Canoptek Scarabs]]
 *Light Construct*

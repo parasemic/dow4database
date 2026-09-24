@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Light
   - Unit
+dg-publish: true
 ---
 # [[Corpuscarii Electro-Priests]]
 *All-Purpose infantry*

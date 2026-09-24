@@ -1,6 +1,7 @@
 ---
 tags:
   - Neutral
+dg-publish: true
 ---
 # [[Strategic Location]]
 *Objective*

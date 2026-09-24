@@ -3,6 +3,7 @@ tags:
   - Necron
   - Utility
   - Structure
+dg-publish: true
 ---
 # [[Resurrection Gallery]]
 *Utility Structure*

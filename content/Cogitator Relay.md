@@ -3,6 +3,7 @@ tags:
   - AdMech
   - Utility
   - Structure
+dg-publish: true
 ---
 # [[Cogitator Relay]]
 *Utility Structure*

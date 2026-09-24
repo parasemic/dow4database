@@ -2,6 +2,7 @@
 tags:
   - Neutral
   - Resource
+dg-publish: true
 ---
 # [[Requisition Point]]
 *Resource Point*
