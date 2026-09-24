@@ -15,7 +15,7 @@ dg-publish: true
   > [!warning] *Cannot have more than one Tomb Citadel*
 
 ---
-Base Cost: **??** dom |  Build Time: **??.?** sec.
+Base Cost: **??** ![[dom.png|20]] |  Build Time: **??.?** sec.
 
 ---
 #### Research

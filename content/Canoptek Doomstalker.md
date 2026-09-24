@@ -13,7 +13,7 @@ dg-publish: true
 - Excels versus vehicles
 - Low mobility
 ---
-Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
+Base cost:  ![[dom.png|20]] | Supply Cost:  ![[dom.png|20]]/min | Base build time: sec.
 
 ---
 

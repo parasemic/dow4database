@@ -13,7 +13,7 @@ dg-publish: true
 - Effective in melee
 - Low Durability
 ---
-Base Cost: **??** dom | Supply Cost: **3** dom/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Build Time: **??.?** sec.
 
 ---
 

@@ -12,7 +12,7 @@ dg-publish: true
 - Effective at range
 - Disrupts enemy units
 ---
-Base cost: **45** dominion | Supply Cost: **4** dom/min | Base build time: **29.8** sec.
+Base cost: **45** ![[dom.png|20]] | Supply Cost: **4** ![[dom.png|20]]/min | Base build time: **29.8** sec.
 
 ---
 

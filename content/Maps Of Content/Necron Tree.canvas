@@ -1,15 +1,14 @@
 {
 	"nodes":[
+		{"id":"74db17e1cfba1baa","type":"group","x":-1506,"y":-573,"width":440,"height":434,"label":"Commander"},
 		{"id":"f8e097e9e1e5751b","type":"file","file":"Canoptek Foundry.md","x":366,"y":-454,"width":400,"height":199,"color":"5"},
 		{"id":"b1261673e685991d","type":"file","file":"Translocation Science.md","x":-526,"y":-811,"width":432,"height":178},
 		{"id":"ad83b9c1b571c889","type":"text","text":"## Stratagems","x":-77,"y":-1019,"width":179,"height":60},
 		{"id":"2cedb23794f2f4c2","type":"file","file":"Remastered Efficiency.md","x":-24,"y":-811,"width":489,"height":201},
 		{"id":"fb261af853e8f752","type":"file","file":"C'Tan Shard of the Void Dragon.md","x":-277,"y":544,"width":400,"height":225},
 		{"id":"092a4da427f95b0a","type":"file","file":"Monolith.md","x":-277,"y":259,"width":400,"height":194},
-		{"id":"a895bf9b2afecb3f","type":"file","file":"Chronomancer.md","x":-1465,"y":-366,"width":400,"height":201},
 		{"id":"51a6b62d4d7b2fb9","type":"file","file":"Deathmarks.md","x":-1387,"y":557,"width":400,"height":199},
 		{"id":"3d2d0b20d3dbe096","type":"file","file":"Gravity Pulse.md","x":542,"y":-811,"width":400,"height":188},
-		{"id":"f5ed1bfe2ec9b575","type":"file","file":"Media/necron_512.svg","x":-1036,"y":-959,"width":400,"height":400},
 		{"id":"a8a95648b940f12e","type":"file","file":"Resurrection Gallery.md","x":-2069,"y":-454,"width":400,"height":207},
 		{"id":"7f9c106c43ce0f99","type":"file","file":"Convergence of Dominion.md","x":-2069,"y":-123,"width":400,"height":197},
 		{"id":"541a9cabfec83671","type":"file","file":"Sentry Pylon.md","x":-2069,"y":185,"width":400,"height":199},
@@ -19,7 +18,6 @@
 		{"id":"ea8c7b3374e5ad32","type":"file","file":"Canoptek Doomstalker.md","x":766,"y":164,"width":400,"height":220},
 		{"id":"60073b29b81c0a0d","type":"file","file":"Canoptek Spyder.md","x":166,"y":-33,"width":400,"height":197},
 		{"id":"3d499baeaad2e94f","type":"text","text":"# Tomb Pylon","x":241,"y":324,"width":250,"height":60},
-		{"id":"7d18a18f8db8051a","type":"text","text":"# [[_Main Page.canvas|Main Page]]","x":-1270,"y":-959,"width":183,"height":60},
 		{"id":"c7630960e538fffe","type":"file","file":"Tomb Citadel.md","x":-835,"y":-454,"width":399,"height":192,"color":"5"},
 		{"id":"ca9ff70326a6afc2","type":"file","file":"Skorpekh Destroyers.md","x":166,"y":998,"width":400,"height":187},
 		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":397,"y":657,"width":400,"height":188,"color":"5"},
@@ -27,7 +25,20 @@
 		{"id":"76cefa8e9734c5e0","type":"file","file":"Immortals.md","x":-1387,"y":860,"width":400,"height":194},
 		{"id":"adb6b744f29ada39","type":"file","file":"Lychguards.md","x":-775,"y":860,"width":400,"height":191},
 		{"id":"fba688823fad4e26","type":"file","file":"Necron Warriors.md","x":-1465,"y":-113,"width":400,"height":206},
-		{"id":"bf86150213c57af2","type":"file","file":"Triarch Stalker.md","x":-1387,"y":231,"width":400,"height":187}
+		{"id":"bf86150213c57af2","type":"file","file":"Triarch Stalker.md","x":-1387,"y":231,"width":400,"height":187},
+		{"id":"a895bf9b2afecb3f","type":"file","file":"Chronomancer.md","x":-1491,"y":-359,"width":400,"height":201},
+		{
+			"id":"fb6044e5f0375076",
+			"type":"text",
+			"text":"# Destroyer Lord",
+			"styleAttributes":{},
+			"x":-1491,
+			"y":-552,
+			"width":400,
+			"height":150
+		},
+		{"id":"f5ed1bfe2ec9b575","type":"file","file":"Media/necron_512.svg","x":-1035,"y":-989,"width":400,"height":400},
+		{"id":"7d18a18f8db8051a","type":"text","text":"# [[_Main Page.canvas|Main Page]]","x":-1269,"y":-989,"width":183,"height":60}
 	],
 	"edges":[
 		{"id":"5e4c48f38117d36a","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"ea8c7b3374e5ad32","toSide":"left"},
@@ -41,14 +52,22 @@
 		{"id":"0bc287592c582fa0","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"60073b29b81c0a0d","toSide":"top"},
 		{"id":"f986997d337d900d","fromNode":"60073b29b81c0a0d","fromSide":"bottom","toNode":"3d499baeaad2e94f","toSide":"top"},
 		{"id":"597c0750cfc59e15","fromNode":"c7630960e538fffe","fromSide":"right","toNode":"4602bab1d92bbec6","toSide":"left"},
-		{"id":"22ab06868bc4b3f1","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"a895bf9b2afecb3f","toSide":"right"},
 		{"id":"8b2861b22411aa75","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"fba688823fad4e26","toSide":"right"},
 		{"id":"fcec408e185f7db8","fromNode":"c7630960e538fffe","fromSide":"left","toNode":"bf86150213c57af2","toSide":"right","label":"Tier II"},
 		{"id":"7f43858fb36fd538","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"092a4da427f95b0a","toSide":"left","label":"Tier IV"},
 		{"id":"9979158c39e7569f","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"fb261af853e8f752","toSide":"left","label":"Tier IV"},
 		{"id":"94e596dbb85f343e","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"adb6b744f29ada39","toSide":"top","label":"Tier III"},
 		{"id":"6889ba0d0d788ca9","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"76cefa8e9734c5e0","toSide":"right"},
-		{"id":"a5443f4378aeff08","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"51a6b62d4d7b2fb9","toSide":"right"}
+		{"id":"a5443f4378aeff08","fromNode":"c7630960e538fffe","fromSide":"bottom","toNode":"51a6b62d4d7b2fb9","toSide":"right"},
+		{
+			"id":"40c8c83b5f07262b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c7630960e538fffe",
+			"fromSide":"left",
+			"toNode":"74db17e1cfba1baa",
+			"toSide":"right"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

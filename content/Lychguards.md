@@ -11,7 +11,7 @@ dg-publish: true
 - Good versus all targets
 - High durability
 ---
-dom | 6 dom/min
+Base Cost: **??** ![[dom.png|20]] | 6 ![[dom.png|20]]/min
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel III|Tomb Citadel III]]*
 
 ---

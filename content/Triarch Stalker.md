@@ -12,7 +12,7 @@ dg-publish: true
 - High mobility
 ---
 
-Base cost:  45 dominion | Supply Cost:  7 dom/min | Base build time: 34.8 sec.
+Base cost:  **45** ![[dom.png|20]] | Supply Cost:  **7** ![[dom.png|20]]/min | Base build time: **34.8 **sec.
 Requires upgrade: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]
 
 ---

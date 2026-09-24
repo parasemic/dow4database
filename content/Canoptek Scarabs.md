@@ -13,7 +13,7 @@ dg-publish: true
 - Very high mobility
 - Low durability
 ---
-Base cost: **6** dominion | Supply Cost: **1** dom/min | Base build time: **9.9** sec.
+Base cost: **6** ![[dom.png|20]] | Supply Cost: **1** ![[dom.png|20]]/min | Base build time: **9.9** sec.
  
 ---
 

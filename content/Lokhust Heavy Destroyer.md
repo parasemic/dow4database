@@ -13,7 +13,7 @@ dg-publish: true
 - Good versus all targets
 - Low mobility
 ---
-Base Cost:  dominion | Supply Cost:  **6** dom/min | Base build time: sec.
+Base Cost:  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base build time: sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel III|Tomb Citadel III]]*
 
 | [[Member Count]]      |  1   |       |
@@ -29,14 +29,14 @@ Base Cost:  dominion | Supply Cost:  **6** dom/min | Base build time: sec.
 > - Excels versus light armour
 > - Good versus heavy armour
 > - High fire rate
-> Cost: **?** dom | **10.0** sec.
+> Cost: **?** ![[dom.png|20]] | **10.0** sec.
 
 > [!example] Gauss Destructor
 > *Equipment*
 > - Excels versus vehicles
 > - Good versus heavy armour
 > - Low fire rate
-> Cost: **20** dom | **10.0** sec.
+> Cost: **20** ![[dom.png|20]] | **10.0** sec.
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |

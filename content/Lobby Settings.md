@@ -76,3 +76,11 @@ tags:
 - Medium
 ### Ability Cooldowns
 - Medium
+
+## AI
+### Difficulty
+- Story
+- Easy
+- Normal
+- **Hard**
+- Insane

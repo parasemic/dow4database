@@ -13,7 +13,7 @@ dg-publish: true
 - High mobility
 ---
 
-Base cost:  dominion | Supply Cost:  **4** dom/min | Base build time: sec.
+Base cost:  ![[dom.png|20]] | Supply Cost:  **4** ![[dom.png|20]]/min | Base build time: sec.
 
 ---
 

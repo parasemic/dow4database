@@ -11,4 +11,4 @@ dg-publish: true
 - Must be built on the Power Matrix
 - Low durability
 ---
-7 dominion
+Base Cost:  7 ![[dom.png|20]]

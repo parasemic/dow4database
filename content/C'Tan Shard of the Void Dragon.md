@@ -10,6 +10,6 @@ dg-publish: true
 - Excels versus all targets
 - Ignores obstacles
 ---
-**??** dom | **15** dom/min | sec.
+**??** ![[dom.png|20]] | **15** ![[dom.png|20]]/min | sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
 Build limit: **1**

@@ -13,7 +13,7 @@ dg-publish: true
 - Expands the Power Matrix
 - Must be built on the Power Matrix
 ---
-Base Cost: **??** dom | Build Time: **??.?** sec.
+Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
 *Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
 
 ---

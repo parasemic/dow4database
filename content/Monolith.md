@@ -11,7 +11,7 @@ dg-publish: true
 - Very high durability
 - Reserve deployment point
 ---
-dom | **15** dom/min
+dom | **15** ![[dom.png|20]]/min
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
   
 | [[Member Count]]      |  1   |         |
