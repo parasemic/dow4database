@@ -30,7 +30,7 @@ Produces Units:
 - [[Kastellan Robot Maniple]]
 
 ### Research
-> [!tip] Canticles of Battle
+> [!tip] Canticles Of Battle
 > *Research*
 > Increases all damage dealt by units from Omnissian Cults.
 > => Damage Dealt: **+10%**

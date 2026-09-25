@@ -10,19 +10,18 @@ dg-publish: true
 - Effective at all ranges
 - Good versus infantry
 - Moderate durability
-
 ---
 Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
+from [[Scrap 'Eap]]
 
 ---
 
-| [[Member Count]]      |  1  | max |
-| --------------------- | :-: | --- |
-| [[Armour]]            |     |     |
-| Armour Penetration    |     |     |
-| Invulnerability Saves |  -  |     |
-| HP                    |     |     |
-|                       |     |     |
+| [[Member Count]]      |  1  | max     |
+| --------------------- | :-: | ------- |
+| [[Armour]]            |     | Vehicle |
+| Armour Penetration    |     |         |
+| Invulnerability Saves |  -  |         |
+| HP                    |     |         |
 
 ---
 > [!abstract] Wargear
@@ -82,3 +81,13 @@ Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52*
 >> | Heavy                  | 220-220 |
 >> | Vehicle                | 202-220 |
 >> | Structure              | 142-154 |
+
+---
+#### Research
+- Loadsa Scrap!
+- Extra Gubbinz
+- Grot Oilers
+
+- Bigga Waaagh!
+- Dead Choppy!
+- Mob Rules

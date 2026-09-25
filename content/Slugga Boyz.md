@@ -12,6 +12,7 @@ dg-publish: true
 - Free at maximum [[Waaagh!]]
 ---
 Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **15.0** sec.
+from [[Mega Bossbunka]] & [[Boyz Fort]]
 
 ---
 
@@ -64,3 +65,14 @@ Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **
 > Adds 5 more members to this unit.
 > *Requires Veterancy Level 3*
 > Cost: **50** ![[req.png|20]] | Build Time: **10.0** sec.
+
+---
+#### Research
+- Skarboyz
+- Get Stuck In!
+
+- 'Arder Armour
+
+- Bigga Waaagh!
+- Dead Choppy!
+- Mob Rule

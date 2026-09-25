@@ -11,8 +11,9 @@ dg-publish: true
 - Very high durability
 - Reserve deployment point
 ---
-dom | **15** ![[dom.png|20]]/min
+Base Cost: dom | Supply Cost: **15** ![[dom.png|20]]/min
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
+from [[Tomb Citadel]]
   
 | [[Member Count]]      |  1   |         |
 | --------------------- | :--: | ------- |
@@ -24,3 +25,9 @@ dom | **15** ![[dom.png|20]]/min
 > - Translocation:
 >	~~*Active Ability*~~
 >	Teleport to target location in range.
+
+---
+#### Research
+- Superior Necrodermis
+
+- Unyielding Armament

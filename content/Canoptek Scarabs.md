@@ -14,6 +14,7 @@ dg-publish: true
 - Low durability
 ---
 Base cost: **6** ![[dom.png|20]] | Supply Cost: **1** ![[dom.png|20]]/min | Base build time: **9.9** sec.
+from [[Tomb Citadel]] & [[Canoptek Foundry]]
  
 ---
 
@@ -30,3 +31,9 @@ Base cost: **6** ![[dom.png|20]] | Supply Cost: **1** ![[dom.png|20]]/min | Base
 Upgrade 1
 
 Upgrade 2
+
+---
+#### Research
+- Superior Necrodermis
+
+- Accelerated Awakening

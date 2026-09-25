@@ -14,6 +14,7 @@ dg-publish: true
 - Low mobility
 ---
 Base cost:  ![[dom.png|20]] | Supply Cost:  ![[dom.png|20]]/min | Base build time: sec.
+from [[Canoptek Foundry]]
 
 ---
 
@@ -32,3 +33,10 @@ Base cost:  ![[dom.png|20]] | Supply Cost:  ![[dom.png|20]]/min | Base build tim
 | Heavy                  | 112-170 |
 | Vehicle                | 202-202 |
 | Structure              | 99-99   |
+
+---
+#### Research
+- Superior Necrodermis
+
+- Undying Armament
+- Accelerated Awakening

@@ -14,6 +14,7 @@ dg-publish: true
 - Empowers friendly units
 ---
 Base Cost: **370** ![[req.png|20]] | **30** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **30.0** sec.
+from [[Dominus Forgeshrine]]
 
 ---
 

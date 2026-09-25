@@ -12,6 +12,7 @@ dg-publish: true
 - Can throw Explosives
 ---
 Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **20.0** sec.
+from [[Beast Snagga Hut]]
 
 ---
 
@@ -35,3 +36,12 @@ Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Supply Cost: **30*
 > - **Stikka Throw**
 > *Active Ability*
 > Throw explosives at target enemy, dealing area damage.
+
+---
+#### Research
+- Orky Outriderz
+- Beast Snagga Teef
+
+- Bigga Waaagh!
+- Dead Choppy!
+- Mob Rule

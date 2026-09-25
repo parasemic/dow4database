@@ -12,8 +12,8 @@ dg-publish: true
 - Good versus all targets
 - High mobility
 ---
-
 Base cost:  ![[dom.png|20]] | Supply Cost:  **4** ![[dom.png|20]]/min | Base build time: sec.
+from [[Destroyer Crypt]]
 
 ---
 
@@ -23,3 +23,10 @@ Base cost:  ![[dom.png|20]] | Supply Cost:  **4** ![[dom.png|20]]/min | Base bui
 | Armour Penetration    |  66  |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 2550 |       |
+
+---
+#### Research
+- Superior Necrodermis
+
+- Relentless Onslaught
+- Oblivion's Call

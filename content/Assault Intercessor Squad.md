@@ -12,6 +12,7 @@ dg-publish: true
 - Can equip Jump Packs
 ---
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+from [[Chapel Barracks]]
 
 ---
 
@@ -51,3 +52,13 @@ Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??**
 > Base Cost: **25** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **15.0** sec.
 > > [!danger] Supercharge Plasma Pistol
 > > Fire a supercharged shot at target enemy, dealing area damage.
+
+#### Research
+- Enhanced Physiology
+- Take And Hold
+- Adaptive Strategy
+
+- Burning Hatred
+
+- Battle Drill Recall
+- Lightning Deployment

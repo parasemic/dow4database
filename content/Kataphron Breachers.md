@@ -12,6 +12,7 @@ dg-publish: true
 - High durability
 ---
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **25.0** sec.
+from [[Omnissian Cult]]
 
 ---
 
@@ -49,3 +50,8 @@ Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21**
 > Adds 2 more members to this unit.
 > Requires research: 
 > Cost: **??** ![[req.png|20]] | Build Time: **??** sec.
+
+---
+#### Research
+- Canticles Of Battle
+- Battle Servitor Production

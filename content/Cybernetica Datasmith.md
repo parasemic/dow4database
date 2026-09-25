@@ -13,12 +13,13 @@ dg-publish: true
 - Can attach to Kastelan Robots
 ---
 Base Cost: **90** ![[req.png|20]] | Supply Cost: **7** ![[req.png|20]]/min | Build Time: **10.0** sec.
+from [[Dominus Forgeshrine]] & [[Omnissian Cult]]
 
 ---
 
 | [[Member Count]]      |  1  | max 1 |
 | --------------------- | :-: | ----- |
-| [[Armour]]            |  3  |       |
+| [[Armour]]            |  3  | Light |
 | Armour Penetration    |  6  |       |
 | Invulnerability Saves | 15% |       |
 | HP                    | 500 |       |
@@ -31,3 +32,8 @@ Base Cost: **90** ![[req.png|20]] | Supply Cost: **7** ![[req.png|20]]/min | Bui
 | Structure              | 16-28 |
 > [!danger] Abilities
 > *repairs*
+#### Research
+- Battle Codifiers I - III
+
+- Canticles of Battle
+- Enhanced Bionics

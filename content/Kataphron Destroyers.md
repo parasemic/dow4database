@@ -13,6 +13,7 @@ dg-publish: true
 ---
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **??.?** sec.
 *cost 133/11 at NS VI*
+from [[Omnissian Cult]]
 
 ---
 
@@ -22,3 +23,8 @@ Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21**
 | Armour Penetration    |      |       |
 | Invulnerability Saves | 10%  |       |
 | HP                    | 1800 |       |
+
+---
+#### Research
+- Canticles Of Battle
+- Battle Servitor Production

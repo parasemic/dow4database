@@ -11,8 +11,9 @@ dg-publish: true
 - Good versus all targets
 - Very low mobility
 ---
-Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
- 
+Base Cost: **??** ![[dom.png|20]] | Supply Cost: **??** ![[dom.png|20]]/min | Build Time: **??.?** sec.
+from [[Tomb Citadel]]
+
 ---
 
 | [[Member Count]]      |  10  | max 20 |
@@ -23,3 +24,5 @@ Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
 | HP                    | 2100 |        |
 
 ---
+#### Research
+- Superior Necrodermis

@@ -13,6 +13,8 @@ Prevents enemy capture and increases Requisition gain. Strengthens the Noosphere
 Base Cost: **370** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
+=> +1 Noosphere
+=> **+65** ![[req.png|20]]
 
 | HP         | 1050 |           |
 | ---------- | ---- | --------- |

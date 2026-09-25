@@ -12,6 +12,7 @@ dg-publish: true
 - Can throw grenades
 ---
 Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | Build Time: **15.0** sec.
+from [[Chapel Barracks]]
 
 ---
 
@@ -35,10 +36,10 @@ Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | B
 > Base Cost: **90** ![[req.png|20]] | Build Time: **15.0** sec.
 
 > [!example] Auto Bolt Rifles
-> *Equipment*
-> Swaps weaponry for the unit
-> Good versus infantry
-> Short range
+> - Equipment
+> - Swaps weaponry for the unit
+> - Good versus infantry
+> - Short range
 
 ---
 
@@ -60,3 +61,12 @@ Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | B
 Base Cost: **30** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **5.0** sec.
 
 ---
+#### Research
+- Enhanced Physiology
+- Take And Hold
+- Adaptive Strategy
+
+- Burning Hatred
+
+- Battle Drill Recall
+- Lightning Deployment

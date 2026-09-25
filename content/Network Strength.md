@@ -14,7 +14,7 @@ Reduces production costs for units from this structure. Increases damage dealt b
 Provides greater benefits to structures within the Noosphere Network.
 
 Unlocks structures:
-- War Cohort Armoury
+- [[War Cohort Armoury]]
 
 Unlocks research:
 - Analytical Divination

@@ -17,3 +17,9 @@ Base Cost: **400** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?
 ---
 > [!abstract] Wargear
 > second gun
+
+---
+#### Research
+- Dakka Strom
+
+> bigga waaagh! (?)

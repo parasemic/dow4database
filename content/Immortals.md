@@ -11,6 +11,8 @@ dg-publish: true
 - Good versus all targets
 - High mobility
 ---
+Base Cost: **??** ![[dom.png|20]] | Supply Cost: **??** ![[dom.png|20]]/min | Build Time: **??.?** sec.
+from [[Tomb Citadel]]
 
 ---
 
@@ -20,3 +22,6 @@ dg-publish: true
 | Armour Penetration    |     |     |
 | Invulnerability Saves |  -  |     |
 | HP                    |     |     |
+
+---
+#### Research

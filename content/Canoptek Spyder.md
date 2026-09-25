@@ -14,6 +14,7 @@ dg-publish: true
 - Low Durability
 ---
 Base Cost: **??** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Build Time: **??.?** sec.
+from [[Canoptek Foundry]]
 
 ---
 
@@ -28,3 +29,10 @@ Base Cost: **??** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Bui
 >
 
 > ranged weapon upgrade
+
+---
+#### Research
+- Superior Necrodeermis
+
+- Unyielding Armament
+- Accelerated Awakening

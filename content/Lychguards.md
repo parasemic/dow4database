@@ -13,6 +13,7 @@ dg-publish: true
 ---
 Base Cost: **??** ![[dom.png|20]] | 6 ![[dom.png|20]]/min
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel III|Tomb Citadel III]]*
+from [[Tomb Citadel]]
 
 ---
 
@@ -22,3 +23,7 @@ Base Cost: **??** ![[dom.png|20]] | 6 ![[dom.png|20]]/min
 | Armour Penetration    |     |     |
 | Invulnerability Saves |  -  |     |
 | HP                    |     |     |
+
+---
+#### Research
+- Superior Necrodermis

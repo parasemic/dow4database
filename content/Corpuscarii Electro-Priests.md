@@ -13,14 +13,21 @@ dg-publish: true
 ---
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **19** ![[req.png|20]]/min | Build Time: **25.0** sec.
 *Requires Network Strength IV*
+from [[Omnissian Cult]]
 
 ---
 
 | [[Member Count]]      |  6   | max ? |
 | --------------------- | :--: | ----- |
-| [[Armour]]            |  5   |       |
+| [[Armour]]            |  5   | Light |
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves | 15%  |       |
 | HP                    | 1875 |       |
 
 2 upgrades
+
+---
+#### Research
+- Canticles Of Battle
+- Electromartyrs
+- Enhanced Bionics

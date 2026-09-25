@@ -12,6 +12,7 @@ dg-publish: true
 - Invisible at a distance
 ---
 Base Cost: **350** ![[req.png|20]] | Supply Cost: **24** ![[req.png|20]]/min | Build Time: **10.0** sec.
+from [[Chapter Keep]] & [[Chapel Barracks]]
 
 ---
 
@@ -36,7 +37,6 @@ This unit is invisible to enemies until it attacks, captures, or moves within de
 >
 Takes reduced ranged damage when detected.
 #### Wargear
-
 > [!example] Infiltrator Comms Arrays
 > *Passive Ability*
 > Increases [[Command Points]] gain.
@@ -49,3 +49,14 @@ Takes reduced ranged damage when detected.
 Base Cost: **140** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **20.0** sec.
 
 ---
+#### Research
+- Enhanced Physiology
+- Take And Hold
+- Vanguard Tactics
+- Guerilla tactics
+- Adaptive Strategy
+
+- Burning Hatred
+
+- Battle Drill Recall
+- Lightning Deployment

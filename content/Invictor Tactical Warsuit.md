@@ -12,6 +12,8 @@ dg-publish: true
 - High mobility
 ---
 Base Cost: **470** ![[req.png|20]] | **40** ![[pow.png|20]] | Supply Cost: **38** ![[req.png|20]]/min | Build Time: **15.0** sec.
+from [[Chapel Barracks]]
+*Requires upgrade: Vanguard Attachment*
 
 ---
 
@@ -21,3 +23,13 @@ Base Cost: **470** ![[req.png|20]] | **40** ![[pow.png|20]] | Supply Cost: **38*
 | Armour Penetration    |  8   |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 3300 |         |
+
+---
+#### Research
+- Guerilla Tactics
+- Adaptive Strategy
+
+> Burning Hatred (?)
+
+- Battle Drill Recall
+- Lightning Deployment

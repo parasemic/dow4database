@@ -15,28 +15,34 @@ dg-publish: true
 Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
-**+65** req/min income
+**+65** ![[req.png|20]]/min income (130)
 
 | HP         | 1500 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
 
 ---
-#### Listenin' Shack II
-*Upgrade*
-Adds a Rokkit Launcha and increases Requisition gain.
-**200** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **45.0** sec.
-**WA**
+> [!tip] Listenin' Shack II
+> *Upgrade*
+> Adds a Rokkit Launcha and increases Requisition gain.
+> **200** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **45.0** sec.
+> **WA**
 
 ## Listenin' Shack II
 *Resource Point*
 - Provides Requisition
 - Prevents enemy capture
 - Armed with a Rokkit Launcha
-=> **+65** ![[req.png|20]]/min (130)
+=> **+65** ![[req.png|20]]/min (195)
 
 5000hp
-#### Listenin' Shack III
-*Upgrade*
-Adds a Kustom Mega-Kannon and increases Requisition gain.
-**300** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **45.0** sec.
+
+> [!tip]  Listenin' Shack III
+> *Upgrade*
+> Adds a Kustom Mega-Kannon and increases Requisition gain.
+> **300** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **45.0** sec.
+
+## Listenin' Shack III
+*Resource Point*
+
+=> **+65** ![[req.png|20]]/min (260)

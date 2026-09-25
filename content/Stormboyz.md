@@ -12,6 +12,7 @@ dg-publish: true
 - Can jump over obstacles
 ---
 Base Cost: **210** ![[req.png|20]] | **5** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **15.0** sec.
+from [[Boyz Fort]]
 
 ---
 
@@ -27,3 +28,12 @@ Base Cost: **210** ![[req.png|20]] | **5** ![[pow.png|20]] | Supply Cost: **30**
 
 Upgrade 1
 Upgrade 2
+
+---
+#### Research
+- Ded 'Ard
+- Get Stuck In!
+
+- Bigga waaagh!
+- Dead Choppy
+- Mob Rule

@@ -17,7 +17,7 @@ Base Cost: **300** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?
 
 ---
 Produces Units:
-- [[Beastboss on Squigosaur]]
+- Commander ([[Beastboss on Squigosaur]] or [[Warboss]])
 - [[Gretchin]]
 - [[Slugga Boyz]]
 - [[Shoota Boyz]]

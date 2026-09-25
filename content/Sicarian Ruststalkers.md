@@ -12,6 +12,7 @@ dg-publish: true
 - Invisible at a distance
 ---
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+from [[War Cohort Altar]]
 
 ---
 
@@ -21,3 +22,6 @@ Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??**
 | Armour Penetration    |  6   |     |
 | Invulnerability Saves |  5%  |     |
 | HP                    | 1000 |     |
+
+---
+#### Research

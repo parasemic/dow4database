@@ -13,6 +13,7 @@ dg-publish: true
 -  Very low durability
 ---
 Base Cost: **50** ![[req.png|20]] | Supply Cost: **2** ![[req.png|20]]/min | Build Time: **10.0** sec.
+from [[Mega Bossbunka]]
 
 ---
 ![[Gretchin.png]]
@@ -29,3 +30,9 @@ Base Cost: **50** ![[req.png|20]] | Supply Cost: **2** ![[req.png|20]]/min | Bui
 > - Repair:
 >	*Active Ability*
 >	???.
+
+---
+#### Research
+- Bigga Waaagh!
+- Dead Choppy!
+- Mob Rules

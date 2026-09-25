@@ -5,7 +5,7 @@ dg-publish: true
 # [[_Main Page.canvas|=> Main Page]]
 
 > [!Welcome]
-> this is the dow4.forestry.md landing page.
+> This is the dow4.forestry.md landing page.
 > 
 > Click the 'Main Page' title to get to the default Obsidian canvas.
 > 

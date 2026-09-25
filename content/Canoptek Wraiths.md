@@ -13,7 +13,8 @@ dg-publish: true
 - Good versus all targets
 - Can phase through obstacles
 ---
-Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
+Base cost:  ![[dom.png|20]] | Supply Cost:  dom/min | ![[dom.png|20]] build time: **??** sec.
+from [[Canoptek Foundry]]
 
 ---
 
@@ -29,3 +30,9 @@ Base cost:  dominion | Supply Cost:  dom/min | Base build time: sec.
 > - Hyperphasing:
 >	*Active Ability*
 >	Become invulnerable and move to target location in range, ignoring obstacles.
+
+---
+#### Research
+- Superior Necrodermis
+
+- Accelerated Awakening

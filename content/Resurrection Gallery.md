@@ -11,7 +11,7 @@ dg-publish: true
 - Can only resurrect one unit at a time
 - Must be built on the Power Matrix
 ---
-Base Cost: **?** dom | Build Time: **?** sec.
+Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
 
 ---
 

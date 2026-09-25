@@ -11,8 +11,14 @@ dg-publish: true
 - Can be built anywhere in vision
 - Can teleport
 ---
-dom
-3000 hp
+Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
+
+---
+
+| HP         | 3000 |           |
+| ---------- | ---- | --------- |
+| [[Armour]] | <br> | Structure |
+
 
 ---
 *Upgrade*

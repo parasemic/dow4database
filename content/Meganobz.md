@@ -12,6 +12,7 @@ dg-publish: true
 - High durability
 ---
 **350** ![[req.png|20]] | **40** ![[pow.png|20]] | **46** ![[req.png|20]]/min | **25.0** sec.
+from [[Boyz Fort]]
 
 ---
 
@@ -21,7 +22,6 @@ dg-publish: true
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 4800 |       |
-
 
 | *Armour Effectiveness* | 7 AP    |
 | ---------------------- | ------- |
@@ -57,3 +57,12 @@ dg-publish: true
 >| Structure              |   |
 
 2 upgrades
+
+---
+#### Research
+- Extra Teef
+- Get Stuck In!
+
+- Bigga Waaagh!
+- Dead Choppy!
+- Mob Rule

@@ -13,8 +13,11 @@ dg-publish: true
 - Good versus all targets
 - Low mobility
 ---
-Base Cost:  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base build time: sec.
+Base Cost: **??** ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base build time: **??** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel III|Tomb Citadel III]]*
+from [[Destroyer Crypt]]
+
+---
 
 | [[Member Count]]      |  1   |       |
 | --------------------- | :--: | ----- |
@@ -45,3 +48,9 @@ Base Cost:  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base bui
 | Vehicle                | 288-291 |
 | Structure              | 202-206 |
 
+---
+#### Research
+- Superior Necrodermis
+
+- Relentless Onslaught
+- Oblivion's Call

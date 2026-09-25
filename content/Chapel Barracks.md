@@ -25,6 +25,8 @@ produces units:
 - [[Infiltrator Squad]]
 - [[Intercessor Squad]]
 - [[Assault Intercessor Squad]]
+- [[Invictor Tactical Warsuit]]
+- eliminator squad
 
 ---
 #### Research
@@ -49,7 +51,7 @@ produces units:
 >=> Ranged Damage Taken **-20%**
 > **120.0** sec.
 
-> [!tip] Guerilla tactics
+> [!tip] Guerilla Tactics
 > *Research*
 > Increases maximum HP for the following units:
 > - Infiltrator Squad
