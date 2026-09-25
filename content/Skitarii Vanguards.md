@@ -47,3 +47,6 @@ from [[War Cohort Altar]]
 >
 > *Requires research: Greater Battle Maniple Mobilisation *
 > Cost: **70** ![[req.png|20]] | Build Time: **10.0** sec.
+
+----
+#### Relevant Research

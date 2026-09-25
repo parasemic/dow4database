@@ -14,3 +14,7 @@ dg-publish: true
 Base Cost: **50** ![[req.png|20]] | Build Time: **??.?** sec.
 
 ---
+
+---
+#### Relevant research
+- Loadsa scrap!

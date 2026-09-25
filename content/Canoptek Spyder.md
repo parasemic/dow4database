@@ -31,8 +31,8 @@ from [[Canoptek Foundry]]
 > ranged weapon upgrade
 
 ---
-#### Research
+#### Relevant research
 - Superior Necrodeermis
-
+>
 - Unyielding Armament
 - Accelerated Awakening

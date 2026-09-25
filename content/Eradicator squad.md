@@ -40,11 +40,11 @@ from [[Sanctum]]
 > Base Cost: **150** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **15.0** sec.
 
 ---
-#### Research
+#### Relevant research
 - Take And Hold
-
+>
 - Burning Hatred
 - Terrifying Efficiency
-
+>
 - Battle Drill Recall
 - Lightning Deployment

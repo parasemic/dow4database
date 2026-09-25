@@ -53,12 +53,12 @@ from [[Chapel Barracks]]
 > > [!danger] Supercharge Plasma Pistol
 > > Fire a supercharged shot at target enemy, dealing area damage.
 
-#### Research
+#### Relevant research
 - Enhanced Physiology
 - Take And Hold
 - Adaptive Strategy
-
+>
 - Burning Hatred
-
+>
 - Battle Drill Recall
 - Lightning Deployment

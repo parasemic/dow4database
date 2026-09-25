@@ -38,10 +38,10 @@ from [[Beast Snagga Hut]]
 > Throw explosives at target enemy, dealing area damage.
 
 ---
-#### Research
+#### Relevant Research
 - Orky Outriderz
 - Beast Snagga Teef
-
+>
 - Bigga Waaagh!
 - Dead Choppy!
 - Mob Rule

@@ -21,3 +21,9 @@ Produces Units:
 - [[Gretchin]]
 - [[Slugga Boyz]]
 - [[Shoota Boyz]]
+
+---
+#### Relevant Research
+- Loadsa Scrap!
+
+- Dakka Storm

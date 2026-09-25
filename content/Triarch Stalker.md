@@ -46,7 +46,7 @@ from [[Tomb Citadel]]
 > Can toggle weapon profile
 
 ---
-#### Research
+#### Relevant Research
 - Superior Necrodermis
-
+>
 - Unyielding Armament

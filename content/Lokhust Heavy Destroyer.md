@@ -49,8 +49,8 @@ from [[Destroyer Crypt]]
 | Structure              | 202-206 |
 
 ---
-#### Research
+#### Relevant Research
 - Superior Necrodermis
-
+>
 - Relentless Onslaught
 - Oblivion's Call

@@ -17,10 +17,10 @@ from [[Beast Snagga Hut]]
 ---
 
 ---
-#### Research
+#### Relevant Research
 - 'Arder Armour
 - Beast Snagga teef
-
+>
 - Bigga Waaagh!
 - Dead Choppy
 - Mob Rule

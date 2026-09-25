@@ -24,4 +24,4 @@ from [[Tomb Citadel]]
 | HP                    |     |     |
 
 ---
-#### Research
+#### Relevant Research

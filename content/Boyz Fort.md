@@ -65,3 +65,9 @@ Produces units:
 Reduces production time for units from Boyz Forts.
 => Production Time: **-35%**
 **150.0** sec.
+
+---
+#### Relevant research
+- Loadsa scrap!
+
+- Dakka Strom

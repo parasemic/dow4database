@@ -25,3 +25,6 @@ from [[Dominus Forgeshrine]]
 | Invulnerability Saves | 20%  |       |
 | HP                    | 1970 |       |
 > [!danger] Abilities
+
+---
+#### Relevant Research

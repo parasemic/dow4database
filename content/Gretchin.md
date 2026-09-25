@@ -32,7 +32,7 @@ from [[Mega Bossbunka]]
 >	???.
 
 ---
-#### Research
+#### Relevant research
 - Bigga Waaagh!
 - Dead Choppy!
 - Mob Rules

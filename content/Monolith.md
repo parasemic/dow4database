@@ -27,7 +27,7 @@ from [[Tomb Citadel]]
 >	Teleport to target location in range.
 
 ---
-#### Research
+#### Relevant Research
 - Superior Necrodermis
-
+>
 - Unyielding Armament

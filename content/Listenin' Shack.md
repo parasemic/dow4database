@@ -46,3 +46,9 @@ Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?
 *Resource Point*
 
 => **+65** ![[req.png|20]]/min (260)
+
+---
+#### Relevant Research
+- Loadsa Scrap!
+
+- Dakka Storm

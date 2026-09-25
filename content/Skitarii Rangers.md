@@ -25,4 +25,4 @@ from [[War Cohort Altar]]
 | HP                    | 1100 |        |
 
 ---
-#### Research
+#### Relevant Research

@@ -19,6 +19,6 @@ from [[Omnissian Cult]]
 ---
 
 ---
-#### Research
+#### Relevant Research
 - Canticles Of Battle
 - Maniple Expansion

@@ -49,14 +49,14 @@ Takes reduced ranged damage when detected.
 Base Cost: **140** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **20.0** sec.
 
 ---
-#### Research
+#### Relevant Research
 - Enhanced Physiology
 - Take And Hold
 - Vanguard Tactics
 - Guerilla tactics
 - Adaptive Strategy
-
+>
 - Burning Hatred
-
+>
 - Battle Drill Recall
 - Lightning Deployment

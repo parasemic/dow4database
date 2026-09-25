@@ -35,8 +35,8 @@ from [[Canoptek Foundry]]
 | Structure              | 99-99   |
 
 ---
-#### Research
+#### Relevant research
 - Superior Necrodermis
-
+>
 - Undying Armament
 - Accelerated Awakening

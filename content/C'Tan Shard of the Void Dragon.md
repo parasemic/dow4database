@@ -13,4 +13,6 @@ dg-publish: true
 **??** ![[dom.png|20]] | **15** ![[dom.png|20]]/min | sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
 Build limit: **1**
+from [[Tomb Citadel]]
+
 ---

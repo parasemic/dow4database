@@ -24,7 +24,7 @@ from [[Beast Snagga Hut]]
 | HP                    |     |       |
 
 ---
-#### Research
+#### Relevant research
 - Beast Snagga Teef
-
+>
 - Bigga Waaagh!

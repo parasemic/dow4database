@@ -24,12 +24,12 @@ from [[Scrap 'Eap]]
 | HP                    | 6500 |         |
 
 ---
-#### Research
+#### Relevant research
 - Loadsa Scrap!
 - Extra Gubbinz
 - 'Ard Case
 - Grot Oilers
-
+>
 - Bigga Waaagh!
 - Dead Choppy!
 - Mod Rule

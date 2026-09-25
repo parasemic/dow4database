@@ -25,6 +25,6 @@ from [[Omnissian Cult]]
 | HP                    | 1800 |       |
 
 ---
-#### Research
+#### Relevant Research
 - Canticles Of Battle
 - Battle Servitor Production

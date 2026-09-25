@@ -44,3 +44,9 @@ Base Cost: **150** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?
 > Increases XP gain for all units.
 > => gain?
 > **120.0** sec.
+
+---
+#### Relevant Research
+- Loadsa Scrap!
+
+- Dakka Storm

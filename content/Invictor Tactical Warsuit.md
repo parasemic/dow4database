@@ -25,11 +25,11 @@ from [[Chapel Barracks]]
 | HP                    | 3300 |         |
 
 ---
-#### Research
+#### Relevant Research
 - Guerilla Tactics
 - Adaptive Strategy
-
+>
 > Burning Hatred (?)
-
+>
 - Battle Drill Recall
 - Lightning Deployment

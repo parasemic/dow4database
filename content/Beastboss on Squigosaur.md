@@ -26,7 +26,7 @@ from [[Mega Bossbunka]]
 | HP                    | 2800 |       |
 
 ---
-#### Research
+#### Relevant research
 - Bigga Waaagh!
 - Dead Choppy!
 - Mob Rule

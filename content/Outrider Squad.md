@@ -24,8 +24,7 @@ from [[Armoury]]
 | HP                    |     |       |
 
 ---
-#### Research
+#### Relevant Research
 - Take And Hold
-
-
+>
 - Burning Hatred

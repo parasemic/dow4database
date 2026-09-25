@@ -58,3 +58,8 @@ Base Cost: **100** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **??.?*
 > => Armour Penetration: **+4**
 > **120** sec.
 > **WAAA**
+
+#### Relevant research
+- Loadsa Scrap!
+
+- Dakka Storm

@@ -49,3 +49,9 @@ Produces Units:
 > *Research*
 > Increases HP regain rate for vehicles while out of combat.
 > **180.0** sec. 
+
+---
+#### Relevant Research
+- Loadsa Scrap!
+>
+- Dakka Storm

@@ -24,11 +24,11 @@ from [[Beast Snagga Hut]]
 | HP                    |     |       |
 
 ---
-#### Research
+#### Relevant research
 - 'Arder Armour
 - Beast Snagga Teef
 - Monster Hunterz
-
+>
 - Bigga Waaagh!
 - Dead Choppy!
 - Mob Rule

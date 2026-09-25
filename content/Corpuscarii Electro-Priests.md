@@ -27,7 +27,7 @@ from [[Omnissian Cult]]
 2 upgrades
 
 ---
-#### Research
+#### Relevant research
 - Canticles Of Battle
 - Electromartyrs
 - Enhanced Bionics

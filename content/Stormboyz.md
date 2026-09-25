@@ -30,10 +30,10 @@ Upgrade 1
 Upgrade 2
 
 ---
-#### Research
+#### Relevant Research
 - Ded 'Ard
 - Get Stuck In!
-
+>
 - Bigga waaagh!
 - Dead Choppy
 - Mob Rule

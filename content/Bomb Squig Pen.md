@@ -14,3 +14,9 @@ dg-publish: true
 Base Cost: **200** ![[req.png|20]] | **32** ![[pow.png|20]] | Build Time: **??.?** sec.
 
 ---
+
+---
+#### Relevant research
+- Loadsa Scrap!
+
+- Dakka Storm

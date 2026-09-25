@@ -32,7 +32,7 @@ from [[Canoptek Foundry]]
 >	Become invulnerable and move to target location in range, ignoring obstacles.
 
 ---
-#### Research
+#### Relevant research
 - Superior Necrodermis
-
+>
 - Accelerated Awakening

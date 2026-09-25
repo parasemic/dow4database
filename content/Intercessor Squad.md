@@ -61,12 +61,12 @@ from [[Chapel Barracks]]
 Base Cost: **30** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **5.0** sec.
 
 ---
-#### Research
+#### Relevant Research
 - Enhanced Physiology
 - Take And Hold
 - Adaptive Strategy
-
+>
 - Burning Hatred
-
+>
 - Battle Drill Recall
 - Lightning Deployment

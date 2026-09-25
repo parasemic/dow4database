@@ -24,5 +24,5 @@ from [[Tomb Citadel]]
 | HP                    | 2100 |        |
 
 ---
-#### Research
+#### Relevant Research
 - Superior Necrodermis

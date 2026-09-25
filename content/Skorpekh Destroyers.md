@@ -25,8 +25,8 @@ from [[Destroyer Crypt]]
 | HP                    | 2550 |       |
 
 ---
-#### Research
+#### Relevant Research
 - Superior Necrodermis
-
+>
 - Relentless Onslaught
 - Oblivion's Call

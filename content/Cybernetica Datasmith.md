@@ -32,8 +32,8 @@ from [[Dominus Forgeshrine]] & [[Omnissian Cult]]
 | Structure              | 16-28 |
 > [!danger] Abilities
 > *repairs*
-#### Research
+#### Relevant research
 - Battle Codifiers I - III
-
+>
 - Canticles of Battle
 - Enhanced Bionics

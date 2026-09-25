@@ -33,7 +33,7 @@ Upgrade 1
 Upgrade 2
 
 ---
-#### Research
+#### Relevant research
 - Superior Necrodermis
-
+>
 - Accelerated Awakening

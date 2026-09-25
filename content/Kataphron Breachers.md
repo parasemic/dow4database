@@ -52,6 +52,6 @@ from [[Omnissian Cult]]
 > Cost: **??** ![[req.png|20]] | Build Time: **??** sec.
 
 ---
-#### Research
+#### Relevant Research
 - Canticles Of Battle
 - Battle Servitor Production

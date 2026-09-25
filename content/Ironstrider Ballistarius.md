@@ -52,3 +52,6 @@ from [[War Cohort Altar]]
 | Heavy                  |   95-95  |
 | Vehicle                |  142-142   |
 | Structure              |  67-67   |
+
+---
+#### Relevant Research
