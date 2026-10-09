@@ -12,22 +12,20 @@ dg-publish: true
 - Produces canoptek units
 - Expands the Power Matrix
 - Must be built on the Power Matrix
----
+- - -
 Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP     | 2500 |           |
 | ------ | ---- | --------- |
 | Armour | <br> | Structure |
-
----
+- - -
 Produces units:
 - [[Canoptek Scarabs]]
 - [[Canoptek Spyder]]
 - [[Canoptek Wraiths]]
 - [[Canoptek Doomstalker]]
----
+- - -
 #### Research
 > [!tip] Unyielding Armament
 *Research*

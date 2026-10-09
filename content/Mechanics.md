@@ -15,7 +15,7 @@ dg-publish: true
 [[Reinforce]]
 [[Reserve Production]]
 [[Retreat]]
-[[Saves]]
+[[Invulnerable Save]]
 [[Stealth]]
 [[Veterancy]]
 [[Waaagh!]]

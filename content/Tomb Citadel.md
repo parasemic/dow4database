@@ -14,10 +14,9 @@ dg-publish: true
 - Upgrade to unlock units
   > [!warning] *Cannot have more than one Tomb Citadel*
 
----
+- - -
 Base Cost: **??** ![[dom.png|20]] |  Build Time: **??.?** sec.
-
----
+- - -
 #### Research
 > [!tip] ??
 > *Research*

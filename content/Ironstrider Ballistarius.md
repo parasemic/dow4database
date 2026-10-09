@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at long range
 - High mobility
 - Good versus infantry
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[War Cohort Altar]]
-
----
+- - -
 
 | [[Member Count]]      |  1   | max 1   |
 | --------------------- | :--: | ------- |

@@ -25,7 +25,7 @@ tags:
 ### Time Limit
 - None
 ### Destroy All HQs To Win
-- [x] 
+- [o] 
 ## ECONOMY
 ### Starting Requisition
 - Medium

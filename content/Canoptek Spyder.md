@@ -12,11 +12,10 @@ dg-publish: true
 - Can build a Tomb Pylon
 - Effective in melee
 - Low Durability
----
+- - -
 Base Cost: **??** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Build Time: **??.?** sec.
 from [[Canoptek Foundry]]
-
----
+- - -
 
 | [[Member Count]]      |  1  | max 1   |
 | --------------------- | :-: | ------- |
@@ -29,8 +28,7 @@ from [[Canoptek Foundry]]
 >
 
 > ranged weapon upgrade
-
----
+- - -
 #### Relevant research
 - Superior Necrodeermis
 >

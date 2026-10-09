@@ -10,12 +10,11 @@ dg-publish: true
 - Effective at all ranges
 - Good versus all targets
 - High mobility
----
+- - -
 Base cost:  **45** ![[dom.png|20]] | Supply Cost:  **7** ![[dom.png|20]]/min | Base build time: **34.8** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
 from [[Tomb Citadel]]
-
----
+- - -
 
 | [[Member Count]]      |  1   |         |
 | --------------------- | :--: | ------- |

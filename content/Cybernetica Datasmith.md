@@ -11,11 +11,10 @@ dg-publish: true
 - Builds Structures
 - Can perform repairs
 - Can attach to Kastelan Robots
----
+- - -
 Base Cost: **90** ![[req.png|20]] | Supply Cost: **7** ![[req.png|20]]/min | Build Time: **10.0** sec.
 from [[Dominus Forgeshrine]] & [[Omnissian Cult]]
-
----
+- - -
 
 | [[Member Count]]      |  1  | max 1 |
 | --------------------- | :-: | ----- |

@@ -10,12 +10,9 @@ dg-publish: true
 ## Auspex Shrine
 *Upgrade*
 Prevents enemy capture and increases Requisition gain.
-
----
+- - -
 Base Cost: **50** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **??.?** sec.
-
----
-
+- - -
 I => 2000 hp
 II => 3700 hp
 

@@ -4,9 +4,9 @@ tags:
   - Neutral
   - Mechanic
 ---
-# Armour ![[Armour_120.png|75]]
-Reduces all damage taken by **8%** for each point more than an attacker's Armour Penetration.
+# Armour ![[Armour_120.png|50]]
 
+Reduces all damage taken by **8%** for each point more than an attacker's Armour Penetration.
 
 > [!info] Armour Penetration
 > ![[AP_120.png|50]]

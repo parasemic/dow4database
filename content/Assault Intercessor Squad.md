@@ -10,11 +10,10 @@ dg-publish: true
 - Effective in melee
 - Good versus infantry
 - Can equip Jump Packs
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[Chapel Barracks]]
-
----
+- - -
 
 | [[Member Count]]      |  5   | max 5 |
 | --------------------- | :--: | ----- |

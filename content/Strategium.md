@@ -11,14 +11,14 @@ dg-publish: true
 - Provides research
 - Build structures to unlock research
 - Upgrade structures to unlock research
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 2000 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
+- - -
 #### Research
 > [!tip] --
 > *Research*

@@ -11,11 +11,10 @@ dg-publish: true
 - Effective at long range
 - Good versus infantry
 - Low mobility
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[War Cohort Altar]]
-
----
+- - -
 
 | [[Member Count]]      |  10  | max 20 |
 | --------------------- | :--: | ------ |
@@ -23,6 +22,5 @@ from [[War Cohort Altar]]
 | Armour Penetration    |  1   |        |
 | Invulnerability Saves | 15%  |        |
 | HP                    | 1100 |        |
-
----
+- - -
 #### Relevant Research

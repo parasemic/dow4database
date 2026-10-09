@@ -12,11 +12,10 @@ dg-publish: true
 - Frontline leader
 - Effective at range
 - Empowers friendly units
----
+- - -
 Base Cost: **370** ![[req.png|20]] | **30** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[Dominus Forgeshrine]]
-
----
+- - -
 
 | [[Member Count]]      |  3   | max ? |
 | --------------------- | :--: | ----- |
@@ -26,5 +25,5 @@ from [[Dominus Forgeshrine]]
 | HP                    | 1970 |       |
 > [!danger] Abilities
 
----
+- - -
 #### Relevant Research

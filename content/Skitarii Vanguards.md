@@ -11,11 +11,10 @@ dg-publish: true
 - Effective a short range
 - High Mobility
 - Attacks reduce [[Armour]]
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[War Cohort Altar]]
-
----
+- - -
 
 | [[Member Count]]      |  10  | max 20 |
 | --------------------- | :--: | ------ |
@@ -24,7 +23,7 @@ from [[War Cohort Altar]]
 | Invulnerability Saves | 15%  |        |
 | HP                    | 1100 | 2200   |
 +2 AP with gun
-
+- - -
 > [!example] Plasma Caliver X 3
 > *Equipment*
 > - Upgrades weaponry for a member

@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at all ranges
 - Good versus infantry
 - Moderate durability
----
+- - -
 Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Scrap 'Eap]]
-
----
+- - -
 
 | [[Member Count]]      |  1  | max     |
 | --------------------- | :-: | ------- |
@@ -22,8 +21,7 @@ from [[Scrap 'Eap]]
 | Armour Penetration    |     |         |
 | Invulnerability Saves |  -  |         |
 | HP                    |     |         |
-
----
+- - -
 > [!abstract] Wargear
 >> [!abstract] **Killsaws**
 >>
@@ -82,7 +80,7 @@ from [[Scrap 'Eap]]
 >> | Vehicle                | 202-220 |
 >> | Structure              | 142-154 |
 
----
+- - -
 #### Relevant research
 - Loadsa Scrap!
 - Extra Gubbinz

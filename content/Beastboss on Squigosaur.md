@@ -11,12 +11,11 @@ dg-publish: true
 - Mobile skirmisher
 - Effective at all ranges
 - Empowers friendly units
----
+- - -
 Base Cost: **550** ![[req.png|20]] | **40** ![[pow.png|20]] | Supply Cost: **50** ![[req.png|20]]/min | Build Time: **30.0** sec.
 **WAA**
 from [[Mega Bossbunka]]
-
----
+- - -
 
 | [[Member Count]]      |  1   | max 1 |
 | --------------------- | :--: | ----- |

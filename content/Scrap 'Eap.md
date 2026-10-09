@@ -11,11 +11,10 @@ dg-publish: true
 - Produces vehicles
 - Provides research
 - Armed with Big Shootas
----
+- - -
 Base Cost: **200** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?** sec.
 **WA**
-
----
+- - -
 Produces Units:
 - [[Flash Gitz]]
 - [[Deffkoptas]]

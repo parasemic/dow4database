@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at range
 - Good versus all targets
 - High durability
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[Scrap 'Eap]]
-
----
+- - -
 
 | [[Member Count]]      |  1   | max 1   |
 | --------------------- | :--: | ------- |
@@ -22,8 +21,7 @@ from [[Scrap 'Eap]]
 | Armour Penetration    |  8   |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 6500 |         |
-
----
+- - -
 #### Relevant research
 - Loadsa Scrap!
 - Extra Gubbinz

@@ -12,21 +12,19 @@ dg-publish: true
 - Produces Destroyer units
 - Expands the Power Matrix
 - Must be built on the Power Matrix
----
+- - -
 Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
 *Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
-
----
+- - -
 
 | HP     |      |           |
 | ------ | ---- | --------- |
 | Armour | <br> | Structure |
-
----
+- - -
 Produces Units:
 - [[Skorpekh Destroyers]]
 - [[Lokhust Heavy Destroyer]]
----
+- - -
 #### Research
 > [!tip] Relentless Onslaught
 > *Research*

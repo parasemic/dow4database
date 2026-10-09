@@ -10,11 +10,10 @@ dg-publish: true
 - Effective in melee
 - High mobility
 - Can throw Explosives
----
+- - -
 Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Beast Snagga Hut]]
-
----
+- - -
 
 | [[Member Count]]      |  3   | max 6 |
 | --------------------- | :--: | ----- |
@@ -22,8 +21,7 @@ from [[Beast Snagga Hut]]
 | Armour Penetration    |  2   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 1500 |       |
-
----
+- - -
 
 | *Armour Effectiveness* |         | per model |
 | ---------------------- | ------- | :-------: |
@@ -31,7 +29,8 @@ from [[Beast Snagga Hut]]
 | Heavy                  | 60-99   |   20-33   |
 | Vehicle                | 18-60   |   6-20    |
 | Structure              | 15-72   |   5-24    |
-
+|                        |         |           |
+- - -
 > [!danger] Abilities
 > - **Stikka Throw**
 > *Active Ability*

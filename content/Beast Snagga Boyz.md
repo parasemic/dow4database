@@ -13,8 +13,7 @@ dg-publish: true
 ---
 **150** ![[req.png|20]] | **15** ![[pow.png|20]] | **28** ![[req.png|20]]/min | **15** sec.
 from [[Beast Snagga Hut]]
-
----
+- - -
 
 | [[Member Count]]      |     |       |
 | --------------------- | :-: | ----- |
@@ -22,8 +21,7 @@ from [[Beast Snagga Hut]]
 | Armour Penetration    |     |       |
 | Invulnerability Saves |  -  |       |
 | HP                    |     |       |
-
----
+- - -
 #### Relevant research
 - 'Arder Armour
 - Beast Snagga Teef

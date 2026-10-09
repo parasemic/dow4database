@@ -10,11 +10,10 @@ dg-publish: true
 - Good versus infantry
 - Low durability
 - Free at maximum [[Waaagh!]]
----
+- - -
 Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Mega Bossbunka]] & [[Boyz Fort]]
-
----
+- - -
 
 | [[Member Count]]      |  10  | max 20 |
 | --------------------- | :--: | ------ |
@@ -22,8 +21,7 @@ from [[Mega Bossbunka]] & [[Boyz Fort]]
 | Armour Penetration    |  1   |        |
 | Invulnerability Saves |  -   |        |
 | HP                    | 1200 |        |
-
----
+- - -
 
 | *Armour Effectiveness* | 10/10 | per model |
 | ---------------------- | ----- | :-------: |
@@ -31,7 +29,7 @@ from [[Mega Bossbunka]] & [[Boyz Fort]]
 | Heavy                  | 30-50 |    3-5    |
 | Vehicle                | 10-30 |    1-3    |
 | Structure              | 10-30 |    1-3    |
-
+- - -
 > [!example] Wargear
 > Big Shoota
 > *Equipment*

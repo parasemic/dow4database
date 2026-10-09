@@ -1,9 +1,9 @@
 ---
 tags:
   - Necron
-  - "#Commander"
   - Light
   - Unit
+  - Commander
 dg-publish: true
 ---
 # [[Chronomancer]]
@@ -11,10 +11,10 @@ dg-publish: true
 - Temporal manipulator
 - Effective at range
 - Disrupts enemy units
----
+- - -
 Base cost: **45** ![[dom.png|20]] | Supply Cost: **4** ![[dom.png|20]]/min | Base build time: **29.8** sec.
-
----
+from [[Tomb Citadel]]
+- - -
 
 | Model Count           |  1   |       |
 | --------------------- | :--: | ----- |

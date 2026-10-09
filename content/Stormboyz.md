@@ -10,11 +10,10 @@ dg-publish: true
 - Effective in melee
 - Good versus infantry
 - Can jump over obstacles
----
+- - -
 Base Cost: **210** ![[req.png|20]] | **5** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Boyz Fort]]
-
----
+- - -
 
 | [[Member Count]]      |      | max   |
 | --------------------- | :--: | ----- |

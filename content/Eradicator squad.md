@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at range
 - Excels versus heavy armour
 - Good versus vehicles
----
+- - -
 Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
 from [[Sanctum]]
-
----
+- - -
 
 | [[Member Count]]      |  3   | max 3 |
 | --------------------- | :--: | ----- |
@@ -29,7 +28,7 @@ from [[Sanctum]]
 | Heavy                  | 180-345 |
 | Vehicle                | 189-276 |
 | Structure              | 135-198 |
-
+- - -
 
 > [!example] Heavy Melta rifles
 > *Equipment*
@@ -39,7 +38,7 @@ from [[Sanctum]]
 >  +2 ![[AP_120.png|15]]
 > Base Cost: **150** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **15.0** sec.
 
----
+- - -
 #### Relevant research
 - Take And Hold
 >

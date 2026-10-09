@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at range
 - High mobility
 - Invisible at a distance
----
+- - -
 Base Cost: **350** ![[req.png|20]] | Supply Cost: **24** ![[req.png|20]]/min | Build Time: **10.0** sec.
 from [[Chapter Keep]] & [[Chapel Barracks]]
-
----
+- - -
 
 | [[Member Count]]      |  5   |       |
 | --------------------- | :--: | ----- |
@@ -29,7 +28,7 @@ from [[Chapter Keep]] & [[Chapel Barracks]]
 | Heavy                  | 40-75  |
 | Vehicle                | 0-40   |
 | Structure              | 5-55   |
-
+- - -
 ---
 > [!danger] Stealth
 *Passive Ability*

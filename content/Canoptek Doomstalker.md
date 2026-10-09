@@ -12,11 +12,10 @@ dg-publish: true
 - Effective at long range
 - Excels versus vehicles
 - Low mobility
----
+- - -
 Base cost:  ![[dom.png|20]] | Supply Cost:  ![[dom.png|20]]/min | Base build time: sec.
 from [[Canoptek Foundry]]
-
----
+- - -
 
 | [[Member Count]]      |  1   |         |
 | --------------------- | :--: | ------- |
@@ -24,8 +23,7 @@ from [[Canoptek Foundry]]
 | Armour Penetration    |  9   |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 4000 |         |
-
----
+- - -
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |
@@ -33,8 +31,7 @@ from [[Canoptek Foundry]]
 | Heavy                  | 112-170 |
 | Vehicle                | 202-202 |
 | Structure              | 99-99   |
-
----
+- - -
 #### Relevant research
 - Superior Necrodermis
 >

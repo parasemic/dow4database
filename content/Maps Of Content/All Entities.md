@@ -36,6 +36,7 @@ dg-publish: true
 ![[Heavy.png]]
 ## Ork
 - [[Beastboss on Squigosaur]]
+- [[Warboss]]
 - [[Squighog Boyz]]
 - [[Flash Gitz]]
 - [[Meganobz]]

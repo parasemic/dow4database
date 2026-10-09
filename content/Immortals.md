@@ -10,11 +10,10 @@ dg-publish: true
 - Effective at range
 - Good versus all targets
 - High mobility
----
+- - -
 Base Cost: **??** ![[dom.png|20]] | Supply Cost: **??** ![[dom.png|20]]/min | Build Time: **??.?** sec.
 from [[Tomb Citadel]]
-
----
+- - -
 
 | [[Member Count]]      |     |     |
 | --------------------- | :-: | --- |
@@ -22,6 +21,6 @@ from [[Tomb Citadel]]
 | Armour Penetration    |     |     |
 | Invulnerability Saves |  -  |     |
 | HP                    |     |     |
-
----
+- - -
 #### Relevant Research
+- Superior Necrodermis

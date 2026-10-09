@@ -10,16 +10,14 @@ dg-publish: true
 - Good versus light armour
 - High fire rate
 - Strengthens the Noosphere Network
----
+- - -
 Base Cost: **200** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 1800 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
-
-
+- - -
 
 > [!example] Wargear
 > Cognis Heavy Stubbers

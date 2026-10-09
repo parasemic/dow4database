@@ -11,11 +11,10 @@ dg-publish: true
 - Can perform repairs
 - Ineffective in combat
 -  Very low durability
----
+- - -
 Base Cost: **50** ![[req.png|20]] | Supply Cost: **2** ![[req.png|20]]/min | Build Time: **10.0** sec.
 from [[Mega Bossbunka]]
-
----
+- - -
 ![[Gretchin.png]]
 
 | [[Member Count]]      | 10  |       |
@@ -24,14 +23,14 @@ from [[Mega Bossbunka]]
 | Armour Penetration    |  1  |       |
 | Invulnerability Saves |  -  |       |
 | HP                    | 600 |       |
-
+- - -
 ---
 > [!danger] Abilities
 > - Repair:
 >	*Active Ability*
 >	???.
 
----
+- - -
 #### Relevant research
 - Bigga Waaagh!
 - Dead Choppy!

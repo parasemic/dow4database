@@ -10,11 +10,10 @@ dg-publish: true
 - Good versus infantry
 - Very high mobility
 - Moderate durability
----
+- - -
 Base Cost: **450** ![[req.png|20]] | **15** ![[pow.png|20]] | Supply Cost: **36** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Armoury]]
-
----
+- - -
 
 | [[Member Count]]      |  3  |       |
 | --------------------- | :-: | ----- |
@@ -22,8 +21,7 @@ from [[Armoury]]
 | Armour Penetration    |     |       |
 | Invulnerability Saves |  -  |       |
 | HP                    |     |       |
-
----
+- - -
 #### Relevant Research
 - Take And Hold
 >

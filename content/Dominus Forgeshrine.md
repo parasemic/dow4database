@@ -12,11 +12,10 @@ dg-publish: true
 - Produces basic infantry
 - Produces Commanders
 - Creates a Noosphere Network
----
+- - -
 Base Cost: **500** ![[req.png|20]] | Build Time: **??.?** sec.
 *Requires Network Strength 5*
-
----
+- - -
 
 | HP         | 8000 |           |
 | ---------- | ---- | --------- |
@@ -25,7 +24,7 @@ Base Cost: **500** ![[req.png|20]] | Build Time: **??.?** sec.
 Produces Units:
 - Commnander ([[Skitarii Marshal]] or Potentia)
 - [[Cybernetica Datasmith]]
-
+- - -
 ### Research
 > [!tip] Battle Codifiers
 > *Research*

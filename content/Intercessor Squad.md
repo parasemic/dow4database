@@ -5,16 +5,15 @@ tags:
   - Unit
 dg-publish: true
 ---
-  # [[Intercessor Squad]]
+# [[Intercessor Squad]]
 *All-Purpose Infantry*
 - Effective at range
 - Good versus infantry
 - Can throw grenades
----
+- - -
 Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Chapel Barracks]]
-
----
+- - -
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |
@@ -22,11 +21,12 @@ from [[Chapel Barracks]]
 | Heavy                  | 75-130  |
 | Vehicle                | 45-95   |
 | Structure              | 25-95   |
-
+- - -
 
 > [!danger] Frag/Krak Grenade
 > *Active Ability*
 > Throw a grenade at target enemy, dealing area damage. negates cover.
+> Cooldown: **20** sec. (est.)
 #### upgrades
 > [!example] Stalker Bolt Rifles
 > *Equipment*

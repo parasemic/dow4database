@@ -10,10 +10,11 @@ dg-publish: true
 - Excels at range
 - Very high durability
 - Reserve deployment point
----
-Base Cost: dom | Supply Cost: **15** ![[dom.png|20]]/min
+- - -
+Base Cost: ![[dom.png|20]] | Supply Cost: **15** ![[dom.png|20]]/min
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
 from [[Tomb Citadel]]
+- - -
   
 | [[Member Count]]      |  1   |         |
 | --------------------- | :--: | ------- |
@@ -21,6 +22,7 @@ from [[Tomb Citadel]]
 | Armour Penetration    |  10  |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 7000 |         |
+- - -
 > [!danger] Abilities
 > - Translocation:
 >	~~*Active Ability*~~

@@ -10,11 +10,10 @@ dg-publish: true
 - Good versus infantry
 - Low durability
 - Free at maximum [[Waaagh!]]
----
+- - -
 Base Cost: **160** ![[req.png|20]] | **28** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Mega Bossbunka]] & [[Boyz Fort]]
-
----
+- - -
 
 | [[Member Count]]      |  10  | max 20 |
 | --------------------- | :--: | ------ |
@@ -29,7 +28,7 @@ from [[Mega Bossbunka]] & [[Boyz Fort]]
 | Heavy                  |      |    4-6    |
 | Vehicle                |      |    1-4    |
 | Structure              |      |    1-4    |
-
+- - -
 ---
 > [!example] Wargear
 > #### Burna

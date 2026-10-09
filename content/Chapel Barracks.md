@@ -11,24 +11,21 @@ dg-publish: true
 - Produces infantry
 - Provides research
 - Upgrade to unlock units
----
+- - -
 Base Cost: **200** ![[req.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 1500 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
-
----
+- - -
 produces units:
 - [[Infiltrator Squad]]
 - [[Intercessor Squad]]
 - [[Assault Intercessor Squad]]
 - [[Invictor Tactical Warsuit]]
 - eliminator squad
-
----
+- - -
 #### Research
 > [!tip] Enhanced Physiology
 > *Research*

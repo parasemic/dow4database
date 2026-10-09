@@ -10,15 +10,14 @@ dg-publish: true
 - Produces veteran units
 - Provides research
 - Upgrade to unlock units
----
+- - -
 Base Cost: **400** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 3300 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
-
+- - -
 #### Research
 > [!tip] Heroes Of The Chapter
 > *Research*

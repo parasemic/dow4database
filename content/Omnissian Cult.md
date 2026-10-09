@@ -11,17 +11,15 @@ dg-publish: true
 - Produces Cult Mechanicus units
 - Provides research
 - Strengthens the Noosphere Network (+3)
----
+- - -
 Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 *Requires Network Strength 0*
-
----
+- - -
 
 | HP         | 2500 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
-
----
+- - -
 Produces Units:
 - [[Cybernetica Datasmith]]
 - [[Kataphron Breachers]]

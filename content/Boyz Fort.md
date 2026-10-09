@@ -11,10 +11,9 @@ dg-publish: true
 - Produces infantry
 - Provides research
 - Armour with a Big Shoota
----
+- - -
 Base Cost: **150** ![[req.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 2700 |           |
 | ---------- | ---- | --------- |

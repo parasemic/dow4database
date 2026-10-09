@@ -9,10 +9,9 @@ dg-publish: true
 - Effective at all ranges
 - Excels versus all targets
 - Ignores obstacles
----
-**??** ![[dom.png|20]] | **15** ![[dom.png|20]]/min | sec.
+- - -
+Base Cost: **??** ![[dom.png|20]] | Supply Cost: **15** ![[dom.png|20]]/min | Base Build Time: **??** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
 Build limit: **1**
 from [[Tomb Citadel]]
-
----
+- - -

@@ -11,10 +11,9 @@ dg-publish: true
 - Produces Beast Snagga units
 - Provides research
 - Armed with a Big Shoota
----
+- - -
 Base Cost: **100** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **??.?** sec.
-
----
+- - -
 
 | HP         | 3000 |           |
 | ---------- | ---- | --------- |
