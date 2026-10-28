@@ -7,7 +7,7 @@ $tempDir = Join-Path ([System.IO.Path]::GetTempPath()) "dow4-author-sync"
 
 $remote = "artistrepo"
 $branch = "master"
-$sourceRoot = "DoW4 august 2026"
+$sourceRoot = "DoW4 Orktober Beta"
 
 Write-Host "Fetching author's repository..."
 git -C $repoRoot fetch $remote $branch
