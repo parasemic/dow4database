@@ -9,7 +9,7 @@ affects:
 Time: 120
 Slot:
   - "2"
-pic: "[[Research-ph.png]]"
+pic: "[[Battle Servitor Production.png]]"
 dg-publish: true
 ---
 ##### Battle Servitor Production
@@ -21,3 +21,4 @@ Unlocks the **Force Augmentation I** Wargear for the following units:
 *Requires Network Strength II*
 
 ## Details
+![[Battle Servitor Production.png]]

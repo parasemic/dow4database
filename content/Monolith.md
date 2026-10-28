@@ -26,6 +26,7 @@ from [[Tomb Citadel]]
 | Invulnerability Saves |  -   |         |
 | HP                    | 7000 |         |
 - - -
+![[Translocation.png]]
 > [!danger] Abilities
 > - Translocation:
 >	~~*Active Ability*~~

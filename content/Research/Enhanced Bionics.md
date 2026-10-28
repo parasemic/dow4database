@@ -8,7 +8,7 @@ affects:
 Time: 180
 Slot:
   - "4"
-pic: "[[Research-ph.png]]"
+pic: "[[Enhanced Bionics.png]]"
 dg-publish: true
 ---
 ##### Enhanced Bionics
@@ -20,3 +20,4 @@ All other units produced from Omnissian Cults start with Veterancy Level 1.
 *Requires Network Strength IV*
 
 ## Details
+![[Enhanced Bionics.png]]

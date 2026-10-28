@@ -5,6 +5,7 @@ tags:
   - Unit
   - Utility
 dg-publish: true
+Up-to-date:
 ---
 # [[Gretchin]]
 *Utility Infantry*
@@ -24,11 +25,10 @@ from [[Mega Bossbunka]]
 | Invulnerability Saves |  -  |       |
 | HP                    | 600 |       |
 - - -
----
-> [!danger] Abilities
-> - Repair:
->	*Active Ability*
->	???.
+![[Repair.png]]
+> [!danger] Repair
+> *Active Ability*
+> desc.
 
 - - -
 ### Wargear

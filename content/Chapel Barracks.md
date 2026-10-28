@@ -39,6 +39,7 @@ produces units:
 
 > [!tip] ![[Adaptive Strategy#Adaptive Strategy]]
 ### Upgrade
+![[SM_struct_upgrade.png]]
 > [!todo] Vanguard Attachment
 > *Upgrade*
 > Unlocks Eliminator Squads, Invictor Tactical Warsuits, and additional research.

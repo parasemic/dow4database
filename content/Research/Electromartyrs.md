@@ -8,7 +8,7 @@ affects:
 Time: 120
 Slot:
   - "3"
-pic: "[[Research-ph.png]]"
+pic: "[[Electromartyrs.png]]"
 dg-publish: true
 ---
 ##### Electromartyrs
@@ -18,3 +18,4 @@ Increases maximum HP and unlocks the **Force Augmentation I** Wargear for [[Corp
 *Requires Network Strength IV*
 
 ## Details
+![[Electromartyrs.png]]

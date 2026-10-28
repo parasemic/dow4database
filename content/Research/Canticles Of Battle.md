@@ -8,7 +8,7 @@ affects:
 Time: 90
 Slot:
   - "1"
-pic: "[[Research-ph.png]]"
+pic: "[[Canticles Of Battle.png]]"
 dg-publish: true
 ---
 ##### Canticles Of Battle
@@ -19,3 +19,4 @@ Increases all damage dealt by units from Omnissian Cults.
 *Requires Network Strength II*
 
 ## Details
+![[Canticles Of Battle.png]]
