@@ -5,6 +5,8 @@ tags:
   - Structure
   - Research
 dg-publish: true
+Cost_req: 150
+Up-to-date: true
 ---
 # [[Boyz Fort]]
 *Production Structure*
@@ -28,45 +30,37 @@ Produces units:
 - [[Meganobz]]
 ---
 ### Research:
-> [!tip] Ded 'Ard
-> *Research*
-> Increases Armour for the following units:
-> - Slugga Boyz
-> - [[Stormboyz]]
->
-> => Armour: **+2**
-> **90.0** sec.
+> [!tip] ![[Ded 'Ard#Ded 'Ard]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[More Dakka!#More Dakka!]]
 
-> [!tip] Skarboyz
-> *Research*
-> The following units start with Veterancy Level 1 when produced:
-> - Slugga Boyz
-> - Shoota Boyz
->
-> **150.0** sec.
+> [!tip] ![[Skarboyz#Skarboyz]]
 
-> [!tip] Extra Teef
-*Research*
-> Reduces production costs for the following units:
-> - Flash Gitz
-> - Meganobz
->
-> => Production costs: **-25%**
-> **150.0** sec.
+> [!tip] ![[Extra Teef#Extra Teef]]
 
-> [!tip] Get Stuck In!
-*Research*
-Reduces production time for units from Boyz Forts.
-=> Production Time: **-35%**
-**150.0** sec.
+> [!tip] ![[Get Stuck In!#Get Stuck In!]]
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Ork_structures")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
----
-#### Relevant research
-- Loadsa scrap!
-
-- Dakka Strom
+```

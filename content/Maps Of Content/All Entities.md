@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Up-to-date:
 ---
 ![[Light.png]]
 
@@ -30,6 +31,8 @@ dg-publish: true
 - [[Infiltrator Squad]]
 - [[Intercessor Squad]]
 - [[Assault Intercessor Squad]]
+- [[Bladeguard Veteran Squad]]
+- [[Eliminator Squad]]
 
 ---
 
@@ -48,7 +51,9 @@ dg-publish: true
 - [[Kataphron Breachers]]
 - [[Kataphron Destroyers]]
 ## Spess 'muhreens
-- [[Eradicator squad]]
+- [[Chaplain on Bike]]
+- [[Company Master]]
+- [[Eradicator Squad]]
 - [[Outrider Squad]]
 
 ---
@@ -64,9 +69,14 @@ dg-publish: true
 - [[Monolith]]
 ## Adeptus Mechanicus
 - [[Ironstrider Ballistarius]]
-- [[Kastellan Robot Maniple]]
+- [[Kastelan Robot Maniple]]
+- [[Onager Dunecrawler]]
+- [[Skorpius Disintegrator]]
 ## Spess 'muhreens
 - [[Invictor Tactical Warsuit]]
+- [[Redemptor Dreadnought]]
+- [[Gladiator Reaper]]
+- [[Repulsor Executioner]]
 
 ---
 

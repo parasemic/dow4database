@@ -5,6 +5,10 @@ tags:
   - Structure
   - Research
 dg-publish: true
+Cost_req: 100
+Cost_pow: 5
+Time: 30
+Up-to-date:
 ---
 # [[Strategium]]
 *Utility Structure*
@@ -12,42 +16,53 @@ dg-publish: true
 - Build structures to unlock research
 - Upgrade structures to unlock research
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **100** ![[req.png|20]] / **5** ![[pow.png|20]] | Build Time: **30.0** sec.
 - - -
 
-| HP         | 2000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 2000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 4<br> | Structure |
 - - -
-#### Research
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+### Research
+> [!tip] ![[Not One Backwards Step#Not One Backwards Step]]
 
-> [!tip] Battle Drill Recall
-> *Research*
-> All units produced from [[Chapel Barracks]] and [[Sanctum]]s start at Veterancy Level 1.
-> 
-> Does not apply to:
-> - Redemptor Dreadnought
-> 
-> **150.0** sec.
+> [!tip] ![[Battle Drill Recall#Battle Drill Recall]]
 
-> [!tip] Lightning Deployment
-> *Research*
-> Reduces deployment time for units from the Reserve and [[Thunderhawk Relay]].
-> Removes the additional deployment time for structures outside of the range of a Chapter Keep.
-> Deployment Time **-25%**
-> Thunderhawk Redeployment Time **-25%**
-> **120.0** sec.
+> [!tip] ![[Lightning Deployment#Lightning Deployment]]
 
-> [!tip] --
+> [!tip] Orbital Onslaught
 > *Research*
-> Desc.
-> **000.0** sec.
+> Increases the maximum capacity of the Reserve.
+> Additional Capacity +3
+> **180.0** sec.
 
-> [!tip] --
+> [!tip] Rapid Embarkation
 > *Research*
-> Desc.
-> **000.0** sec.
+> Increases the maximum capacity of Thunderhawk Relays.
+> Additional Capacity +1
+> **180.0** sec.
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("deployed_struct")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

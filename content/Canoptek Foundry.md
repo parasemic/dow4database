@@ -16,9 +16,9 @@ dg-publish: true
 Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP     | 2500 |           |
-| ------ | ---- | --------- |
-| Armour | <br> | Structure |
+| HP     | 2500  |           |
+| ------ | ----- | --------- |
+| Armour | 5<br> | Structure |
 - - -
 Produces units:
 - [[Canoptek Scarabs]]
@@ -26,21 +26,34 @@ Produces units:
 - [[Canoptek Wraiths]]
 - [[Canoptek Doomstalker]]
 - - -
-#### Research
-> [!tip] Unyielding Armament
-*Research*
-Increases HP regain rate while out of combat for the following units:
-> - Canoptek Spyder
-> - [[Triarch Stalker]]
-> - Canoptek Doomstalker
-> - [[Monolith]]
->
-> *Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
-> 150.0 sec.
+### Research
+> [!tip] ![[Nanoassembly Protocols#Nanoassembly Protocols]]
 
-> [!tip] Accelerated Awakening
-> *Research*
-> Reduces production time for units from Canoptek Foundries.
-> *Requires structure: Tomb Citadel II*
-> => Production time: **-25%**
-> 150.0 sec.
+> [!tip] ![[Unyielding Armament#Unyielding Armament]]
+
+> [!tip] ![[Accelerated Awakening#Accelerated Awakening]]
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Power_Matrix")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

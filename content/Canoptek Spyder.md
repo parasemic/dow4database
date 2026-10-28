@@ -23,14 +23,41 @@ from [[Canoptek Foundry]]
 | Armour Penetration    |     |         |
 | Invulnerability Saves |  -  |         |
 | HP                    |     |         |
+- - -
+> [!danger] Swarm Fabrication
+> *Active Ability*
+> Deploy a [[Canoptek Scarabs|Canoptek Scarab]] unit near this unit.
+> Base Cost: **15** ![[dom.png|20]] | Build Time: **25.0** sec.
 
 > [!danger] Build Tomb Pylon
->
+### Wargear
+![[Automaton Claws#*Automaton Claws*]]
 
-> ranged weapon upgrade
+![[Combat Protocols#Combat Protocols]]
+
 - - -
-#### Relevant research
-- Superior Necrodeermis
->
-- Unyielding Armament
-- Accelerated Awakening
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Foundry_units", "All_Necron_units", link("Canoptek Spyder"), "ne")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

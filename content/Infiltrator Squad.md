@@ -4,6 +4,10 @@ tags:
   - Unit
   - Light
 dg-publish: true
+Cost_req: 350
+Cost_pow: 0
+Supply_req: 24
+Time: 10
 ---
 # [[Infiltrator Squad]]
 *Light Infantry*
@@ -29,33 +33,38 @@ from [[Chapter Keep]] & [[Chapel Barracks]]
 | Vehicle                | 0-40   |
 | Structure              | 5-55   |
 - - -
----
-> [!danger] Stealth
-*Passive Ability*
-This unit is invisible to enemies until it attacks, captures, or moves within detection range of an enemy.
->
-Takes reduced ranged damage when detected.
-#### Wargear
-> [!example] Infiltrator Comms Arrays
-> *Passive Ability*
-> Increases [[Command Points]] gain.
-> Base Cost: **600** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **10.0** sec.
+> [!danger] ![[Stealth#Stealth]]
 
-> [!example] Helix Gauntlet
-> *Passive Ability*
-> Automatically restore lost members over time.
-> *Requires Veterancy Level 2.*
-Base Cost: **140** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **20.0** sec.
+- - -
+### Wargear
+![[Marksman Bolt Carbine#*Marksman Bolt Carbine*]]
 
----
-#### Relevant Research
-- Enhanced Physiology
-- Take And Hold
-- Vanguard Tactics
-- Guerilla tactics
-- Adaptive Strategy
->
-- Burning Hatred
->
-- Battle Drill Recall
-- Lightning Deployment
+![[Infiltrator Comms Arrays#Infiltrator Comms Arrays]]
+
+![[Helix Gauntlet#Helix Gauntlet]]
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Infiltrator Squad"), "Chapel_units", "Stealth_units", "All_SM_units", "SM_infantry")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

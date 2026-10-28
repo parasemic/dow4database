@@ -1,11 +1,14 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - HQ
   - Structure
   - Production
   - Research
-dg-publish: true
+Cost_req: 400
+Cost_pow: 0
+Up-to-date: false
 ---
 # [[Dominus Forgeshrine]]
 *Headquarters*
@@ -13,51 +16,28 @@ dg-publish: true
 - Produces Commanders
 - Creates a Noosphere Network
 - - -
-Base Cost: **500** ![[req.png|20]] | Build Time: **??.?** sec.
-*Requires Network Strength 5*
+Base Cost: **400** ![[req.png|20]] | Build Time: **??.?** sec.
+*Requires Network Strength v*
 - - -
 
-| HP         | 8000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 8000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 8<br> | Structure |
 
 Produces Units:
-- Commnander ([[Skitarii Marshal]] or Potentia)
+- Commnander ([[Skitarii Marshal]] or [[Technoarcheologist]])
 - [[Cybernetica Datasmith]]
 - - -
+Every NS level reduces production cost by 5%
 ### Research
-> [!tip] Battle Codifiers
-> *Research*
-> Cybernetica Datasmiths can be rapidly produced for free as long as 2 or fewer are on the field.
-> **120.0** sec.
->> [!tip] Battle Codifiers II
->> *Research*
->> ???
->> **??** sec.
->
->> [!tip] Battle Codifiers III
->> *Research*
->> ???
->> *Requires Network Strength VI*
->> **??** sec.
+> [!tip] ![[Battle Codifiers I#Battle Codifiers I]]
+> > [!tip] ![[Battle Codifiers II#Battle Codifiers II]]
+> > > [!tip] ![[Battle Codifiers III#Battle Codifiers III]]
 
-> [!tip] Spiritual Prognosis
-> *Research*
-> Increases the range of Augur Vision.
-> Augur Vision Range: **+75%**
-> **90.0** sec.
+> [!tip] ![[Scriptural Prognosis#Scriptural Prognosis]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Optimised Fabrication#Optimised Fabrication]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Autosermon Of Deployment#Autosermon Of Deployment]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Repair Protocols#Repair Protocols]]

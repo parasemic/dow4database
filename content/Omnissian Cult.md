@@ -5,6 +5,10 @@ tags:
   - Structure
   - Research
 dg-publish: true
+Cost_req: 120
+Cost_pow: 10
+Time:
+Up-to-date: true
 ---
 # [[Omnissian Cult]]
 *Production Structure*
@@ -16,47 +20,25 @@ Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?
 *Requires Network Strength 0*
 - - -
 
-| HP         | 2500 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 2500  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 6<br> | Structure |
 - - -
 Produces Units:
 - [[Cybernetica Datasmith]]
 - [[Kataphron Breachers]]
 - [[Kataphron Destroyers]]
 - [[Corpuscarii Electro-Priests]]
-- [[Kastellan Robot Maniple]]
+- [[Kastelan Robot Maniple]]
 
 ### Research
-> [!tip] Canticles Of Battle
-> *Research*
-> Increases all damage dealt by units from Omnissian Cults.
-> => Damage Dealt: **+10%**
-> **90.0** sec.
-> *Requires Network Strength II*
+> [!tip] ![[Canticles Of Battle#Canticles Of Battle]]
  
-> [!tip] Battle Servitor Production
-> *Research*
-> Unlocks the **Force Augmentation I** Wargear for the following units:
-> - Kataphron Breachers
-> - Kataphron Destroyers
-> **120.0** sec.
-> *Requires Network Strength II*
+> [!tip] ![[Battle Servitor Production#Battle Servitor Production]]
  
-> [!tip] Electromartyrs
-> *Research*
-> Increases maximum HP and unlocks the **Force Augmentation I** Wargear for [[Corpuscarii Electro-Priests]].
-> **120.0** sec.
-> *Requires Network Strength IV*
+> [!tip] ![[Electromartyrs#Electromartyrs]]
  
-> [!tip] Enhanced Bionics
-> *Research*
-> [[Cybernetica Datasmith]]s produced from Omnissian Cults start with Veterancy Level 1.
-> **180.0** sec.
-> *Requires Network Strength IV*
+> [!tip] ![[Enhanced Bionics#Enhanced Bionics]]
 
-> [!tip] Maniple Expansion
-> *Research*
-> Unlocks the **Force Augmentation I** Wargear for Kastellan Robot Maniples.
-> **120.0** sec.
-> *Requires Network Strength VI*
+> [!tip] ![[Maniple Expansion#Maniple Expansion]]
+> > [!tip] ![[Greater Maniple Expansion#Greater Maniple Expansion]]

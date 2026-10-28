@@ -4,6 +4,12 @@ tags:
   - Heavy
   - Unit
 dg-publish: true
+from: "[[Boyz Fort]]"
+Cost_req:
+Cost_pow:
+Supply_req:
+Time:
+Up-to-date:
 ---
 # [[Meganobz]]
 *Elite Infantry*
@@ -22,47 +28,37 @@ from [[Boyz Fort]]
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 4800 |       |
+![[Kombi-Shoota#*Kombi-Shoota*]]
 
-| *Armour Effectiveness* | 7 AP    |
-| ---------------------- | ------- |
-| Light                  | 249-249 |
-| Heavy                  | 222-249 |
-| Vehicle                | 174-222 |
-| Structure              | 123-174 |
+![[Kombi-Skorcha#Kombi-Skorcha]]
 
-> [!abstract] Wargear X 3
->> [!abstract] **Kombi-Skorcha**
->>
->>*Equipment*
->> - Swaps weaponry for a member
->> - Good versus infantry
->> - Negates cover and garrisons
->>+1 AP
->> Cost: **50** ![[req.png|20]] | Build Time: **15.0** sec.
->
->> [!abstract] **Kombi-Rokkit Launcha**
->>
->>*Equipment*
->> - Swaps weaponry for a member
->> - Good versus vehicles
->> - Deals area damage
->>   
->> Cost: **60** ![[req.png|20]] | **3** ![[pow.png|20]] | Build Time: **15.0** sec.
->> 
->> | *Armour Effectiveness* |         |
->| ---------------------- | ------- |
->| Light                  |  |
->| Heavy                  |  |
->| Vehicle                |  |
->| Structure              |   |
+![[Kombi-Rokkit Launcha#Kombi-Rokkit Launcha]]
 
 2 upgrades
 
 ---
-#### Relevant Research
-- Extra Teef
-- Get Stuck In!
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mob Rule
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Meganobz"), "Ork_dmg_dealers", "All_Ork_units", "All_Ork_infantry", "All_Ork_melee_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

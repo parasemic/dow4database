@@ -5,6 +5,10 @@ tags:
   - Unit
   - Destroyer
 dg-publish: true
+Cost_dom:
+Supply_dom:
+Time:
+Up-to-date:
 ---
 # [[Skorpekh Destroyers]]
 *Melee Infantry*
@@ -23,8 +27,33 @@ from [[Destroyer Crypt]]
 | Invulnerability Saves |  -   |       |
 | HP                    | 2550 |       |
 - - -
-#### Relevant Research
-- Superior Necrodermis
->
-- Relentless Onslaught
-- Oblivion's Call
+### Wargear
+Hyperphase blades
+Plasmacyte
+Squad +
+Squad ++ 
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Necron_units", link("Skorpekh Destroyers"), "Crypt_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

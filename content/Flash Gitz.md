@@ -4,6 +4,11 @@ tags:
   - Heavy
   - Unit
 dg-publish: true
+Cost_req: 250
+Cost_pow: 25
+Supply_req: 36
+Time: 20
+Up-to-date:
 ---
 # [[Flash Gitz]]
 *Anti-Armour Infantry*
@@ -24,10 +29,28 @@ from [[Boyz Fort]]
 
 2 upgrades
 - - -
-#### Relevant research
-- Extra Teef
-- Get Stuck In!
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mob Rules
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Ork_dmg_dealers", "All_Ork_units", "All_Ork_infantry", "All_Ork_melee_units", link("Flash Gitz"), "Fort_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

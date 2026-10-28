@@ -5,6 +5,10 @@ tags:
   - Utility
   - Unit
 dg-publish: true
+Cost_req: 90
+Supply_req: 7
+Time: 10
+Up-to-date: true
 ---
 # [[Cybernetica Datasmith]]
 *Utility Infantry*
@@ -22,17 +26,46 @@ from [[Dominus Forgeshrine]] & [[Omnissian Cult]]
 | Armour Penetration    |  6  |       |
 | Invulnerability Saves | 15% |       |
 | HP                    | 500 |       |
+Can Attach to:
+- [[Kastelan Robot Maniple]]
+![[Attach.png|20]] Enables **Doctrina Wafer Exchange** ability.
 
-| *Armour Effectiveness* | 6 AP  |
-| ---------------------- | ----- |
-| Light                  | 40-40 |
-| Heavy                  | 34-40 |
-| Vehicle                | 22-34 |
-| Structure              | 16-28 |
-> [!danger] Abilities
-> *repairs*
-#### Relevant research
-- Battle Codifiers I - III
->
-- Canticles of Battle
-- Enhanced Bionics
+> [!danger] Repair
+> *Active Ability*
+> Restore HP to target structure or vehicle over time.
+> *Unavailable while retreating*
+> *Unavailable in melee*
+
+> [!danger] Doctrina Wafer Exchange
+> *Active Ability*
+> Switch an attached Kastelan Robot Maniple's combat protocol.
+### Wargear
+![[Mechanicus Pistol#*Mechanicus Pistol*]]
+
+![[Doctrina Wafer Exchange#Doctrina Wafer Exchange]]
+
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Cybernetica Datasmith"), "All_AM_units", "Cult_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

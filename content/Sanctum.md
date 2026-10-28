@@ -14,37 +14,53 @@ dg-publish: true
 Base Cost: **400** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP         | 3300 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3300  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 7<br> | Structure |
+4200 7A w/ upgrade
+
 - - -
+Produces Units:
+- [[Bladeguard Veteran Squad]]
+- [[Eradicator Squad]]
+- [[Terminator Squad]]
+- [[Redemptor Dreadnought]]
 #### Research
-> [!tip] Heroes Of The Chapter
-> *Research*
-> Increases XP gain for all units from Sanctums.
-> => XP gain **+10%**
-> **150.0** sec.
+> [!tip] ![[Heroes Of The Chapter#Heroes Of The Chapter]]
 
-> [!tip] Burning Hatred
-> *Research*
-> Increases Armour of Contempt gain for all units.
-> => Armour of Contempt Gain **+50%**
-> **150.0** sec.
+> [!tip] ![[Burning Hatred#Burning Hatred]]
 
-> [!tip] Terrifying Efficiency
-> *Research*
-> Increases damage dealt by units from Sanctums.
-> *Requires upgrade: Heavy Elites Attachment*
-> **180.0** sec.
+> [!tip] ![[Terrifying Efficiency#Terrifying Efficiency]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Fury Of The First Company#Fury Of The First Company]]
 
 ### Upgrade
 > [!todo] Heavy Elites Attachment
 > *Upgrade*
-> Unlocks --
-> 
-Base Cost: **00** ![[req.png|20]] | **0** ![[pow.png|20]] | Build Time: **0.0** sec.
+> Unlocks Terminator Squads, Redemptor Dreadnoughts, and additional research.
+> Base Cost: **300** ![[req.png|20]] | **50** ![[pow.png|20]] | Build Time: **10.0** sec.
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("deployed_struct")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

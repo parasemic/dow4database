@@ -5,6 +5,7 @@ tags:
   - Structure
   - Research
 dg-publish: true
+Up-to-date:
 ---
 # [[Mekboy Workshop]]
 *Utility Structure*
@@ -19,34 +20,40 @@ Base Cost: **150** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?
 | HP         | 3000 |           |
 | ---------- | ---- | --------- |
 | [[Armour]] | <br> | Structure |
-
+### Wargear
+Kustom Mega-blasta >\_<
 ### Research
-> [!tip] Dakka Storm
-> *Research*
-> Increases damage dealt by all structures.
-> => Damage: +?%
-> **120.0** sec.
+> [!tip] ![[Dakka Storm#Dakka Storm]]
 
-> [!tip] Bigga Waaagh!
-> *Research*
-> Increases Waaagh! gain when damaging enemies.
-> => Waaagh! Gain: **+10%**
-> **120.0** sec.
+> [!tip] ![[Bigga Waaagh!#Bigga Waaagh!]]
 
-> [!tip] Ded Choppy!
-> *Research*
-> Increases melee damage dealt by all units.
-> => Damage: **+15%**
-> **120.0** sec.
+> [!tip] ![[Ded Choppy!#Ded Choppy!]]
 
-> [!tip] Mob Rule
-> *Research*
-> Increases XP gain for all units.
-> => gain?
-> **120.0** sec.
+> [!tip] ![[Mob Rule#Mob Rule]]
 
----
-#### Relevant Research
-- Loadsa Scrap!
+> [!tip] 5th research
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Ork_structures", "Ork_dmg_dealers", "for")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-- Dakka Storm
+```

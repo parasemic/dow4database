@@ -24,16 +24,31 @@ from [[Canoptek Foundry]]
 | Invulnerability Saves |  -   |         |
 | HP                    | 4000 |         |
 - - -
-
-| *Armour Effectiveness* |         |
-| ---------------------- | ------- |
-| Light                  | 75-163  |
-| Heavy                  | 112-170 |
-| Vehicle                | 202-202 |
-| Structure              | 99-99   |
+### Wargear
+![[Doomsday Blaster#*Doomsday Blaster*]]
 - - -
-#### Relevant research
-- Superior Necrodermis
->
-- Undying Armament
-- Accelerated Awakening
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Necron_units", link("Canoptek Doomstalker"), "Foundry_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

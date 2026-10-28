@@ -22,7 +22,28 @@ from [[Beast Snagga Hut]]
 | Invulnerability Saves |  -  |       |
 | HP                    |     |       |
 - - -
-#### Relevant research
-- Beast Snagga Teef
->
-- Bigga Waaagh!
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Hut_units", "All_Ork_units", "Ork_dmg_dealers")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

@@ -22,10 +22,34 @@ from [[Omnissian Cult]]
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves | 15%  |       |
 | HP                    | 1875 |       |
+### Wargear
+![[Electrostatic Gauntlets#*Electrostatic Gauntlets*]]
 
-2 upgrades
+Force Augmentation I
+Force Augmentation II
 - - -
-#### Relevant research
-- Canticles Of Battle
-- Electromartyrs
-- Enhanced Bionics
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Corpuscarii Electro-Priests"), "Cult_units", "All_AM_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

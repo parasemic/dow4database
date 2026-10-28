@@ -4,6 +4,9 @@ tags:
   - Fortification
   - Structure
 dg-publish: true
+Cost_req: 200
+Cost_pow: 20
+Up-to-date:
 ---
 # [[Cognis Weapon Platform]]
 *Fortification*
@@ -13,36 +16,43 @@ dg-publish: true
 - - -
 Base Cost: **200** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
++1 Network point
+Gets + 8% dmg per NS level, up to +120% at XV.
 
-| HP         | 1800 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 1800  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 5<br> | Structure |
 - - -
+![[Cognis Heavy Stubbers#Cognis Heavy Stubbers]]
 
-> [!example] Wargear
-> Cognis Heavy Stubbers
-> - Good versus light armour
-> - High fire rate
-> - Ineffective versus vehicle
+![[Plasma Culverins (CWP)#Plasma Culverins]]
 
-> [!example] Plasma Culverins
-> *Upgrade*
-> - Good versus heavy armour
-> - High accuracy
-> - Moderate fire rate
->   Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] |  Build Time: **15.0** sec.
+![[Cognis Flamers (CWP)#Cognis Flamers]]
 
-> [!example] Cognis Flamers
-> *Upgrade*
-> - Excels versus light armour
-> - Deals area damage
-> - Short range
->   Cost: **150** req | **5** pow |  Build Time: **15.0** sec. 
+![[Cognis Lascannon#Cognis Lascannon]]
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("AM_fortifications")
+        - file.name != "Optimised Fabrication"
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-> [!example] Cognis Lascannon
-> *Upgrade*
-> - Excels versus vehicles
-> - Low fire rate
-> - Ineffective versus light armour
->   Cost: **50** req | **20** pow |  Build Time: **15.0** sec.
-
+```

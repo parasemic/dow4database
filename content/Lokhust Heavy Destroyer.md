@@ -27,19 +27,9 @@ from [[Destroyer Crypt]]
 | HP                    | 2000 |       |
 
 ---
-> [!example] Enmitic Exterminator
-> *Equipment* (default)
-> - Excels versus light armour
-> - Good versus heavy armour
-> - High fire rate
-> Cost: **?** ![[dom.png|20]] | **10.0** sec.
+![[Enmitic Exterminator#Enmitic Exterminator]]
 
-> [!example] Gauss Destructor
-> *Equipment*
-> - Excels versus vehicles
-> - Good versus heavy armour
-> - Low fire rate
-> Cost: **20** ![[dom.png|20]] | **10.0** sec.
+![[Gauss Destructor#Gauss Destructor]]
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |
@@ -49,8 +39,28 @@ from [[Destroyer Crypt]]
 | Structure              | 202-206 |
 
 ---
-#### Relevant Research
-- Superior Necrodermis
->
-- Relentless Onslaught
-- Oblivion's Call
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Necron_units", link("Lokhust Heavy Destroyer"), "Crypt_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

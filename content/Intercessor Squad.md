@@ -4,6 +4,10 @@ tags:
   - Light
   - Unit
 dg-publish: true
+Cost_req: 400
+Cost_pow: 0
+Supply_req: 32
+Time: 15
 ---
 # [[Intercessor Squad]]
 *All-Purpose Infantry*
@@ -15,58 +19,55 @@ Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | B
 from [[Chapel Barracks]]
 - - -
 
-| *Armour Effectiveness* |         |
-| ---------------------- | ------- |
-| Light                  | 150-205 |
-| Heavy                  | 75-130  |
-| Vehicle                | 45-95   |
-| Structure              | 25-95   |
+| [[Member Count]]      |  5   | 5     |
+| --------------------- | :--: | ----- |
+| [[Armour]]            |  4   | Light |
+| Armour Penetration    |  3   |       |
+| Invulnerability Saves |  -   |       |
+| HP                    | 1400 |       |
+
 - - -
 
 > [!danger] Frag/Krak Grenade
 > *Active Ability*
 > Throw a grenade at target enemy, dealing area damage. negates cover.
 > Cooldown: **20** sec. (est.)
-#### upgrades
-> [!example] Stalker Bolt Rifles
-> *Equipment*
-> - Swaps weaponry for the unit
-> - Good versus vehicles
-> - Long range
-> Base Cost: **90** ![[req.png|20]] | Build Time: **15.0** sec.
+### Wargear
 
-> [!example] Auto Bolt Rifles
-> - Equipment
-> - Swaps weaponry for the unit
-> - Good versus infantry
-> - Short range
+![[Bolt Rifles#Bolt Rifles]]
 
----
+![[Stalker Bolt Rifles#Stalker Bolt Rifles]]
 
-> [!example] Power Sword/Hand Flamer
-> - Swaps weaponry for a member
-> - Good versus infantry
-> - Deals area damage
+![[Auto Bolt Rifles#Auto Bolt Rifles]]
+- - -
+![[Power Sword-Hand Flamer (Int)#Power Sword/Hand Flamer]]
 
-> [!example] Wargear
-> Contents
+![[Thunder Hammer-Plasma Pistol  (Int)#Thunder Hammer/Plasma Pistol]]
 
----
+![[Auxiliary Grenade Launcher#Auxiliary Grenade Launcher]]
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Intercessor Squad"), "SM_infantry", "All_SM_units", "Chapel_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-> [!example] Auxiliary Grenade Launcher
-> *Equipment*
-> - Upgrades weaponry for a member
-> - Good versus vehicles
-> - Deals area damage
-Base Cost: **30** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **5.0** sec.
-
----
-#### Relevant Research
-- Enhanced Physiology
-- Take And Hold
-- Adaptive Strategy
->
-- Burning Hatred
->
-- Battle Drill Recall
-- Lightning Deployment
+```

@@ -4,6 +4,10 @@ tags:
   - Light
   - Unit
 dg-publish: true
+Cost_req:
+Cost_pow:
+Time:
+Up-to-date:
 ---
 # [[Slugga Boyz]]
 *Melee Infantry*
@@ -29,49 +33,40 @@ from [[Mega Bossbunka]] & [[Boyz Fort]]
 | Vehicle                |      |    1-4    |
 | Structure              |      |    1-4    |
 - - -
----
-> [!example] Wargear
-> #### Burna
-> *Equipment*
-> - Upgrades weaponry for a member
-> - Good versus infantry
-> - Negates cover and garrisons
-> **30** ![[req.png|20]] | Build Time: **10.0** sec.
-> **+2** AP
->
-> | *Armour Effectiveness* |  10/10  | per model ? |
-> | ---------------------- | :-----: | :---------: |
-> | Light                  | 124-290 |   31-119    |
-> | Heavy                  | 57-106  |    21-52    |
-> | Vehicle                |  12-42  |     3-6     |
-> | Structure              |  12-19  |    3-13     |
+- - -
+![[Slugga-Choppa#*Slugga-Choppa*]]
 
-> [!tip] Boss Nob
-> *Equipment*
-> - Adds a member to this unit
-> - Increases all damage dealt
-> - Grants ability: **Throw Stikkbomb**
-> *Requires Veterancy Level 1*
-> **10** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **10.0** sec.
-> 
-> > [!danger] Throw Stikkbomb
-> > *Active Ability*
-> > Throw an explosive at target enemy, dealing area damage. Negates cover.
+![[Burna#Burna]]
 
-> [!tip] Upgrade
-> Mobbin' Up I
-> *Equipment*
-> Adds 5 more members to this unit.
-> *Requires Veterancy Level 3*
-> Cost: **50** ![[req.png|20]] | Build Time: **10.0** sec.
+![[Boss Nob#Boss Nob]]
 
----
-#### Relevant Research
-- Skarboyz
-- Get Stuck In!
->
-- 'Arder Armour
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mob Rule
+![[Mobbin' Up I (Boyz)#Mobbin' Up I]]
+
+![[Mobbin' Up II (Boyz)#Mobbin' Up II]]
+
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Ork_dmg_dealers", "All_Ork_units", "All_Ork_infantry", "All_Ork_melee_units", link("Slugga Boyz"), "Fort_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

@@ -12,36 +12,33 @@ dg-publish: true
 - Provides research
 - Upgrade to unlock units
 ---
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP         | 5000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 5000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 8<br> | Structure |
+6000 9A w/ up
+
+- - -
+Produces units:
+- [[Outrider Squad]]
+- [[Redemptor Dreadnought]]
+- [[Gladiator Reaper]]
+- [[Repulsor Executioner]]
+- - -
 #### Research
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Reinforced Bulwarks#Reinforced Bulwarks]]
+	
+> [!tip] ![[Devastating Charge#Devastating Charge]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Armoured Spearhead#Armoured Spearhead]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
+> [!tip] ![[Ancient Fury#Ancient Fury]]
 
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
-
-> [!tip] --
-> *Research*
-> Desc.
-> **000.0** sec.
-
+> [!tip] ![[Armoured Wrath#Armoured Wrath]]
 ### Upgrade
+> [!todo] Heavy Armour Attachment
+> *Upgrade*
+> Unlocks Galdiator Reapers, Repulsor Executionners, and additional research.
+> Base Cost: **350** ![[req.png|20]] | **40** ![[pow.png|20]] | Build Time: **20.0** sec.

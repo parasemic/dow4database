@@ -4,6 +4,7 @@ tags:
   - Light
   - Unit
 dg-publish: true
+Up-to-date:
 ---
 # [[Assault Intercessor Squad]]
 *Melee Infantry*
@@ -17,47 +18,42 @@ from [[Chapel Barracks]]
 
 | [[Member Count]]      |  5   | max 5 |
 | --------------------- | :--: | ----- |
-| [[Armour]]            |  2   | Light |
+| [[Armour]]            |  4   | Light |
 | Armour Penetration    |  2   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 1700 |       |
+- - -
+### Wargear
+![[Astartes Chainsword#*Astartes chainsword*]]
 
-| *Armour Effectiveness* |         |
-| ---------------------- | ------- |
-| Light                  | 179-218 |
-| Heavy                  | 87-150  |
-| Vehicle                | 24-87   |
-| Structure              | 15-78   |
+![[Jump Packs#Jump Packs]]
+- - -
+![[Thunder Hammer-Plasma Pistol (Ass Int)#Thunder Hammer/Plasma Pistol]]
 
----
+![[Power Sword-Hand Flamer (Ass Int)#Power Sword/Hand Flamer]]
+- - -
+### Relevant research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Assault Intercessor Squad"), "All_SM_units", "SM_infantry", "Chapel_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-> [!example] Jump Packs
-*Equipment*
-> - Upgrades equipment for the unit
-> - Increases maximum HP (+ 300)
-> - Grants ability: **Jump Pack Assault**
-> Base Cost: **30** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **15.0** sec.
-> > [!danger] Jump Pack Assault
-> > *Active Ability*
-> > Leap to target location, ignoring obstacles and dealing damage on landing.
-
----
-
-> [!example] Thunder Hammer/Plasma Pistol
-*Equipment*
-> - Upgrades weaponry for the unit
-> - Good versus heavy armour
-> - Grants ability: **Supercharge Plasma Pistol**
-> Base Cost: **25** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **15.0** sec.
-> > [!danger] Supercharge Plasma Pistol
-> > Fire a supercharged shot at target enemy, dealing area damage.
-
-#### Relevant research
-- Enhanced Physiology
-- Take And Hold
-- Adaptive Strategy
->
-- Burning Hatred
->
-- Battle Drill Recall
-- Lightning Deployment
+```

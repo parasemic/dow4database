@@ -15,58 +15,57 @@ dg-publish: true
 Base Cost: **200** ![[req.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP         | 1500 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 1500  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 5<br> | Structure |
+2200 w/ up
+
 - - -
 produces units:
 - [[Infiltrator Squad]]
 - [[Intercessor Squad]]
 - [[Assault Intercessor Squad]]
 - [[Invictor Tactical Warsuit]]
-- eliminator squad
+- [[Eliminator Squad]]
 - - -
 #### Research
-> [!tip] Enhanced Physiology
-> *Research*
-> Increases Armour for the following units:
-> - Infiltrator Squad
-> - Intercessor Squad
-> => Armour **+1** ![[Armour_120.png|15]]
-> => Armour **+2** ![[Armour_120.png|15]]
-> **60.0** sec.
+> [!tip] ![[Enhanced Physiology#Enhanced Physiology]]
 
-> [!tip] Take And Hold
-> *Research*
-> Increases capture speed for all infantry.
-> => Capture Speed **+100%**
-> **60.0** sec.
+> [!tip] ![[Take And Hold#Take And Hold]]
 
-> [!tip] Vanguard Tactics
-> *Research*
-> Reduces ranged damage taken for units with Stealth and the range at which they are revealed by enemies.
->=> Ranged Damage Taken **-20%**
-> **120.0** sec.
+> [!tip] ![[Vanguard Tactics#Vanguard Tactics]]
 
-> [!tip] Guerilla Tactics
-> *Research*
-> Increases maximum HP for the following units:
-> - Infiltrator Squad
-> - Eliminator Squad
-> - Invictor Tactical Warsuit
-> *Requires upgrade: Vanguard Attachment*
-> => Maximum HP **+10%**
-> **180.0** sec.
+> [!tip] ![[Guerilla Tactics#Guerilla Tactics]]
 
-> [!tip] Adaptive Strategy
-> *Research*
-> Reduces production time for units from Chapel Barracks.
-> => Production Time **-25%**
-> **180.0** sec.
-
+> [!tip] ![[Adaptive Strategy#Adaptive Strategy]]
 ### Upgrade
 > [!todo] Vanguard Attachment
 > *Upgrade*
 > Unlocks Eliminator Squads, Invictor Tactical Warsuits, and additional research.
 > HP **+700**
 Base Cost: **300** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **100.0** sec.
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("deployed_struct")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

@@ -1,11 +1,12 @@
 ---
+dg-publish: true
 tags:
   - Necron
   - Structure
   - Production
   - "#HQ"
   - "#Research"
-dg-publish: true
+Up-to-date: true
 ---
 # [[Tomb Citadel]] I
 *Headquarters*
@@ -17,44 +18,55 @@ dg-publish: true
 - - -
 Base Cost: **??** ![[dom.png|20]] |  Build Time: **??.?** sec.
 - - -
-#### Research
-> [!tip] ??
-> *Research*
-> Desc.
-> **000.0** sec.
 
-> [!tip] Territorial Imperative
-> *Research*
-> Increases damage dealt by Protocol relays.
-> => Damage dealt: **+25%**
-> **120** sec.
+| HP         | 8000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 7<br> | Structure |
 
-> [!tip] Relentless Expansion
-> *Research*
-> Increases the maximum range the Power Matrix can expand from structures.
-> => Power Matrix Expansion Range: **+50%**
-> *Requires structure: Tomb Citadel II*
-> **150** sec.
+Produces units:
+- [[Chronomancer]] or [[Destroyer Lord]]
+- [[Canoptek Scarabs]]
+- [[Necron Warriors]]
 
-> [!tip] Superior Necrodermis
-> *Research*
-> Reduces area damage taken by all units.
-> => Area Damage taken: **-25%**
-> *Requires structure: Tomb Citadel II*
-> **150** sec.
+- [[Immortals]]
+- [[Deathmarks]]
+- [[Triarch Stalker]]
+
+- [[Lychguards]]
+
+- [[Monolith]]
+- [[C'Tan Shard of the Void Dragon]]
+
+> [!tip] Tomb citadel II
+> *Upgrade*
+> Unlocks additional units, structures, and research.
+> 15 ![[dom.png|20]] | 20 sec.
+### Research
+> [!tip] ![[Engrammatic Imprinting#Engrammatic Imprinting]]
+
+> [!tip] ![[Territorial Imperative#Territorial Imperative]]
+
+> [!tip] ![[Relentless Expansion#Relentless Expansion]]
+
+> [!tip] ![[Superior Necrodermis#Superior Necrodermis]]
 ## Tomb Citadel II
-8000 hp
-
+| HP         | 10500 |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 8<br> | Structure |
 > [!tip] Tomb citadel III
 > *Upgrade*
 > Unlocks additional units, structures, and research.
-> 55 dom | 20 sec.
+> 55 ![[dom.png|20]] | 20 sec.
 ## Tomb Citadel III
-8000 hp
-
+| HP         | 13000 |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 9<br> | Structure |
 > [!tip] Tomb citadel IV
 > *Upgrade*
 > Unlocks additional units.
-> 80 dom | 20 sec.
+> 80 ![[dom.png|20]] | 20 sec.
 
 ## Tomb Citadel IV
+| HP         | 16000  |           |
+| ---------- | ------ | --------- |
+| [[Armour]] | 10<br> | Structure |

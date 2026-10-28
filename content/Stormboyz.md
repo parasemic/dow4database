@@ -4,6 +4,10 @@ tags:
   - Light
   - Unit
 dg-publish: true
+Cost_req:
+Cost_pow:
+Time:
+Up-to-date:
 ---
 # [[Stormboyz]]
 *Jump Infantry*
@@ -25,14 +29,34 @@ from [[Boyz Fort]]
 > *Active Ability*
 > Leap to target location, ignoring obstacles and dealing damage on landing.
 
-Upgrade 1
-Upgrade 2
+### Wargear
+![[Slugga-Choppa#*Slugga-Choppa*]]
 
----
-#### Relevant Research
-- Ded 'Ard
-- Get Stuck In!
->
-- Bigga waaagh!
-- Dead Choppy
-- Mob Rule
+Mobbin' Up I
+Mobbin' Up II
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Stormboyz"), "Ork_dmg_dealers", "All_Ork_units", "All_Ork_infantry", "All_Ork_melee_units", "Fort_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

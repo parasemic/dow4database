@@ -3,6 +3,7 @@ dg-publish: true
 tags:
   - Ork
   - Mechanic
+Up-to-date: true
 ---
 # Waaagh!
 

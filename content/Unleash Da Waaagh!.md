@@ -3,6 +3,7 @@ tags:
   - Ork
   - Stratagem
 dg-publish: true
+Up-to-date:
 ---
 # [[Unleash Da Waaagh!]]
 *Stratagem*

@@ -30,7 +30,37 @@ from [[Canoptek Foundry]]
 >	Become invulnerable and move to target location in range, ignoring obstacles.
 
 - - -
-#### Relevant research
-- Superior Necrodermis
->
-- Accelerated Awakening
+### Wargear
+![[Vicious Claws#*Vicious Claws*]]
+
+![[Particle Caster#Particle Caster]]
+
+![[Transdimensional Beamer#Transdimensional Beamer]]
+
+slot 4 Undying Legions I +1
+	slot 4 Undying Legions II +2 ??
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Foundry_units", "All_Necron_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

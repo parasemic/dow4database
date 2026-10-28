@@ -22,11 +22,35 @@ from [[Beast Snagga Hut]]
 | Invulnerability Saves |  -  |       |
 | HP                    |     |       |
 - - -
-#### Relevant research
-- 'Arder Armour
-- Beast Snagga Teef
-- Monster Hunterz
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mob Rule
+### Wargear
+![[Slugga-Choppa#*Slugga-Choppa*]]
+
+![[Thump Gun#*Thump Gun*]]
+Mobin' Up I
+Mobin' Up II
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Ork_units", "All_Ork_infantry", "Hut_units", link("Beast Snagga Boyz"), "Ork_dmg_dealers", "All_Ork_melee_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

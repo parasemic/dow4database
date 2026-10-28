@@ -22,12 +22,34 @@ from [[Scrap 'Eap]]
 | Invulnerability Saves |  -   |         |
 | HP                    | 6500 |         |
 - - -
-#### Relevant research
-- Loadsa Scrap!
-- Extra Gubbinz
-- 'Ard Case
-- Grot Oilers
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mod Rule
+### Wargear
+![[Kannon#Kannon]]
+
+![[Killkannon#Killkannon]]
+
+![[Zzap Gun#Zzap Gun]]
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Ork_dmg_dealers", "All_Ork_vehicles", "All_Ork_units", link("Gunwagon"), "ork")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

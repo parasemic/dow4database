@@ -48,7 +48,28 @@ Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?
 => **+65** ![[req.png|20]]/min (260)
 
 ---
-#### Relevant Research
-- Loadsa Scrap!
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Ork_dmg_dealers", "All_Ork_structures", "ork")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-- Dakka Storm
+```

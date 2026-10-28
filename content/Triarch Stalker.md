@@ -4,6 +4,10 @@ tags:
   - Unit
   - Vehicle
 dg-publish: true
+Cost_dom: 45
+Supply_dom: 7
+Time: 34.8
+Up-to-date: true
 ---
 # [[Triarch Stalker]]
 *All-Purpose Walker*
@@ -11,7 +15,7 @@ dg-publish: true
 - Good versus all targets
 - High mobility
 - - -
-Base cost:  **45** ![[dom.png|20]] | Supply Cost:  **7** ![[dom.png|20]]/min | Base build time: **34.8** sec.
+Base cost:  **45** ![[dom.png|20]] | Supply Cost:  **7** ![[dom.png|20]]/min | Base build time: **35** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
 from [[Tomb Citadel]]
 - - -
@@ -31,21 +35,35 @@ from [[Tomb Citadel]]
 > - **Dispersed**: Excels versus infantry, short range
 > - **Focused**: Good versus armour, medium range
 
-> [!example] Wargear
-> - Heat Ray: Dispersed
-> *Equipment*
-> Good versus infantry
-> Short range
-> Can toggle weapon profile
-> 
-> - Heat Ray: Focused
-> *Equipment*
-> Good versus armour
-> Medium range
-> Can toggle weapon profile
+Twin Heavy Gauss Cannon
+
+![[Heat Ray#Heat Ray]]
+
+some other gun
 
 ---
-#### Relevant Research
-- Superior Necrodermis
->
-- Unyielding Armament
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_Necron_units", link("Triarch Stalker"))
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

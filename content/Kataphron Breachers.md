@@ -22,36 +22,38 @@ from [[Omnissian Cult]]
 | Armour Penetration    |  3   |       |
 | Invulnerability Saves | 10%  |       |
 | HP                    | 1800 |       |
+### Wargear
+![[Heavy Arc rifle#*Heavy Arc rifle*]]
 
-| *Armour Effectiveness* | 3 AP    |
-| ---------------------- | ------- |
-| Light                  | 102-111 |
-| Heavy                  | 54-87   |
-| Vehicle                | 24-60   |
-| Structure              | 18-63   |
+![[Torsion Cannon-Hydraulic Claw#Torsion Cannon/Hydraulic Claw]]
 
+![[Force Augmentation I (Breachers)#Force Augmentation I]]
 
-> [!example] Torsion Cannon/Hydraulic Claw
-> *Equipment*
-> - Upgrades weaponry for a member
-> - Increases all damage dealt
-> - Increases weapon range
->
-> Cost: **25** ![[req.png|20]] | Build Time: **5.0** sec.
+![[Force Augmentation II (Breachers)#Force Augmentation II]]
 
-> [!tip] Force Augmentation I
-> *Upgrade*
-> Adds 1 more member to this unit.
-> Requires research: Battle Servitor Production
-> Cost: **70** ![[req.png|20]] | Build Time: **10.0** sec.
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_AM_units", "Cult_units", link("Kataphron Breachers"))
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-> [!tip] Force Augmentation II
-> *Upgrade*
-> Adds 2 more members to this unit.
-> Requires research: 
-> Cost: **??** ![[req.png|20]] | Build Time: **??** sec.
-
----
-#### Relevant Research
-- Canticles Of Battle
-- Battle Servitor Production
+```

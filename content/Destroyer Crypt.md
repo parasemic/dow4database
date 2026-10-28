@@ -25,17 +25,32 @@ Produces Units:
 - [[Skorpekh Destroyers]]
 - [[Lokhust Heavy Destroyer]]
 - - -
-#### Research
-> [!tip] Relentless Onslaught
-> *Research*
-> Increases HP regain rate while in melee combat for the following units:
-> - Skorpekh Destroyers
-> - Lokhust Heavy Destroyer
-> *Requires structure: Tomb Citadel II*
-> **180.0** sec.
+### Research
+> [!tip] ![[Relentless Onslaught#Relentless Onslaught]]
 
-> [!tip] Oblivion's Call
-> *Research*
-> Reduces production time for units from Destroyer Crypts.
-> *Requires structure: Tomb Citadel II*
-> **180.0** sec.
+> [!tip] ![[Oblivion's Call#Oblivion's Call]]
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("Power_Matrix")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```

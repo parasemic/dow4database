@@ -3,13 +3,11 @@ dg-publish: true
 tags:
   - Neutral
   - Mechanic
+Up-to-date: true
 ---
 # Armour ![[Armour_120.png|50]]
 
-Reduces all damage taken by **8%** for each point more than an attacker's Armour Penetration.
-
-> [!info] Armour Penetration
-> ![[AP_120.png|50]]
+Reduces all damage taken by **8%** for each point more than an attacker's [[Armour Penetration]].
 
 > [!quote] Elliott:
 > Currently, each unit has an Armour and Armour Penetration stat. 

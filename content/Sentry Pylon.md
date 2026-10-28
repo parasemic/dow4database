@@ -4,6 +4,7 @@ tags:
   - Structure
   - "#Fortification"
 dg-publish: true
+Up-to-date:
 ---
 # [[Sentry Pylon]]
 *Fortification*
@@ -14,12 +15,14 @@ dg-publish: true
 Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP         | 3000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 4<br> | Structure |
 - - -
 *Upgrade*
-==new gun==
+Gauss Exterminator
+- Upgrades weaponry for the structure
+- Increases ranged damage dealt
 
 *Ability*
 ==teleportation==

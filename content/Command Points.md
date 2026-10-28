@@ -1,5 +1,9 @@
 ---
 dg-publish: true
+tags:
+  - Mechanic
+  - Neutral
+Up-to-date: true
 ---
 # [[Command Points]]
 Used for activating Stratagems.

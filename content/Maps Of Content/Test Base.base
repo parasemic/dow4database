@@ -1,0 +1,160 @@
+filters:
+  and:
+    - file.folder != "_templates"
+formulas:
+  "": (light_min + light_max)/2
+  Avg: (heavy_min+heavy_max)/2
+  vehicle_avg: (vehi_min+vehi_max)/2
+  building_avg: (build_min+build_max)/2
+  Untitled: ((light_min+light_max)/2)/((light_min+light_max)/2)*100
+  Untitled 2: (((heavy_min+heavy_max)/2)/((light_min+light_max)/2)*100).ceil()
+  Untitled 3: ((light_max)-(light_min+light_max)/2)
+  heavy_spread: ((((heavy_max)-(heavy_min+heavy_max)/2))/((heavy_min+heavy_max)/2)*100).ceil()
+  build_norm: (((build_min+build_max)/2)/((light_min+light_max)/2)*100).ceil()
+  build_spread: ((((build_max)-(build_min+build_max)/2))/((build_min+build_max)/2)*100).ceil()
+  Vehi_norm: (((vehi_max+vehi_min)/2)/((light_min+light_max)/2)*100).ceil()
+  vehi_spread: ((((vehi_max)-(vehi_min+vehi_max)/2))/((vehi_min+vehi_max)/2)*100).ceil()
+  light_spread %: ((((light_max)-(light_min+light_max)/2))/((light_min+light_max)/2)*100).ceil()
+properties:
+  formula.:
+    displayName: light_avg
+  formula.Avg:
+    displayName: heavy_avg
+  formula.Untitled:
+    displayName: light_norm
+  formula.Untitled 2:
+    displayName: heavy_norm
+  formula.Untitled 3:
+    displayName: light_spread
+  formula.build_norm:
+    displayName: build_norm
+  formula.Vehi_norm:
+    displayName: vehi_norm
+  formula.heavy_spread:
+    displayName: heavy_spread %
+  formula.vehi_spread:
+    displayName: vehi_spread %
+  formula.build_spread:
+    displayName: build_spread %
+views:
+  - type: table
+    name: Eliminator averages
+    filters:
+      and:
+        - equiped_by == ["[[Eliminator Squad]]"]
+    order:
+      - file.name
+      - formula.
+      - formula.Avg
+      - formula.vehicle_avg
+      - formula.building_avg
+    sort:
+      - property: formula.vehicle_avg
+        direction: ASC
+      - property: formula.
+        direction: ASC
+    columnSize:
+      formula.building_avg: 122
+  - type: table
+    name: Deff Dread wargear costs
+    filters:
+      and:
+        - equiped_by == "Deff Dread"
+    order:
+      - file.name
+      - Cost_req
+      - Cost_pow
+      - Time
+    sort:
+      - property: Time
+        direction: ASC
+    columnSize:
+      note.Cost_pow: 99
+      note.Time: 90
+  - type: table
+    name: Normalised + Spread
+    filters:
+      and:
+        - file.tags.containsAll("SM", "Wargear", "Weapon")
+    order:
+      - file.name
+      - formula.Untitled
+      - formula.light_spread %
+      - formula.Untitled 2
+      - formula.heavy_spread
+      - formula.Vehi_norm
+      - formula.vehi_spread
+      - formula.build_norm
+      - formula.build_spread
+      - AP
+    sort:
+      - property: formula.light_spread %
+        direction: ASC
+      - property: formula.Untitled 2
+        direction: ASC
+      - property: AP
+        direction: DESC
+      - property: formula.Vehi_norm
+        direction: ASC
+      - property: formula.build_spread
+        direction: ASC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      formula.build_spread: 128
+      note.AP: 65
+    cardSize: 150
+  - type: cards
+    name: SM Wargear (All)
+    filters:
+      and:
+        - file.tags.containsAll("SM", "Wargear")
+    groupBy:
+      property: equiped_by
+      direction: ASC
+    order:
+      - file.name
+      - Cost_req
+      - Cost_pow
+      - Time
+    sort:
+      - property: Cost_req
+        direction: DESC
+      - property: equiped_by
+        direction: DESC
+    columnSize:
+      note.Time: 69
+    columnWidth: 200
+    image: note.pic
+    imageAspectRatio: 0.5
+    imageFit: contain
+  - type: table
+    name: All wargear
+    filters:
+      and:
+        - file.tags.containsAny("wargear")
+    groupBy:
+      property: equiped_by
+      direction: ASC
+    order:
+      - file.name
+      - Cost_req
+      - Cost_pow
+      - Cost_dom
+      - Time
+    markers: number
+    separator: "|"
+    indentProperties: false
+    columnSize:
+      note.Time: 64
+  - type: list
+    name: Units
+    filters:
+      and:
+        - file.tags.containsAny("unit")
+  - type: table
+    name: Up to date
+    filters:
+      and:
+        - note["Up-to-date"] != true
+    indentProperties: true

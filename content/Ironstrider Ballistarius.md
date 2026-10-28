@@ -1,9 +1,10 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Unit
   - Vehicle
-dg-publish: true
+Up-to-date:
 ---
 # [[Ironstrider Ballistarius]]
 *Anti-Infantry Walker*
@@ -21,36 +22,32 @@ from [[War Cohort Altar]]
 | Armour Penetration    |  7   |         |
 | Invulnerability Saves | 15%  |         |
 | HP                    | 2000 |         |
+![[Twin Cognis Autocannon#Twin Cognis Autocannon]]
 
-| *Armour Effectiveness* | 7 AP    |
-| ---------------------- | ------- |
-| Light                  | 113-113 |
-| Heavy                  | 113-113 |
-| Vehicle                | 73-85   |
-| Structure              | 51-60   |
+![[Twin Cognis Lascannon#Twin Cognis Lascannon]]
+- - -
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny("All_AM_units", "AM_vehicles", "WCAltar_units", link("Ironstrider Ballistarius"))
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
 
-> [!example] Twin Cognis Autocannon (default)
-> *Equipment*
-> - Good versus infantry
-> - High fire rate
-> - Ineffective versus vehicles
->
-> Cost: **??** ![[req.png|20]] | Build Time: **15.0** sec.
-
-> [!example] Twin Cognis Lascannon
-> *Equipment*
-> - Good versus armour
-> - Low fire rate
-> - Ineffective versus infantry
->
-> Cost: **80** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **15.0** sec.
-> 
-| *Armour Effectiveness* |  +2 AP   |
-| ---------------------- | --- |
-| Light                  |   48-95  |
-| Heavy                  |   95-95  |
-| Vehicle                |  142-142   |
-| Structure              |  67-67   |
-
----
-#### Relevant Research
+```

@@ -4,6 +4,10 @@ tags:
   - Heavy
   - Unit
 dg-publish: true
+Cost_req: 250
+Cost_pow: 20
+Time: 20
+Up-to-date:
 ---
 # [[Squighog Boyz]]
 *Melee Infantry*
@@ -29,18 +33,38 @@ from [[Beast Snagga Hut]]
 | Heavy                  | 60-99   |   20-33   |
 | Vehicle                | 18-60   |   6-20    |
 | Structure              | 15-72   |   5-24    |
-|                        |         |           |
 - - -
 > [!danger] Abilities
 > - **Stikka Throw**
 > *Active Ability*
 > Throw explosives at target enemy, dealing area damage.
 
----
-#### Relevant Research
-- Orky Outriderz
-- Beast Snagga Teef
->
-- Bigga Waaagh!
-- Dead Choppy!
-- Mob Rule
+- - -
+### Wargear
+Squad +
+Squad ++
+### Relevant Research
+```base
+views:
+  - type: cards
+    name: Relevant Research
+    filters:
+      and:
+        - file.tags.contains("Research")
+        - affects.containsAny(link("Squighog Boyz"), "Hut_units", "Ork_dmg_dealers", "All_Ork_units", "All_Ork_infantry", "All_Ork_melee_units")
+    groupBy:
+      property: from
+      direction: ASC
+    order:
+      - file.name
+      - Time
+    sort:
+      - property: Slot
+        direction: ASC
+    cardSize: 175
+    image: note.pic
+    imageAspectRatio: 0.3
+    imageFit: contain
+    columnWidth: 250
+
+```
