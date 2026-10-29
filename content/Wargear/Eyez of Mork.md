@@ -4,15 +4,15 @@ tags:
   - Wargear
   - Weapon
   - Ork
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
+light_min: 89
+light_max: 119
+heavy_min: 89
+heavy_max: 109
+vehi_min: 55
+vehi_max: 76
+build_min: 43
+build_max: 76
+AP: "7"
 equiped_by:
   - "[[Wurrboy]]"
 Cost_req:
@@ -28,3 +28,4 @@ Slot: "1"
 > 
 > => Slot 1
 ## Details
+Deals 240 per hit to a [[Canoptek Spyder]].

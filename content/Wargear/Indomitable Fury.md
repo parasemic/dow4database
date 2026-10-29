@@ -9,6 +9,8 @@ Cost_dom:
 Time: 30
 Slot: "3"
 dg-publish: true
+pic: "[[Indomitable Fury.png]]"
+Up-to-date: false
 ---
 #### Indomitable Fury
 > [!danger] *Passive Ability*
@@ -16,4 +18,5 @@ dg-publish: true
 > Base Cost: **30** ![[req.png|20]] / **30** ![[pow.png|20]] | Build Time: **30.0** sec.
 > => Slot 3
 ## Details
+![[Indomitable Fury.png]]
 => Duration

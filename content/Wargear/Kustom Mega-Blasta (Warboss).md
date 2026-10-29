@@ -21,6 +21,7 @@ Cost_req: 150
 Cost_pow: 10
 Cost_dom:
 Time: 15
+pic: "[[Kustom Mega-Blasta (Warboss).png]]"
 Up-to-date: true
 ---
 #### Kustom Mega-Blasta
@@ -33,4 +34,5 @@ Up-to-date: true
 > => Slot 1
 
 ## Details
+![[Kustom Mega-Blasta (Warboss).png]]
 +2 AP

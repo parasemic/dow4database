@@ -18,7 +18,7 @@ Up-to-date:
 - Effective at all ranges
 - Can reveal Fog of War
 - - -
-Base Cost: **00** ![[req.png|20]] | Supply Cost: **00** ![[req.png|20]]/min | Build Time: **00.0** sec.
+Base Cost: **240**? ![[req.png|20]] / **25**?![[pow.png|20]]| Supply Cost: **?** ![[req.png|20]]/min | Build Time: **00.0** sec.
 from [[Dominus Forgeshrine]]
 - - -
 
@@ -29,11 +29,11 @@ from [[Dominus Forgeshrine]]
 | Invulnerability Saves | 20%  |       |
 | HP                    | 2200 |       |
 Can Attach to:
-- [[Kastelan Robot Maniple]]
+- not [[Kastelan Robot Maniple]]
 - not stalkers
+
 ![[Attach.png|20]] Attach passive: **Omniscanner**
 Increases weapon range for attached unit.
-
 - - -
 Infoslave Skull
 *Active Ability*
@@ -44,36 +44,13 @@ Self-Repair Mechanisms
 Significantly increases HP regain rate while out of combat when at low HP.
 Trigger: Has 30% HP or lower
   
-Eradication Pistol
-*Equipment*
-- Default loadout
-- Effective at range
-- Good versus infantry
-86-86 67-86 42-67 30-61
+![[Eradication Pistol#Eradication Pistol]]
 
-Mechadendrites
-*Equipment*
-- Effective in melee
-- Good versus all targets
-+ Less effective at range
-  150 15sec
-110-110 84-110 52-84 37-77
+![[Mechadendrites#Mechadendrites]]
 
-Plasma Caliver
-Equipment
-- Effective at long range
-- Goad versus heavy armour
-- Low fire rate
-  150 10 15sec
-339-547 181-308 76-124 57-110
+![[Plasma Caliver (Technoarcheologist)#Plasma Caliver]]
 
-Phosphor Blaster
-Equipment
-- Good versus infantry
-- Deals area damage
-- Ineffective versus vehicles
-  160 20 15
-  335-549 155-296 52-98 38-101
+![[Phosphor Blaster (Technoarcheologist)#Phosphor Blaster]]
   
   Servo-Arc Claw
 Equipment
@@ -94,6 +71,7 @@ Restore HP to target vehicle or structure over time.
 slot 2
 
 Self-Repair Mechanisms
+
 Passive Ability
 Significantly increases HP regain rate for the Commander while at low HP.
 slot3

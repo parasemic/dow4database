@@ -6,6 +6,10 @@ tags:
   - Unit
   - Necron
 dg-publish: true
+Cost_dom:
+Supply_dom:
+Time:
+Up-to-date:
 ---
 # [[Canoptek Wraiths]]
 *Heavy Constructs*
@@ -23,7 +27,7 @@ from [[Canoptek Foundry]]
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves | 40%  |       |
 | HP                    | 2400 |       |
-- - -
+ - - -
 > [!danger] Abilities:
 > - Hyperphasing:
 >	*Active Ability*
@@ -38,7 +42,6 @@ from [[Canoptek Foundry]]
 ![[Transdimensional Beamer#Transdimensional Beamer]]
 
 slot 4 Undying Legions I +1
-	slot 4 Undying Legions II +2 ??
 ### Relevant Research
 ```base
 views:

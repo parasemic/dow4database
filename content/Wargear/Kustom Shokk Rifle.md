@@ -21,6 +21,7 @@ Cost_req: 200
 Cost_pow: 10
 Cost_dom:
 Time: 15
+pic: "[[Kustom Shokk Rifle.png]]"
 Up-to-date: true
 ---
 #### Kustom Shokk Rifle
@@ -33,4 +34,5 @@ Up-to-date: true
 > => Slot 1
 
 ## Details
+![[Kustom Shokk Rifle.png]]
 +2 AP

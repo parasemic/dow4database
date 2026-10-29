@@ -49,7 +49,6 @@
 		{"id":"60073b29b81c0a0d","type":"file","file":"Canoptek Spyder.md","x":326,"y":-33,"width":400,"height":197},
 		{"id":"3d499baeaad2e94f","type":"text","text":"# Tomb Pylon","x":401,"y":324,"width":250,"height":60},
 		{"id":"2a6d510f16f53a28","type":"file","file":"Destroyer Crypt.md","x":397,"y":657,"width":400,"height":188,"color":"5"},
-		{"id":"3d2d0b20d3dbe096","type":"file","file":"Gravity Pulse.md","x":445,"y":-811,"width":400,"height":201},
 		{"id":"5c73f212b3678bf4","type":"file","file":"Canoptek Wraiths.md","x":966,"y":-113,"width":400,"height":203},
 		{"id":"ea8c7b3374e5ad32","type":"file","file":"Canoptek Doomstalker.md","x":926,"y":164,"width":400,"height":220},
 		{
@@ -70,9 +69,10 @@
 		{"id":"acfc05da76bcc2fa","type":"file","file":"Media/Canoptek Spyder.png","x":182,"y":-33,"width":144,"height":197},
 		{"id":"abfc7b13be65dcdc","type":"file","file":"Media/Canoptek Wraiths.png","x":820,"y":-113,"width":146,"height":202},
 		{"id":"83fa1a4a5335eb3e","type":"file","file":"Media/Lokhust Heavy Destroyer.png","x":551,"y":998,"width":136,"height":187},
-		{"id":"f1aa00ac4a24d3a9","type":"file","file":"Media/Canoptek Foundry.png","x":526,"y":-534,"width":80,"height":80},
 		{"id":"9825aad404fee37b","type":"file","file":"Media/Convergence of Dominion.png","x":-2069,"y":-203,"width":81,"height":80},
 		{"id":"19c89b339c0b1761","type":"file","file":"Media/Resurrection Gallery.png","x":-2069,"y":-534,"width":79,"height":80},
+		{"id":"3d2d0b20d3dbe096","type":"file","file":"Gravity Pulse.md","x":445,"y":-811,"width":400,"height":201},
+		{"id":"f1aa00ac4a24d3a9","type":"file","file":"Media/Canoptek Foundry.png","x":526,"y":-534,"width":80,"height":80},
 		{"id":"c7630960e538fffe","type":"file","file":"Tomb Citadel.md","x":-835,"y":-454,"width":399,"height":192,"color":"5"},
 		{"id":"f5ed1bfe2ec9b575","type":"file","file":"Media/necron_512.svg","x":-1035,"y":-989,"width":400,"height":400},
 		{"id":"2cedb23794f2f4c2","type":"file","file":"Remastered Efficiency.md","x":-566,"y":-811,"width":489,"height":225},
@@ -80,10 +80,11 @@
 		{"id":"26cc70f534806918","type":"file","file":"Solar Pulse.md","x":-566,"y":-1147,"width":400,"height":188},
 		{"id":"91f3ccb7777de49e","type":"file","file":"Media/Canoptek Scarabs.png","x":-234,"y":-393,"width":155,"height":212},
 		{"id":"4602bab1d92bbec6","type":"file","file":"Canoptek Scarabs.md","x":-79,"y":-393,"width":400,"height":212},
+		{"id":"f8e097e9e1e5751b","type":"file","file":"Canoptek Foundry.md","x":526,"y":-454,"width":400,"height":199,"color":"5"},
 		{"id":"fc7851721359d540","type":"file","file":"Media/Remastered Efficiency.png","x":-566,"y":-891,"width":80,"height":80},
 		{"id":"55a799e75a25c0a9","type":"file","file":"Media/Translocation Science.png","x":-34,"y":-891,"width":79,"height":80},
-		{"id":"f8e097e9e1e5751b","type":"file","file":"Canoptek Foundry.md","x":526,"y":-454,"width":400,"height":199,"color":"5"},
-		{"id":"ad83b9c1b571c889","type":"text","text":"## Stratagems","x":-77,"y":-1053,"width":179,"height":60}
+		{"id":"ad83b9c1b571c889","type":"text","text":"## Stratagems","x":-77,"y":-1053,"width":179,"height":60},
+		{"id":"16b0204941115bb9","type":"file","file":"Media/Solar Pulse.png","x":-566,"y":-1227,"width":82,"height":80}
 	],
 	"edges":[
 		{"id":"5e4c48f38117d36a","fromNode":"f8e097e9e1e5751b","fromSide":"bottom","toNode":"ea8c7b3374e5ad32","toSide":"left"},

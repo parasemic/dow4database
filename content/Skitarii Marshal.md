@@ -37,6 +37,9 @@ from [[Dominus Forgeshrine]]
 > 3 charges
 
 +3AP, +3Armour
+
+![[Attach.png|25]] Attach passive: *Servo-Skull Uplink*
+Increases damage dealt and reduces damage taken by the Commander and attached unit.
 - - -
 ### Wargear
 

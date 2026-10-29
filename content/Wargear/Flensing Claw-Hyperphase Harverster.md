@@ -21,6 +21,7 @@ Cost_dom: 10
 Time: 15
 Slot:
   - "1"
+Up-to-date: true
 ---
 #### Flensing Claw-Hyperphase Harverster
 > [!example] *Equipment*

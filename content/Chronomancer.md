@@ -10,6 +10,7 @@ aliases:
 Cost_dom: 45
 Supply_dom: 4
 Time: 29.8
+Up-to-date:
 ---
 # [[Chronomancer]]
 *Commander*
@@ -29,16 +30,17 @@ from [[Tomb Citadel]]
 | HP                    | 2000 |       |
 - - -
 ![[Attach.png|25]] Attach passive: *Timesplitter Mantle*
-Increases [[Invulnerable Save]] for Thothmek and attached unit.
+Increases [[Invulnerable Save]] for the Commander and attached unit.
 - - -
+![[Channel Aeonstave.png]]
 > [!danger] Abilities
 > - Channel Aeonstave:
 >	*Active Ability*
 >	Deal damage to target enemy and reduce its movement speed.
 
----
-> [!example] Wargear
-> Aeonstave
+- - -
+![[Aeonstave.png]]
+> [!example] Aeonstave
 > *Equipment*
 > - Default weapon
 > - Effective at range
@@ -46,46 +48,34 @@ Increases [[Invulnerable Save]] for Thothmek and attached unit.
 >   
 | *Armour Effectiveness* | 7 AP |
 | ---------------------- | --- |
-| Light                  | 83-117 |
-| Heavy                  | 109-117 |
-| Vehicle                | 85-109 |
-| Structure              | 60-82 |
+| Light                  | 131-177 |
+| Heavy                  | 133-153 |
+| Vehicle                | 91-133 |
+| Structure              | 66-112 |
 ### Wargear
-Chronometron
-*Active Ability*
-Freeze time around Thothmek, negating projectiles and reducing movement speed for all units in range except Thothmek and attached unit.
-20 ![[dom.png|20]] 20sec.
-=> Slot 1
 
-Dimensional Sanctum
-*Active Ability*
-Teleport to target location in range.
-15 ![[dom.png|20]] 20sec.
-=> Slot 1
+![[Chronometron#Chronometron]]
 
-Photonic Transubjector
-*Passive Ability*
-Instead of becoming incapacitated, Thothmek creates a holographic decoy, becomes invulnerable and gains increased HP regain rate for a duration.
-10 ![[dom.png|20]] 30sec.
-=> Slot 2
+![[Photonic Transubjector#Photonic Transubjector]]
 
 Metalodermal Tesla Weave
 *Active Ability*
-Release a burst of lightning, dealing damage to enemies in range.
+Release a burst of lightning around the Commander, dealing area damage.
 15 ![[dom.png|20]] 20sec.
-=> Slot 2
+=> Slot 1
 
-Reanimation Crypts
+Autodivinator
 *Passive Ability*
-Reduces resurrection time for all [[Resurrection Gallery|Resurrection Galleries]].
-10 ![[dom.png|20]] 15sec.
-=> Slot 3
+Increases Command Point gain and Invulnerable Save for the Commander and attached unit.
+15 20 slot2
 
-Canoptek Vault Protocols
-*Active Ability*
-Deploy a #Canoptek unit at target location. (Vet Level) determines the unit deployed.
-30 ![[dom.png|20]] 25sec.
-=> Slot 3
+![[Dimensional Sanctum#Dimensional Sanctum]]
+
+![[Reanimation Crypts#Reanimation Crypts]]
+
+![[Cynosure of Eradication#Cynosure of Eradication]]
+
+![[Canoptek Vault Protocols#Canoptek Vault Protocols]]
 ### Relevant Research
 ```base
 views:

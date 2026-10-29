@@ -21,6 +21,7 @@ Cost_req: 200
 Cost_pow: 40
 Cost_dom:
 Time: 15
+pic: "[[Twin Big Shoota.png]]"
 Up-to-date: true
 ---
 #### Twin Big Shoota
@@ -33,7 +34,7 @@ Up-to-date: true
 > => Slot 1
 
 ## Details
-
+![[Twin Big Shoota.png]]
 Eat Dakka!
 *Active Ability*
 Fire a hail of bullets at target location, dealing area damage.

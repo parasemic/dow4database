@@ -4,15 +4,15 @@ tags:
   - Wargear
   - Weapon
   - Necron
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
+light_min: 210
+light_max: 210
+heavy_min: 210
+heavy_max: 210
+vehi_min: 186
+vehi_max: 210
+build_min: 95
+build_max: 107
+AP: "8"
 equiped_by:
   - "[[Canoptek Wraiths]]"
 Cost_req:
@@ -26,8 +26,13 @@ Slot:
 ---
 #### Transdimensional Beamer
 > [!example] *Equipment*
-> Swaps a member's weaponry. Enables ranged attacks. Good versus armour.
-> Cost: **?** ![[dom.png|20]] | **00.0** sec.
+> - Swaps a member's weaponry
+> - Enables ranged attacks
+> - Good versus heavy infantry.
+> Cost: **7** ![[dom.png|20]] | **5.0** sec.
 > => Slot 1,2,3
 
 ## Details
++1 AP
+
+Deals 75 dmg per hit to a [[Cognis Weapon Platform]] every ~4 sec.

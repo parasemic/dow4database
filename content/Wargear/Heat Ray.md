@@ -21,6 +21,7 @@ Cost_dom:
 Time:
 Slot:
   - "1"
+Up-to-date:
 ---
 #### Heat Ray
 > [!example] *Mode Swap*

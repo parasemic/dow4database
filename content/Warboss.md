@@ -36,6 +36,7 @@ Increases maximum HP, Waaagh! gain, XP gain, and damage dealt by attached unit.
 > Detaches unit first.
 ### Wargear
 Big Shoota
+![[Big Shoota.png]]
 *Equipment*
 - Default loadout
 - Effective at range
@@ -56,6 +57,7 @@ Throw explosives at target enemy, dealing area damage. Negates cover.
 Base Cost: **230** ![[req.png|20]] / **20** ![[pow.png|20]] | Build Time: **15.0** sec.
 => Slot 2
 
+![[Ded 'Ard Armour.png]]
 Ded 'Ard Armour
 *Equipment*
 Increases maximum HP for the Commander. (A +4, HP +700)
@@ -75,6 +77,7 @@ Perform a powerful melee attack on target enemy, dealing area damage.
 Base Cost: **150** ![[req.png|20]] / **30** ![[pow.png|20]] | Build Time: **15.0** sec.
 => Slot 3
 
+![[Kunnin' But Brutal.png]]
 Kunnin' But Brutal
 *Passive Ability*
 Increases damage dealt to retreating enemies by the Commander and attached unit.

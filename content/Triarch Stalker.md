@@ -35,13 +35,11 @@ from [[Tomb Citadel]]
 > - **Dispersed**: Excels versus infantry, short range
 > - **Focused**: Good versus armour, medium range
 
-Twin Heavy Gauss Cannon
+![[Twin Heavy Gauss Cannon#Twin Heavy Gauss Cannon]]
 
 ![[Heat Ray#Heat Ray]]
 
-some other gun
-
----
+- - -
 ### Relevant Research
 ```base
 views:
