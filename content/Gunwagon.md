@@ -36,7 +36,7 @@ views:
     filters:
       and:
         - file.tags.contains("Research")
-        - affects.containsAny("Ork_dmg_dealers", "All_Ork_vehicles", "All_Ork_units", link("Gunwagon"), "ork")
+        - affects.containsAny("Ork_dmg_dealers", "All_Ork_vehicles", "All_Ork_units", link("Gunwagon"))
     groupBy:
       property: from
       direction: ASC

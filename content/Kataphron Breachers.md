@@ -6,8 +6,8 @@ tags:
   - Unit
 from:
   - "[[Omnissian Cult]]"
-Cost_req:
-Cost_pow:
+Cost_req: 190
+Cost_pow: 15
 Supply_req: 21
 Time: 25
 Up-to-date:
@@ -18,7 +18,7 @@ Up-to-date:
 - Good versus all targets
 - High durability
 ---
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **25.0** sec.
+Base Cost: **190** ![[req.png|20]] / **15** ![[pow.png|20]] | Supply Cost: **21** ![[req.png|20]]/min | Build Time: **25.0** sec.
 from [[Omnissian Cult]]
 
 ---
@@ -29,6 +29,7 @@ from [[Omnissian Cult]]
 | Armour Penetration    |  3   |       |
 | Invulnerability Saves | 10%  |       |
 | HP                    | 1800 |       |
+
 ### Wargear
 ![[Heavy Arc rifle#*Heavy Arc rifle*]]
 

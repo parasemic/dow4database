@@ -9,7 +9,7 @@ tags:
 from:
   - "[[Canoptek Foundry]]"
 Cost_dom:
-Supply_dom:
+Supply_dom: 6
 Time:
 Up-to-date:
 ---
@@ -19,7 +19,7 @@ Up-to-date:
 - Good versus all targets
 - Can phase through obstacles
 - - -
-Base cost:  ![[dom.png|20]] | Supply Cost:  dom/min | ![[dom.png|20]] build time: **??** sec.
+Base cost:  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | ![[dom.png|20]] build time: **??** sec.
 from [[Canoptek Foundry]]
 - - -
 

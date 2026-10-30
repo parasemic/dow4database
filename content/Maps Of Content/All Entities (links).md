@@ -64,6 +64,7 @@ Up-to-date:
 ## Ork
 - [[Deff Dread]]
 - [[Gunwagon]]
+- [[Gorkanaut]]
 ## Necron
 - [[Canoptek Spyder]]
 - [[Triarch Stalker]]

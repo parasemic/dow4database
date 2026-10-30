@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - Wargear
   - Weapon
@@ -17,11 +18,11 @@ Cost_req: 25
 Cost_pow:
 Cost_dom:
 Time: 5
-dg-publish: true
 Slot:
   - "1"
   - "2"
   - "3"
+Up-to-date: true
 ---
 #### Torsion Cannon/Hydraulic Claw
 > [!example] *Equipment*

@@ -9,7 +9,7 @@ tags:
 from:
   - "[[Canoptek Foundry]]"
 Cost_dom:
-Supply_dom:
+Supply_dom: 8
 Time:
 Up-to-date:
 ---
@@ -19,7 +19,7 @@ Up-to-date:
 - Excels versus vehicles
 - Low mobility
 - - -
-Base cost:  ![[dom.png|20]] | Supply Cost:  ![[dom.png|20]]/min | Base build time: sec.
+Base cost:  ![[dom.png|20]] | Supply Cost: **8**  ![[dom.png|20]]/min | Base build time: sec.
 from [[Canoptek Foundry]]
 - - -
 
