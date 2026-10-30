@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Light
-dg-publish: true
+from:
+  - "[[Chapel Barracks]]"
 Cost_req: 450
 Cost_pow: 0
 Supply_req: 36
 Time: 20
+Up-to-date:
 ---
 # [[Eliminator Squad]]
 *Sniper Infantry*

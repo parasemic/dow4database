@@ -1,13 +1,17 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Light
-dg-publish: true
+from:
+  - "[[Chapter Keep]]"
+  - "[[Chapel Barracks]]"
 Cost_req: 350
 Cost_pow: 0
 Supply_req: 24
 Time: 10
+Up-to-date:
 ---
 # [[Infiltrator Squad]]
 *Light Infantry*

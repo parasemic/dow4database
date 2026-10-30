@@ -5,10 +5,10 @@ tags:
   - Unit
 dg-publish: true
 from: "[[Boyz Fort]]"
-Cost_req:
-Cost_pow:
-Supply_req:
-Time:
+Cost_req: 350
+Cost_pow: 40
+Supply_req: 46
+Time: 25
 Up-to-date:
 ---
 # [[Meganobz]]
@@ -20,7 +20,7 @@ Up-to-date:
 **350** ![[req.png|20]] | **40** ![[pow.png|20]] | **46** ![[req.png|20]]/min | **25.0** sec.
 from [[Boyz Fort]]
 
----
+- - -
 
 | [[Member Count]]      |  3   |       |
 | --------------------- | :--: | ----- |
@@ -28,6 +28,7 @@ from [[Boyz Fort]]
 | Armour Penetration    |  7   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 4800 |       |
+
 ![[Kombi-Shoota#*Kombi-Shoota*]]
 
 ![[Kombi-Skorcha#Kombi-Skorcha]]

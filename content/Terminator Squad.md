@@ -1,9 +1,11 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Heavy
   - Unit
-dg-publish: true
+from:
+  - "[[Sanctum]]"
 Cost_req: 550
 Cost_pow: 40
 Supply_req: 44

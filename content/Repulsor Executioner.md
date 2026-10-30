@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Vehicle
-dg-publish: true
+from:
+  - "[[Armoury]]"
 Cost_req: 700
 Cost_pow: 85
 Supply_req: 80
 Time: 45
+Up-to-date:
 ---
 # [[Repulsor Executioner]]
 *Heavy Vehicle*

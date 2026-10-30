@@ -4,6 +4,13 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[Mega Bossbunka]]"
+  - "[[Boyz Fort]]"
+Cost_req: 160
+Cost_pow: 0
+Supply_req: 28
+Time: 15
 Up-to-date:
 ---
  # [[Shoota Boyz]]

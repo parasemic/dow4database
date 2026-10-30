@@ -5,6 +5,7 @@ tags:
   - "#Fortification"
 dg-publish: true
 Up-to-date:
+Cost_dom: 50
 ---
 # [[Sentry Pylon]]
 *Fortification*

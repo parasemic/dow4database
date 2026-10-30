@@ -1,10 +1,13 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Production
   - Structure
   - Research
-dg-publish: true
+Cost_req: 400
+Cost_pow: 45
+Up-to-date:
 ---
 # [[Armoury]]
 *Production Structure*
@@ -12,13 +15,12 @@ dg-publish: true
 - Provides research
 - Upgrade to unlock units
 ---
-Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **400** ![[req.png|20]] / **45** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 5000  |           |
 | ---------- | ----- | --------- |
 | [[Armour]] | 8<br> | Structure |
-6000 9A w/ up
 
 - - -
 Produces units:
@@ -42,3 +44,7 @@ Produces units:
 > *Upgrade*
 > Unlocks Galdiator Reapers, Repulsor Executionners, and additional research.
 > Base Cost: **350** ![[req.png|20]] | **40** ![[pow.png|20]] | Build Time: **20.0** sec.
+
+| HP         | 6000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 9<br> | Structure |

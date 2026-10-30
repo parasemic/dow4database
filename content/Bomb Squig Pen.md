@@ -1,11 +1,11 @@
 ---
-"40":
+dg-publish: true
 tags:
   - Ork
   - Fortification
   - Structure
-dg-publish: true
 Cost_req: 250
+Cost_pow: 40
 Time:
 Up-to-date: true
 ---

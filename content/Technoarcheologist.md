@@ -5,6 +5,8 @@ tags:
   - Commander
   - Light
 dg-publish: true
+from:
+  - "[[Dominus Forgeshrine]]"
 Cost_req:
 Supply_req:
 Time:
@@ -28,6 +30,7 @@ from [[Dominus Forgeshrine]]
 | Armour Penetration    |  5   |       |
 | Invulnerability Saves | 20%  |       |
 | HP                    | 2200 |       |
+
 Can Attach to:
 - not [[Kastelan Robot Maniple]]
 - not stalkers
@@ -35,15 +38,12 @@ Can Attach to:
 ![[Attach.png|20]] Attach passive: **Omniscanner**
 Increases weapon range for attached unit.
 - - -
-Infoslave Skull
-*Active Ability*
-Send a servo-skull to target location or enemy, revealing the Fog of War and any invisible units in the area.  
 
-Self-Repair Mechanisms
-*Passive Ability*
-Significantly increases HP regain rate while out of combat when at low HP.
-Trigger: Has 30% HP or lower
-  
+> [!danger] Infoslave Skull
+> *Active Ability*
+> Send a servo-skull to target location or enemy, revealing the Fog of War and any invisible units in the area.
+
+### Wargear  
 ![[Eradication Pistol#Eradication Pistol]]
 
 ![[Mechadendrites#Mechadendrites]]
@@ -52,42 +52,17 @@ Trigger: Has 30% HP or lower
 
 ![[Phosphor Blaster (Technoarcheologist)#Phosphor Blaster]]
   
-  Servo-Arc Claw
-Equipment
-Increases melee damage dealt by the Commander.
-100 15sec
-slot 2
+![[Servo-Arc Claw#Servo-Arc Claw]]
   
-Cognis Flamer
-Equipment
-Increases damage dealt at short range by the Commander. Negates cover and garrisons.
-70 20 15
-slot 2
+![[Cognis Flamer#Cognis Flamer]]
 
-Master of Machines
-Active Ability
-Restore HP to target vehicle or structure over time.
-50 20 15
-slot 2
+![[Master of Machines#Master of Machines]]
 
-Self-Repair Mechanisms
+![[Self-Repair Mechanisms#Self-Repair Mechanisms]]
 
-Passive Ability
-Significantly increases HP regain rate for the Commander while at low HP.
-slot3
-100 30 15
+![[Overloaded Safeguards#Overloaded Safeguards]]
 
-Overloaded Safeguards
-Active Ability
-Toggle to increase all damage dealt and taken by the Commander.
-slot 3
-120 15sec
-
-Voltagheist Shock
-Active Ability
-Damage all enemies in range and stun vehicles for a duration.
-slot3
-100 25 15
+![[Voltagheist Shock#Voltagheist Shock]]
 ### Relevant Research
 ```base
 views:

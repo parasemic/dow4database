@@ -18,7 +18,7 @@ Up-to-date: true
 > Base Cost: **60** ![[req.png|20]] / **20** ![[pow.png|20]] | Build Time: **20.0** sec.
 > => Slot 2
 ## Details
-Also increases damage:
+Also increases Armour Effectiveness:
 
 | *Armour Effectiveness* | AP 6  |
 | ---------------------- | ----- |

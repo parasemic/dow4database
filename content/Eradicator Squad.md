@@ -8,6 +8,9 @@ Cost_req: 450
 Cost_pow: 20
 Supply_req: 36
 Time: 25
+from:
+  - "[[Sanctum]]"
+Up-to-date:
 ---
 # [[Eradicator Squad]]
 *Anti-Armour Infantry*

@@ -1,15 +1,18 @@
 ---
+dg-publish: true
 tags:
   - Necron
-  - Light
   - Unit
   - Commander
-dg-publish: true
+  - Heavy
 aliases:
   - Ahmnok
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom:
 Supply_dom:
 Time:
+Up-to-date:
 ---
 # [[Destroyer Lord]]
 *Commander*
@@ -21,12 +24,12 @@ Base cost: **00** ![[dom.png|20]] | Supply Cost: **00** ![[dom.png|20]]/min | Ba
 from [[Tomb Citadel]]
 - - -
 
-| Model Count           |  1  |     |
-| --------------------- | :-: | --- |
-| [[Armour]]            |     |     |
-| Armour Penetration    |     |     |
-| Invulnerability Saves |  -  |     |
-| HP                    |     |     |
+| Model Count           |  1  |       |
+| --------------------- | :-: | ----- |
+| [[Armour]]            |     | Heavy |
+| Armour Penetration    |     |       |
+| Invulnerability Saves |  -  |       |
+| HP                    |     |       |
 
 ---
 ### Wargear

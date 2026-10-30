@@ -6,9 +6,12 @@ tags:
   - Unit
   - Construct
   - Necron
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 6
 Supply_dom: 1
 Time: 9.9
+Up-to-date:
 ---
 # [[Canoptek Scarabs]]
 *Light Construct*

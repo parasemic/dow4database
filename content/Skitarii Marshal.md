@@ -9,6 +9,8 @@ dg-publish: true
 aliases:
   - Sek-Ix-23
   - Sexy
+from:
+  - "[[Dominus Forgeshrine]]"
 Cost_req: 370
 Cost_pow: 30
 Supply_req: 30

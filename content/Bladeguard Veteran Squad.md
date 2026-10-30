@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Light
-dg-publish: true
+from:
+  - "[[Sanctum]]"
 Cost_req: 500
 Cost_pow: 20
 Supply_req: 40
 Time: 25
+Up-to-date:
 ---
 # [[Bladeguard Veteran Squad]]
 *Heavy Infantry*

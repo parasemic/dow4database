@@ -4,6 +4,12 @@ tags:
   - Unit
   - Light
 dg-publish: true
+from: "[[Beast Snagga Hut]]"
+Cost_req: 50
+Cost_pow: 25
+Supply_req: 20
+Time: 15
+Up-to-date:
 ---
 # [[Bomb Squig Horde]]
 *Explosive Beasts*

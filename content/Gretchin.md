@@ -5,6 +5,11 @@ tags:
   - Unit
   - Utility
 dg-publish: true
+from: "[[Mega Bossbunka]]"
+Cost_req: 50
+Cost_pow: 0
+Supply_req: 2
+Time: 10
 Up-to-date:
 ---
 # [[Gretchin]]

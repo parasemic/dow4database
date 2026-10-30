@@ -1,9 +1,11 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Heavy
   - Unit
-dg-publish: true
+from:
+  - "[[Boyz Fort]]"
 Cost_req: 250
 Cost_pow: 25
 Supply_req: 36

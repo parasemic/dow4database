@@ -4,6 +4,13 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[Omnissian Cult]]"
+Cost_req:
+Cost_pow:
+Supply_req: 19
+Time: 25
+Up-to-date:
 ---
 # [[Corpuscarii Electro-Priests]]
 *All-Purpose infantry*

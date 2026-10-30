@@ -6,6 +6,8 @@ tags:
   - Research
 dg-publish: true
 Up-to-date:
+Cost_req: 150
+Cost_pow: 35
 ---
 # [[Mekboy Workshop]]
 *Utility Structure*

@@ -4,9 +4,12 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 20
 Supply_dom: 2
 Time: 14.9
+Up-to-date:
 ---
 # [[Immortals]]
 *All-Purpose Infantry*

@@ -3,10 +3,14 @@ tags:
   - Necron
   - Vehicle
   - Construct
+  - Unit
 dg-publish: true
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 120
 Supply_dom: 15
 Time: 44.7
+Up-to-date:
 ---
 # [[Monolith]]
 *Super Heavy Construct*

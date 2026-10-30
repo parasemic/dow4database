@@ -6,9 +6,12 @@ tags:
 dg-publish: true
 aliases:
   - Lunch Guards
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 50
 Supply_dom: 6
 Time: 24.6
+Up-to-date:
 ---
 # [[Lychguards|Lunch Guards]]
 *Elite Infantry*

@@ -1,10 +1,10 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Production
   - Structure
   - Research
-dg-publish: true
 Cost_req: 120
 Cost_pow: 10
 Time:

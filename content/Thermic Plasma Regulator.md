@@ -4,6 +4,9 @@ tags:
   - AdMech
   - Resource
   - Structure
+Cost_req: 150
+Cost_pow: 0
+Time: 5
 Up-to-date: false
 ---
 # [[Thermic Plasma Regulator]]

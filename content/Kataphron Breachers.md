@@ -1,9 +1,16 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Heavy
   - Unit
-dg-publish: true
+from:
+  - "[[Omnissian Cult]]"
+Cost_req:
+Cost_pow:
+Supply_req: 21
+Time: 25
+Up-to-date:
 ---
 # [[Kataphron Breachers]]
 *Anti-Armour Infantry*

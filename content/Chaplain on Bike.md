@@ -7,10 +7,13 @@ tags:
   - Heavy
 aliases:
   - Ezrael
+from:
+  - "[[Chapter Keep]]"
 Cost_req: 550
 Cost_pow: 40
 Supply_req: 40
 Time: 40
+Up-to-date: true
 ---
 # [[Chaplain on Bike|Chaplain]]
 *Commander*
@@ -18,7 +21,7 @@ Time: 40
 - Effective in melee
 - Empowers friendly units
 - - -
-Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **550** ![[req.png|20]] / **40** ![[pow.png|20]] | Supply Cost: **40** ![[req.png|20]]/min | Build Time: **40.0** sec.
 from [[Chapter Keep]]
 - - -
 

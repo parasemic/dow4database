@@ -1,12 +1,14 @@
 ---
+dg-publish: true
 tags:
   - Necron
   - Heavy
   - Unit
   - Destroyer
-dg-publish: true
+from:
+  - "[[Destroyer Crypt]]"
 Cost_dom:
-Supply_dom:
+Supply_dom: 4
 Time:
 Up-to-date:
 ---

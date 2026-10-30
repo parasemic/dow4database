@@ -4,6 +4,7 @@ tags:
   - Fortification
   - Structure
 dg-publish: true
+Up-to-date:
 ---
 # [[Hammerfall Bunker]]
 *Heavy Fortification*

@@ -1,9 +1,12 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Production
   - Structure
-dg-publish: true
+Cost_req: 400
+Cost_pow: 25
+Up-to-date:
 ---
 # [[Sanctum]]
 *Production Structure*
@@ -17,7 +20,6 @@ Base Cost: **400** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **??.?
 | HP         | 3300  |           |
 | ---------- | ----- | --------- |
 | [[Armour]] | 7<br> | Structure |
-4200 7A w/ upgrade
 
 - - -
 Produces Units:
@@ -38,7 +40,12 @@ Produces Units:
 > [!todo] Heavy Elites Attachment
 > *Upgrade*
 > Unlocks Terminator Squads, Redemptor Dreadnoughts, and additional research.
-> Base Cost: **300** ![[req.png|20]] | **50** ![[pow.png|20]] | Build Time: **10.0** sec.
+> Base Cost: **250** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **10.0** sec.
+
+| HP         | 4200  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 7<br> | Structure |
+
 ### Relevant Research
 ```base
 views:

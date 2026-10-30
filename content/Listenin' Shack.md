@@ -1,10 +1,14 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Fortification
   - Structure
   - "#Resource"
-dg-publish: true
+Cost_req: 100
+Cost_pow: 10
+Time:
+Up-to-date:
 ---
 # Listenin' Shack
 *Resource Point*

@@ -5,8 +5,10 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[War Cohort Altar]]"
 Cost_req: 100
-Cost_pow:
+Cost_pow: 0
 Supply_req: 15
 Time: 10
 Up-to-date: true

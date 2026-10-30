@@ -1,13 +1,20 @@
 ---
+"36":
+dg-publish: true
 tags:
   - SM
   - Commander
   - Unit
   - Light
-dg-publish: true
+from:
+  - "[[Chapter Keep]]"
 aliases:
   - Jonah
   - Orion
+Cost_req: 350
+Cost_pow: 50
+Supply_req: 36
+Time: 30
 Up-to-date: true
 ---
 # [[Chief Librarian]]

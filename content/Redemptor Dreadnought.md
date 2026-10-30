@@ -1,13 +1,17 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Vehicle
-dg-publish: true
+from:
+  - "[[Armoury]]"
+  - "[[Sanctum]]"
 Cost_req: 550
 Cost_pow: 55
 Supply_req: 50
 Time: 30
+Up-to-date:
 ---
 # [[Redemptor Dreadnought]]
 *All-Purpose Walker*

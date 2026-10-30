@@ -1,11 +1,14 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Heavy
   - Unit
-dg-publish: true
+from:
+  - "[[Beast Snagga Hut]]"
 Cost_req: 250
 Cost_pow: 20
+Supply_req: 30
 Time: 20
 Up-to-date:
 ---

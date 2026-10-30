@@ -4,6 +4,9 @@ tags:
   - SM
   - Commander
   - Unit
+  - Light
+from:
+  - "[[Chapter Keep]]"
 aliases:
   - Cyrus
 Cost_req: 350
@@ -21,12 +24,12 @@ Base Cost: **350** ![[req.png|20]] / **50** ![[pow.png|20]] | Supply Cost: **??*
 from [[Chapter Keep]]
 - - -
 
-| [[Member Count]]      |  1  |     |
-| --------------------- | :-: | --- |
-| [[Armour]]            |  3  |     |
-| Armour Penetration    |  4  |     |
-| Invulnerability Saves |  -  |     |
-| HP                    | 800 |     |
+| [[Member Count]]      |  1  |       |
+| --------------------- | :-: | ----- |
+| [[Armour]]            |  3  | Light |
+| Armour Penetration    |  4  |       |
+| Invulnerability Saves |  -  |       |
+| HP                    | 800 |       |
 - - -
 Can Attach to:
 - ==

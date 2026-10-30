@@ -4,6 +4,7 @@ tags:
   - Utility
   - Structure
 dg-publish: true
+Cost_dom: 25
 ---
 # [[Resurrection Gallery]]
 *Utility Structure*

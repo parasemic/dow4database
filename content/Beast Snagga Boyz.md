@@ -4,6 +4,12 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from: "[[Beast Snagga Hut]]"
+Cost_req: 150
+Cost_pow: 15
+Supply_req: 28
+Time: 15
+Up-to-date:
 ---
 # [[Beast Snagga Boyz]]
 *Heavy Infantry*

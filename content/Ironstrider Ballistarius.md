@@ -4,6 +4,12 @@ tags:
   - AdMech
   - Unit
   - Vehicle
+from:
+  - "[[War Cohort Altar]]"
+Cost_req:
+Cost_pow:
+Supply_req:
+Time:
 Up-to-date:
 ---
 # [[Ironstrider Ballistarius]]

@@ -3,39 +3,39 @@ dg-publish: true
 Up-to-date:
 ---
 ![[Light.png]]
-
 ## Ork
-- [[Gretchin]]
-- [[Shoota Boyz]]
-- [[Slugga Boyz]]
-- [[Wurrboy]]
 - [[Beast Snagga Boyz]]
 - [[Bomb Squig Horde]]
 - [[Stormboyz]]
+- [[Gretchin]]
+- [[Shoota Boyz]]
+- [[Slugga Boyz]]
+- [[Mekboy]]
+- [[Wurrboy]]
 ## Necron
-- [[Chronomancer]]
 - [[Canoptek Scarabs]]
-- [[Necron Warriors]]
-- [[Immortals]]
+- [[Chronomancer]]
 - [[Deathmarks]]
+- [[Immortals]]
 - [[Lychguards]]
+- [[Necron Warriors]]
 ## Adeptus Mechanicus
-- [[Corpuscarii Electro-Priests]]
+- [[Skitarii Marshal]]
+- [[Technoarcheologist]]
 - [[Cybernetica Datasmith]]
+- [[Corpuscarii Electro-Priests]]
 - [[Sicarian Ruststalkers]]
 - [[Skitarii Rangers]]
-- [[Skitarii Marshal]]
 - [[Skitarii Vanguards]]
 ## Spess 'muhreens
+- [[Assault Intercessor Squad]]
+- [[Eliminator Squad]]
+- [[Intercessor Squad]]
+- [[Captain]]
 - [[Chief Librarian]]
 - [[Infiltrator Squad]]
-- [[Intercessor Squad]]
-- [[Assault Intercessor Squad]]
 - [[Bladeguard Veteran Squad]]
-- [[Eliminator Squad]]
-
----
-
+- - -
 ![[Heavy.png]]
 ## Ork
 - [[Beastboss on Squigosaur]]
@@ -44,6 +44,7 @@ Up-to-date:
 - [[Flash Gitz]]
 - [[Meganobz]]
 ## Necron
+- [[Destroyer Lord]]
 - [[Canoptek Wraiths]]
 - [[Skorpekh Destroyers]]
 - [[Lokhust Heavy Destroyer]]
@@ -55,6 +56,7 @@ Up-to-date:
 - [[Company Master]]
 - [[Eradicator Squad]]
 - [[Outrider Squad]]
+- [[Terminator Squad]]
 
 ---
 
@@ -99,6 +101,9 @@ Up-to-date:
 - [[Canoptek Foundry]]
 - [[Destroyer Crypt]]
 - [[Resurrection Gallery]]
+- [[Protocol Relays]]
+- [[Gauss Pylon]]
+- Tomb Pylon
 ## Adeptus Mechanicus
 - [[Dominus Forgeshrine]]
 - [[Cogitator Relay]]
@@ -109,7 +114,9 @@ Up-to-date:
 - [[Void Shield Generator]]
 - [[War Cohort Altar]]
 - [[War Cohort Armoury]]
+- [[Thermic Plasma Regulator]]
 ## Spess 'muhreens
+- [[Auspex Shrine]]
 - [[Chapter Keep]]
 - [[Chapel Barracks]]
 - [[Sanctum]]

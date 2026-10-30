@@ -151,7 +151,10 @@ views:
     name: Units
     filters:
       and:
-        - file.tags.containsAny("unit")
+        - file.tags.containsAll("structure")
+    sort:
+      - property: tags
+        direction: ASC
   - type: table
     name: Up to date
     filters:

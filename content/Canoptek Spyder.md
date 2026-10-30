@@ -1,11 +1,17 @@
 ---
+dg-publish: true
 tags:
   - Canoptek
   - Vehicle
   - Necron
   - "#Unit"
   - "#Utility"
-dg-publish: true
+from:
+  - "[[Canoptek Foundry]]"
+Cost_dom:
+Supply_dom:
+Time:
+Up-to-date:
 ---
 # [[Canoptek Spyder]]
 *Utility Construct*

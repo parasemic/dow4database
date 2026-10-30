@@ -5,7 +5,11 @@ tags:
   - Utility
   - Unit
 dg-publish: true
+from:
+  - "[[Dominus Forgeshrine]]"
+  - "[[Omnissian Cult]]"
 Cost_req: 90
+Cost_pow: 0
 Supply_req: 7
 Time: 10
 Up-to-date: true

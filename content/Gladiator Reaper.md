@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Unit
   - Vehicle
-dg-publish: true
+from:
+  - "[[Armoury]]"
 Cost_req: 600
 Cost_pow: 65
 Supply_req: 48
 Time: 25
+Up-to-date:
 ---
 # [[Gladiator Reaper]]
 *Heavy Vehicle*

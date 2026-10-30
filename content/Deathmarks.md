@@ -4,9 +4,12 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 30
 Supply_dom: 3
 Time: 29.8
+Up-to-date:
 ---
 # [[Deathmarks]]
 *Sniper Infantry*

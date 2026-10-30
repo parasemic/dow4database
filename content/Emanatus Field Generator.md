@@ -1,9 +1,11 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Fortification
   - Structure
-dg-publish: true
+Cost_req: 45
+Cost_pow: 10
 Up-to-date: true
 ---
 # [[Emanatus Field Generator]]

@@ -1,11 +1,13 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - HQ
   - Structure
   - Production
-dg-publish: true
 Up-to-date:
+Cost_req: 300
+Cost_pow: 20
 ---
 # [[Mega Bossbunka]]
 *Headquarters*

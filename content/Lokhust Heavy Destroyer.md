@@ -1,10 +1,16 @@
 ---
+dg-publish: true
 tags:
   - Necron
   - Unit
   - Heavy
   - "#Destroyer"
-dg-publish: true
+from:
+  - "[[Destroyer Crypt]]"
+Cost_dom:
+Supply_dom: 6
+Time:
+Up-to-date:
 ---
 
 # [[Lokhust Heavy Destroyer]]

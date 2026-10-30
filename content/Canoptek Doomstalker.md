@@ -1,11 +1,17 @@
 ---
+dg-publish: true
 tags:
   - "#Vehicle"
   - Necron
   - Canoptek
   - Unit
   - "#Construct"
-dg-publish: true
+from:
+  - "[[Canoptek Foundry]]"
+Cost_dom:
+Supply_dom:
+Time:
+Up-to-date:
 ---
 # [[Canoptek Doomstalker]]
 *Anti-Armour Construct*

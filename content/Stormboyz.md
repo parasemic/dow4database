@@ -4,9 +4,11 @@ tags:
   - Light
   - Unit
 dg-publish: true
-Cost_req:
-Cost_pow:
-Time:
+from: "[[Boyz Fort]]"
+Cost_req: 210
+Cost_pow: 5
+Supply_req: 30
+Time: 15
 Up-to-date:
 ---
 # [[Stormboyz]]

@@ -4,6 +4,10 @@ tags:
   - Resource
   - Structure
 dg-publish: true
+Up-to-date:
+Cost_req: 150
+Cost_pow: 0
+Time: 5
 ---
 # Power Generator
 *Upgrade*

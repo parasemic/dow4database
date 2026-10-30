@@ -8,6 +8,9 @@ Cost_req: 450
 Cost_pow: 15
 Supply_req: 36
 Time: 20
+from:
+  - "[[Armoury]]"
+Up-to-date:
 ---
 # [[Outrider Squad]]
 *Melee Infantry*

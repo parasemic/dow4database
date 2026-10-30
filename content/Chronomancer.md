@@ -7,6 +7,8 @@ tags:
 dg-publish: true
 aliases:
   - Thothmek
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 45
 Supply_dom: 4
 Time: 29.8

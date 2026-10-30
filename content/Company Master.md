@@ -7,11 +7,13 @@ tags:
 dg-publish: true
 aliases:
   - Astoran
+from:
+  - "[[Chapter Keep]]"
 Cost_req: 450
 Cost_pow: 50
 Supply_req: 40
 Time: 40
-Up-to-date:
+Up-to-date: true
 ---
 # [[Company Master]]
 *Commander*

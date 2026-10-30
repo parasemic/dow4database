@@ -1,13 +1,15 @@
 ---
+dg-publish: true
 tags:
   - Necron
   - Unit
   - Vehicle
-dg-publish: true
 Cost_dom: 45
 Supply_dom: 7
 Time: 34.8
 Up-to-date: true
+from:
+  - "[[Tomb Citadel]]"
 ---
 # [[Triarch Stalker]]
 *All-Purpose Walker*

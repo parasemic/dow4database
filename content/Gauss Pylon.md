@@ -4,6 +4,7 @@ tags:
   - Structure
   - Fortification
 dg-publish: true
+Cost_dom: 120
 ---
 # [[Gauss Pylon]]
 *Heavy Fortification*

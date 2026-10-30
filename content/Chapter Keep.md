@@ -1,10 +1,11 @@
 ---
+dg-publish: true
 tags:
   - SM
   - HQ
   - Production
   - Structure
-dg-publish: true
+Up-to-date:
 ---
 # [[Chapter Keep]]
 *Headquarters*

@@ -1,12 +1,19 @@
 ---
+dg-publish: true
 tags:
   - "#Ork"
   - Commander
   - Unit
   - Heavy
-dg-publish: true
 aliases:
   - Guzzcutta
+from:
+  - "[[Mega Bossbunka]]"
+Cost_req: 550
+Cost_pow: 40
+Supply_req: 50
+Time: 30
+Up-to-date:
 ---
 # [[Beastboss on Squigosaur]]
 *Commander*

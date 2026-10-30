@@ -7,7 +7,7 @@ dg-publish: true
 aliases:
   - Terry
 Cost_req: 250
-Cost_pow: 25
+Cost_pow: 20
 Time:
 Up-to-date:
 ---
@@ -17,7 +17,7 @@ Up-to-date:
 - High fire rate
 - Low durability
 - - -
-Base Cost: **250** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 2000  |           |

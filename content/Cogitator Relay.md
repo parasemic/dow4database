@@ -5,6 +5,8 @@ tags:
   - Structure
 dg-publish: true
 Cost_req: 50
+Cost_pow: 0
+Up-to-date:
 ---
 # [[Cogitator Relay]]
 *Utility Structure*

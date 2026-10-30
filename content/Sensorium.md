@@ -1,9 +1,12 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Resource
   - Structure
-dg-publish: true
+Cost_pow: 10
+Time: 30
+Cost_req: 150
 Up-to-date: true
 ---
 # [[Sensorium]] I

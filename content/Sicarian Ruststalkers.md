@@ -4,6 +4,8 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[War Cohort Altar]]"
 Cost_req:
 Cost_pow:
 Time:

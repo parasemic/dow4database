@@ -1,12 +1,13 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Production
   - Structure
   - Research
-dg-publish: true
 Cost_req: 150
 Up-to-date: true
+Cost_pow: 0
 ---
 # [[Boyz Fort]]
 *Production Structure*

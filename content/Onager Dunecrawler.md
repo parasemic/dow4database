@@ -8,6 +8,9 @@ Cost_req:
 Cost_pow:
 Supply_req: 38
 Time: 40
+from:
+  - "[[War Cohort Armoury]]"
+Up-to-date:
 ---
 # [[Onager Dunecrawler]]
 *Heavy Walker*

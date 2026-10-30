@@ -1,9 +1,11 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Unit
   - Vehicle
-dg-publish: true
+from:
+  - "[[War Cohort Armoury]]"
 Cost_req:
 Cost_pow:
 Supply_req: 53

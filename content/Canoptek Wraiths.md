@@ -1,11 +1,13 @@
 ---
+dg-publish: true
 tags:
   - "#Heavy"
   - Canoptek
   - Construct
   - Unit
   - Necron
-dg-publish: true
+from:
+  - "[[Canoptek Foundry]]"
 Cost_dom:
 Supply_dom:
 Time:

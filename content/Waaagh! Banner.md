@@ -5,6 +5,8 @@ tags:
   - Structure
 dg-publish: true
 Cost_req: 70
+Cost_pow: 0
+Up-to-date:
 ---
 # [[Waaagh! Banner]]
 *Light Fortification*

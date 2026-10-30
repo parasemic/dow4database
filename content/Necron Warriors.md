@@ -4,9 +4,12 @@ tags:
   - Light
   - Unit
 dg-publish: true
+from:
+  - "[[Tomb Citadel]]"
 Cost_dom: 12
 Supply_dom: 1
 Time: 14.9
+Up-to-date:
 ---
 
 # [[Necron Warriors]]

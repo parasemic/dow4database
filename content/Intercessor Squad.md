@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Light
   - Unit
-dg-publish: true
+from:
+  - "[[Chapel Barracks]]"
 Cost_req: 400
 Cost_pow: 0
 Supply_req: 32
 Time: 15
+Up-to-date:
 ---
 # [[Intercessor Squad]]
 *All-Purpose Infantry*

@@ -6,6 +6,7 @@ tags:
   - Destroyer
   - Research
 dg-publish: true
+Cost_dom: 15
 ---
 # [[Destroyer Crypt]]
 *Production Structure*

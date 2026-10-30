@@ -1,9 +1,15 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Light
   - Unit
-dg-publish: true
+from:
+  - "[[Chapel Barracks]]"
+Cost_req: 400
+Cost_pow: 0
+Supply_req: 32
+Time: 15
 Up-to-date:
 ---
 # [[Assault Intercessor Squad]]
@@ -12,7 +18,7 @@ Up-to-date:
 - Good versus infantry
 - Can equip Jump Packs
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **400** ![[req.png|20]] | Supply Cost: **32** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Chapel Barracks]]
 - - -
 

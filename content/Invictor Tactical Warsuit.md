@@ -1,13 +1,16 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Vehicle
   - Unit
-dg-publish: true
+from:
+  - "[[Armoury]]"
 Cost_req: 470
 Cost_pow: 40
 Supply_req: 38
 Time: 20
+Up-to-date:
 ---
 # [[Invictor Tactical Warsuit]]
 *Anti-Infantry Walker*

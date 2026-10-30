@@ -1,10 +1,12 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Production
   - Structure
   - Research
-dg-publish: true
+Up-to-date:
+Cost_req: 200
 ---
 # [[Chapel Barracks]]
 *Production Structure*
@@ -44,7 +46,7 @@ produces units:
 > *Upgrade*
 > Unlocks Eliminator Squads, Invictor Tactical Warsuits, and additional research.
 > HP **+700**
-Base Cost: **300** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **100.0** sec.
+Base Cost: **200** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **10.0** sec.
 ### Relevant Research
 ```base
 views:

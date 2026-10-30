@@ -1,12 +1,18 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Commander
   - Unit
   - Heavy
-dg-publish: true
 aliases:
   - Gorgutz
+from:
+  - "[[Mega Bossbunka]]"
+Cost_req:
+Cost_pow:
+Supply_req:
+Time:
 Up-to-date:
 ---
 # Warboss

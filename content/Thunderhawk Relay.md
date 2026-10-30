@@ -1,13 +1,13 @@
 ---
+dg-publish: true
 tags:
   - SM
   - Utility
   - Structure
-dg-publish: true
-Up-to-date:
 Cost_req: 150
 Cost_pow: 50
 Time:
+Up-to-date:
 ---
 # [[Thunderhawk Relay]]
 *Utility Structure*

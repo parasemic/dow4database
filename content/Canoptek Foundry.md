@@ -1,11 +1,13 @@
 ---
+dg-publish: true
 tags:
   - Production
   - Structure
   - "#Canoptek"
   - Research
   - Necron
-dg-publish: true
+Up-to-date:
+Cost_dom: 20
 ---
 # [[Canoptek Foundry]]
 *Production Structure*

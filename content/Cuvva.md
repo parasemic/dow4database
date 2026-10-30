@@ -1,11 +1,13 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Fortification
   - Structure
-dg-publish: true
 Cost_req: 50
 Time:
+Up-to-date:
+Cost_pow: 0
 ---
 # [[Cuvva]]
 *Fortification*

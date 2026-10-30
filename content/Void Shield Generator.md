@@ -15,7 +15,7 @@ Up-to-date: false
 - Strengthens the Noosphere Network
 - - -
 Base Cost: **425** ![[req.png|20]] | **75** ![[pow.png|20]] | Build Time: **??.?** sec.
-*Requires Network Strength 9*
+*Requires Network Strength IX*
 - - -
 Blocks shots from the outside, works on your own  shots, so be careful where you place them.
 -- Artist
@@ -23,6 +23,7 @@ Blocks shots from the outside, works on your own  shots, so be careful where you
 | HP         | 2200  |           |
 | ---------- | ----- | --------- |
 | [[Armour]] | 8<br> | Structure |
+
 NS levels reduce damage of units within by 3.3..% per level, up to 50% at lvl XV.
 ### Relevant Research
 ```base

@@ -1,9 +1,11 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Heavy
   - Unit
-dg-publish: true
+from:
+  - "[[Omnissian Cult]]"
 Cost_req:
 Cost_pow:
 Supply_req: 21

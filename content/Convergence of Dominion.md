@@ -4,6 +4,7 @@ tags:
   - Utility
   - Structure
 dg-publish: true
+Cost_dom: 7
 ---
 # [[Convergence of Dominion]]
 *Utility Structure*
