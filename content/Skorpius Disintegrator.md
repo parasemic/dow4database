@@ -6,8 +6,8 @@ tags:
   - Vehicle
 from:
   - "[[War Cohort Armoury]]"
-Cost_req:
-Cost_pow:
+Cost_req: 620
+Cost_pow: 110
 Supply_req: 53
 Time: 40
 Up-to-date:
@@ -18,10 +18,11 @@ Up-to-date:
 - Can launch missiles
 - High durability
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **620** ![[req.png|20]] / **110** ![[pow.png|20]] | Supply Cost: **53** ![[req.png|20]]/min | Build Time: **40.0** sec.
 from [[War Cohort Armoury]]
 *Requires Network Strength VII*
 - - -
+434-77 @X
 
 | [[Member Count]]      |  1   | max 1   |
 | --------------------- | :--: | ------- |
@@ -29,6 +30,7 @@ from [[War Cohort Armoury]]
 | Armour Penetration    |  8   |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 4200 |         |
+
 - - -
 ### Wargear
 

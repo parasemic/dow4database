@@ -28,7 +28,7 @@ Produces Units:
 | HP         | 2500  |           |
 | ---------- | ----- | --------- |
 | [[Armour]] | 3<br> | Structure |
-Every NS level reduces production cost by 5% up NS XII. Then by 3.3..%, p to -70% at NS XV.
+Every NS level reduces production cost by 5% up NS XII. Then by 3.3..%, up to -70% at NS XV.
 ### Research
 
 > [!tip] ![[Inloaded Lethality#Inloaded Lethality]]

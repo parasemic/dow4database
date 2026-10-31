@@ -4,8 +4,8 @@ tags:
   - AdMech
   - Vehicle
   - Unit
-Cost_req:
-Cost_pow:
+Cost_req: 550
+Cost_pow: 60
 Supply_req: 38
 Time: 40
 from:
@@ -18,16 +18,16 @@ Up-to-date:
 - Good versus infantry
 - Low mobility
 - - -
-Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Supply Cost: **38** ![[req.png|20]]/min | Build Time: **40.0** sec.
+Base Cost: **550** ![[req.png|20]] / **60** ![[pow.png|20]] | Supply Cost: **38** ![[req.png|20]]/min | Build Time: **40.0** sec.
 from: [[War Cohort Armoury]]
 - - -
 
-| [[Member Count]]      |     |         |
-| --------------------- | :-: | ------- |
-| [[Armour]]            |     | Vehicle |
-| Armour Penetration    |     |         |
-| Invulnerability Saves | 20% |         |
-| HP                    |     |         |
+| [[Member Count]]      |  1   | max 1   |
+| --------------------- | :--: | ------- |
+| [[Armour]]            |  8   | Vehicle |
+| Armour Penetration    |  8   |         |
+| Invulnerability Saves | 20%  |         |
+| HP                    | 3200 |         |
 - - -
 ### Wargear
 

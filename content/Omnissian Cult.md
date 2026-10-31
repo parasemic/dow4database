@@ -16,7 +16,7 @@ Up-to-date: true
 - Provides research
 - Strengthens the Noosphere Network (+3)
 - - -
-Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **00.?** sec.
 *Requires Network Strength 0*
 - - -
 
@@ -31,6 +31,7 @@ Produces Units:
 - [[Corpuscarii Electro-Priests]]
 - [[Kastelan Robot Maniple]]
 
+Every NS level reduces production cost by 5% up NS XII. Then by 3.3..%, up to -70% at NS XV.
 ### Research
 > [!tip] ![[Canticles Of Battle#Canticles Of Battle]]
  

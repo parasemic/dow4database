@@ -17,6 +17,6 @@ Cybernetica Datasmiths can be rapidly produced for free as long as 2 or fewer ar
 **120.0** sec.
 
 ## Details
-=> build time ~7sec.
+=> build time 3.8 sec.
 
 Followed by [[Battle Codifiers II]] at NS IV.

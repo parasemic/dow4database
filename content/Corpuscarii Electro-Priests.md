@@ -6,8 +6,8 @@ tags:
 dg-publish: true
 from:
   - "[[Omnissian Cult]]"
-Cost_req:
-Cost_pow:
+Cost_req: 250
+Cost_pow: 20
 Supply_req: 19
 Time: 25
 Up-to-date:
@@ -18,22 +18,24 @@ Up-to-date:
 - Deals area damage
 - Attacks reduce [[Armour]]
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **19** ![[req.png|20]]/min | Build Time: **25.0** sec.
+Base Cost: **250** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **19** ![[req.png|20]]/min | Build Time: **25.0** sec.
 *Requires Network Strength IV*
 from [[Omnissian Cult]]
 - - -
-
-| [[Member Count]]      |  6   | max ? |
-| --------------------- | :--: | ----- |
-| [[Armour]]            |  5   | Light |
-| Armour Penetration    |  7   |       |
-| Invulnerability Saves | 15%  |       |
-| HP                    | 1875 |       |
+ 
+| [[Member Count]]      |  5   | max 10 |
+| --------------------- | :--: | ------ |
+| [[Armour]]            |  5   | Light  |
+| Armour Penetration    |  7   |        |
+| Invulnerability Saves | 15%  |        |
+| HP                    | 1875 |        |
 ### Wargear
 ![[Electrostatic Gauntlets#*Electrostatic Gauntlets*]]
 
-Force Augmentation I
-Force Augmentation II
+![[Force Augmentation I (Electro-Priests)#Force Augmentation I]]
+
+![[Force Augmentation II (Electro-Priests)#Force Augmentation II]]
+
 - - -
 ### Relevant Research
 ```base

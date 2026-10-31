@@ -25,7 +25,7 @@ Produces units
 | ---------- | ----- | --------- |
 | [[Armour]] | 8<br> | Structure |
 
-NS lvl cost reduction is 5% at lvl IV and goes up by 5% until 60% reduction at NS XV.
+NS lvl cost reduction is 5% at lvl V and goes up by 5% until 50% at NS XIV and a final 10% reduction at NS XV. -total 60%)
 
 ### Research
 

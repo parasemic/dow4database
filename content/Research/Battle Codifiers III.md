@@ -18,4 +18,4 @@ Cybernetica Datasmiths can be rapidly produced for free as long as 8 or fewer ar
 *Requires Network Strength VI*
 
 ## Details
-=> build time ~7sec.
+=> build time 3.8sec.

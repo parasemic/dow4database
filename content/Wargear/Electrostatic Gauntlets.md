@@ -18,3 +18,4 @@ dg-publish: true
 > - Cannot be replaced
 
 ## Details
+Removes 5 Armour from target hit.

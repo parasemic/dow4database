@@ -1,9 +1,9 @@
 ---
+dg-publish: true
 tags:
   - Wargear
   - Weapon
   - AdMech
-dg-publish: true
 light_min: 85
 light_max: 148
 heavy_min: 59

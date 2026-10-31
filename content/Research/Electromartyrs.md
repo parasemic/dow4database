@@ -19,3 +19,4 @@ Increases maximum HP and unlocks the **Force Augmentation I** Wargear for [[Corp
 
 ## Details
 ![[Electromartyrs.png]]
+Followed by [[Sanctified Electromartyrs]].
