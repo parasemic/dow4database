@@ -1,9 +1,9 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Production
   - Structure
-dg-publish: true
 Cost_req: 275
 Cost_pow: 25
 Up-to-date: true
@@ -25,8 +25,13 @@ Produces units
 | ---------- | ----- | --------- |
 | [[Armour]] | 8<br> | Structure |
 
-NS lvl cost reduction is 5% at lvl V and goes up by 5% until 50% at NS XIV and a final 10% reduction at NS XV. -total 60%)
+Production cost reduction:
 
+| NS  | I   | II  | III  | IV  | V   | VI  | VII | VIII | IX  | X   |
+| --- | --- | --- | ---- | --- | --- | --- | --- | ---- | --- | --- |
+| -%  | ?   | ?   | ?    | ?   | 5   | 10  | 15  | 20   | 25  | 30  |
+| NS  | XI  | XII | XIII | XIV | XV  |     |     |      |     |     |
+| -%  | 35  | 40  | 45   | 50  | 60  |     |     |      |     |     |
 ### Research
 
 > [!tip] ![[Autosavant Spirits#Autosavant Spirits]]

@@ -4,15 +4,15 @@ tags:
   - Wargear
   - Weapon
   - Ork
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
+light_min: 219
+light_max: 219
+heavy_min: 219
+heavy_max: 219
+vehi_min: 186
+vehi_max: 219
+build_min: 131
+build_max: 154
+AP: "7"
 equiped_by:
   - "[[Deff Dread]]"
 Cost_req:
@@ -22,7 +22,7 @@ Time:
 Slot:
   - "1"
 ---
-#### *Big Shoota*
+  #### *Big Shoota*
 > [!example] *Equipment*
 > - Default weapon
 > - Cannot be bought back

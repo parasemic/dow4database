@@ -28,7 +28,13 @@ Produces Units:
 - Commnander ([[Skitarii Marshal]] or [[Technoarcheologist]])
 - [[Cybernetica Datasmith]]
 - - -
-Every NS level reduces production cost by 5%
+Production cost reduction:
+
+| NS  | I   | II  | III  | IV   | V   | VI  | VII | VIII | IX  | X   |
+| --- | --- | --- | ---- | ---- | --- | --- | --- | ---- | --- | --- |
+| -%  | 5   | 10  | 15   | 20   | 25  | 30  | 35  | 40   | 45  | 50  |
+| NS  | XI  | XII | XIII | XIV  | XV  |     |     |      |     |     |
+| -%  | 55  | 60  | 63.3 | 66.6 | 70  |     |     |      |     |     |
 ### Research
 > [!tip] ![[Battle Codifiers I#Battle Codifiers I]]
 > > [!tip] ![[Battle Codifiers II#Battle Codifiers II]]

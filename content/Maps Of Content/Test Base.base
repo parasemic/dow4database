@@ -147,14 +147,23 @@ views:
     indentProperties: false
     columnSize:
       note.Time: 64
-  - type: list
+  - type: table
     name: Units
     filters:
       and:
-        - file.tags.containsAll("structure")
+        - file.tags.containsAll("unit")
+    order:
+      - file.name
+      - Supply_req
+      - Up-to-date
     sort:
+      - property: Supply_req
+        direction: ASC
+      - property: Up-to-date
+        direction: DESC
       - property: tags
         direction: ASC
+    indentProperties: false
   - type: table
     name: Up to date
     filters:

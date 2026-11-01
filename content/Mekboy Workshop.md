@@ -1,13 +1,13 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Utility
   - Structure
   - Research
-dg-publish: true
-Up-to-date:
 Cost_req: 150
 Cost_pow: 35
+Up-to-date:
 ---
 # [[Mekboy Workshop]]
 *Utility Structure*

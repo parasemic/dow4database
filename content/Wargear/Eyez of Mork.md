@@ -29,3 +29,4 @@ Slot: "1"
 > => Slot 1
 ## Details
 Deals 240 per hit to a [[Canoptek Spyder]].
+Deals 240 per hit to a [[Sentry Pylon]].

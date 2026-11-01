@@ -1,9 +1,9 @@
 ---
+dg-publish: true
 tags:
   - Wargear
   - Weapon
   - AdMech
-Up-to-date: true
 light_min:
 light_max:
 heavy_min:
@@ -18,11 +18,11 @@ Cost_req: 20
 Cost_pow: 2
 Cost_dom:
 Time: 5
-dg-publish: true
 Slot:
   - "1"
   - "2"
   - "3"
+Up-to-date: true
 ---
 #### Plasma Caliver
 > [!example] *Equipment*
@@ -31,7 +31,7 @@ Slot:
 > - Good versus all targets
 >
 > *Requires Network Strength IV*
-> Cost: **20** ![[req.png|20]] | Build Time: **5.0** sec.
+> Cost: **20** ![[req.png|20]] / **2** ![[pow.png|20]]| Build Time: **5.0** sec.
 > => slot 1,2,3
 
 ## Details

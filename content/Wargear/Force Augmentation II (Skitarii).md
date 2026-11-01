@@ -1,15 +1,18 @@
 ---
+dg-publish: true
 tags:
   - Wargear
   - AdMech
-equiped_by: "[[Skitarii Vanguards]]"
+equiped_by:
+  - "[[Skitarii Vanguards]]"
+  - "[[Skitarii Rangers]]"
 Cost_req:
 Cost_pow:
 Cost_dom:
 Time: 10
 Slot:
   - "5"
-dg-publish: true
+Up-to-date: true
 ---
 #### Force Augmentation II
 > [!tip] *Upgrade*

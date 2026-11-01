@@ -7,11 +7,11 @@ tags:
   - Unit
 from:
   - "[[Omnissian Cult]]"
-Cost_req:
-Cost_pow:
-Supply_req:
-Time:
-Up-to-date:
+Cost_req: 400
+Cost_pow: 50
+Supply_req: 23
+Time: 40
+Up-to-date: true
 ---
 # [[Kastelan Robot Maniple]]
 *Elite Constructs*
@@ -19,7 +19,7 @@ Up-to-date:
 - Very high durability
 - Cannot engage in melee
 ---
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **23** ![[req.png|20]]/min | Build Time: **40.0** sec.
+Base Cost: **400** ![[req.png|20]] / **50** ![[pow.png|20]] | Supply Cost: **23** ![[req.png|20]]/min | Build Time: **40.0** sec.
 *Requires Network Strength V*
 from [[Omnissian Cult]]
 
@@ -45,9 +45,6 @@ from [[Omnissian Cult]]
 ![[Force Augmentation I (Kastellan)#Force Augmentation I]]
 
 ![[Force Augmentation II (Kastellan)#Force Augmentation II]]
-#### Relevant Research
-- Canticles Of Battle
-- Maniple Expansion
 ### Relevant Research
 ```base
 views:

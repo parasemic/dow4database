@@ -27,7 +27,7 @@ dg-publish: true
 > [!example] *Equipment*
 > - Upgrades a member's weaponry.
 > - Increases ranged damage to all targets.
-> Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??** sec.
+> Base Cost: **20** ![[req.png|20]] / **1** ![[pow.png|20]] | Build Time: **5.0** sec.
 > *Requires Network Strength IV*
 
 => Slot 1,2,3

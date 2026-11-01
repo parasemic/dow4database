@@ -1,9 +1,9 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Light
   - Unit
-dg-publish: true
 from:
   - "[[Omnissian Cult]]"
 Cost_req: 250

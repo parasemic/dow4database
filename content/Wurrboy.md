@@ -23,6 +23,7 @@ from [[Beast Snagga Hut]]
 > *Active Ability*
 > Launch a psychic attack at target enemy, dealing damage to any enemies in its path.
 
+=> 200 damage to a Sentry Pylon
 - - -
 ### Wargear
 ![[Eyez of Mork#*Eyez of Mork*]]

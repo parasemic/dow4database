@@ -35,64 +35,35 @@ from [[Mega Bossbunka]]
 - - -
 ![[Attach.png|25]] Attach passive: **Da Old Ways**
 Increases damage dealt to vehicles and monsters by the Commander and attached unit.
+
+![[Pasted image 20261028152708.png]]
+> [!danger] Beastly Rage
+> *Active Ability*
+> Increase damage dealt and Waaagh! gain for units in range for a duration.
+
+=> +50% damage for 10 sec.
 - - -
 ### Wargear
-Beastchoppa/Big Slugga
-*Equipment*
-- Default loadout
-- Effective at all ranges
-- Good versus infantry
-100 ![[req.png|20]] 15sec
-=> Slot 1
+![[Beastchoppa-Big Slugga#Beastchoppa/Big Slugga]]
 
-Beastchoppa/Thump Gun
-*Equipment*
-- Effective at all ranges
-- Good versus infantry in melee
-- Good versus vehicles at range
-120 ![[req.png|20]] 10![[pow.png|20]] 15sec
-=> Slot 1
+![[Beastchoppa-Thump Gun#Beastchoppa/Thump Gun]]
 
-Beast Hammer/Bigga Thump Gun
-*Equipment*
-- Effective at all ranges
-- Excels versus vehicles
-- Melee attacks can knock down
-180 ![[req.png|20]] 30![[pow.png|20]] 15sec
-=> Slot 1
+![[Beast Hammer-Bigga Thump Gun#Beast Hammer/Bigga Thump Gun]]
 
-Beast Hammer/Kustom Shoota
-*Equipment*
-- Good versus infantry at range
-- Good versus vehicles in melee
-- Melee attacks can knock down
-220 ![[req.png|20]] 40![[pow.png|20]] 15sec
-=> Slot 1
+![[Beast Hammer-Kustom Shoota#Beast Hammer/Kustom Shoota]]
 
-Bosspole
-*Passive Ability*
-Increases damage dealt and XP gain for Guzcutta and attached unit. Increases HP regain rate for Guzcutta.
-100 ![[req.png|20]] 10 ![[pow.png|20]] 15sec
-=> Slot 2
+![[Bosspole (Squigosaur)#Bosspole]]
 
-Ferocious Roar
-*Active Ability*
-Reduce damage dealt by enemies and increase Waaagh! gain for units in range.
-Killing enemies in range reduces this ability's cooldown.
-150 ![[req.png|20]] 20 ![[pow.png|20]] 15sec
-=> Slot 2
+![[Ferocious Roar#Ferocious Roar]]
 
-Single-Minded Predator
-*Active Ability*
-The Squigosaur attempts to devour target unit, dealing damage and restoring HP if target was biological.
-100 ![[req.png|20]] 30 ![[pow.png|20]] 15sec
-=> Slot 2
+![[Single-Minded Predator#Single-Minded Predator]]
 
-Beastgob
-*Active Ability*
-Deploy a Bomb Squig Horde near Guzcutta. (Actually deploys 2, but who's counting?)
-80 ![[req.png|20]] 40![[pow.png|20]] 15sec
-=> Slot 3
+![[Bigkilla Boss (Squigosaur)#Bigkilla Boss]]
+
+![['Ere We Go!#'Ere We Go!]]
+
+![[Beastgob (Squigosaur)#Beastgob]]
+
 - - -
 ### Relevant Research
 ```base

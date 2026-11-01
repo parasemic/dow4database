@@ -11,7 +11,7 @@ Cost_req: 100
 Cost_pow: 0
 Supply_req: 15
 Time: 10
-Up-to-date:
+Up-to-date: true
 ---
 # [[Skitarii Rangers]]
 *All-Purpose Infantry*
@@ -35,8 +35,9 @@ from [[War Cohort Altar]]
 
 ![[Transuranic Arquebus#Transuranic Arquebus]]
 
-Squad +
-Squad ++
+![[Force Augmentation I (Skitarii)#Force Augmentation I]]
+
+![[Force Augmentation II (Skitarii)#Force Augmentation II]]
 ### Relevant Research
 
 ```base

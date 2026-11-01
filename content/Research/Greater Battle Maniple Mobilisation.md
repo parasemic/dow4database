@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Research
@@ -10,7 +11,7 @@ Time:
 Slot:
   - "2"
 pic: "[[Research-ph.png]]"
-dg-publish: true
+Up-to-date: true
 ---
 ##### Greater Battle Maniple Mobilisation
 *Research*

@@ -34,9 +34,9 @@ from [[War Cohort Altar]]
 
 ![[Plasma Caliver (Vanguards)#Plasma Caliver]]
 
-![[Force Augmentation I (Vanguards)#Force Augmentation I]]
+![[Force Augmentation I (Skitarii)#Force Augmentation I]]
 
-![[Force Augmentation II (Vanguards)#Force Augmentation II]]
+![[Force Augmentation II (Skitarii)#Force Augmentation II]]
 
 ----
 #### Relevant Research

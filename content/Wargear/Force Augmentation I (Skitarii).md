@@ -2,7 +2,9 @@
 tags:
   - Wargear
   - AdMech
-equiped_by: "[[Skitarii Vanguards]]"
+equiped_by:
+  - "[[Skitarii Vanguards]]"
+  - "[[Skitarii Rangers]]"
 Cost_req:
 Cost_pow:
 Cost_dom:
