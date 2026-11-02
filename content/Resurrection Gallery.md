@@ -1,10 +1,12 @@
 ---
+dg-publish: true
 tags:
   - Necron
   - Utility
   - Structure
-dg-publish: true
 Cost_dom: 25
+Time: 50
+Up-to-date:
 ---
 # [[Resurrection Gallery]]
 *Utility Structure*
@@ -12,22 +14,22 @@ Cost_dom: 25
 - Can only resurrect one unit at a time
 - Must be built on the Power Matrix
 - - -
-Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
+Base Cost: **25** ![[dom.png|20]] | Build Time: **50.0** sec.
 - - -
 
 | HP     | 2500  |           |
 | ------ | ----- | --------- |
 | Armour | 5<br> | Structure |
 Can resurrect: 
-+ [[Canoptek Scarabs]]
-+ [[Necron Warriors]]
-+ [[Lychguards]]
-+ [[Immortals]]
-+ [[Deathmarks]]
-+ [[Canoptek Spyder]]
-+ [[Canoptek Wraiths]]
-+ [[Skorpekh Destroyers]]
-+ [[Lokhust Heavy Destroyer]]
++ [[Canoptek Scarabs]] - 19.9 sec.
++ [[Necron Warriors]] -24.8 sec.
++ [[Lychguards]] -39.8 sec.
++ [[Immortals]] - 24.8 sec.
++ [[Deathmarks]] -49.7 sec.
++ [[Canoptek Spyder]] -39.8 sec.
++ [[Canoptek Wraiths]] - 49.7 sec.
++ [[Skorpekh Destroyers]] - 59.6 sec.
++ [[Lokhust Heavy Destroyer]] - 59.6 sec.
 ### Research
 
 Rapid Reanimation

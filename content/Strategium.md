@@ -30,17 +30,9 @@ Base Cost: **100** ![[req.png|20]] / **5** ![[pow.png|20]] | Build Time: **30.0*
 
 > [!tip] ![[Lightning Deployment#Lightning Deployment]]
 
-> [!tip] Orbital Onslaught
-> *Research*
-> Increases the maximum capacity of the Reserve.
-> Additional Capacity +3
-> **180.0** sec.
+> [!tip] ![[Orbital Onslaught#Orbital Onslaught]]
 
-> [!tip] Rapid Embarkation
-> *Research*
-> Increases the maximum capacity of Thunderhawk Relays.
-> Additional Capacity +1
-> **180.0** sec.
+> [!tip] ![[Rapid Embarkation#Rapid Embarkation]]
 ### Relevant Research
 ```base
 views:

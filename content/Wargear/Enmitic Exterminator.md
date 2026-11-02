@@ -4,15 +4,15 @@ tags:
   - Wargear
   - Weapon
   - Necron
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
+light_min: 65
+light_max: 65
+heavy_min: 62
+heavy_max: 65
+vehi_min: 59
+vehi_max: 62
+build_min: 42
+build_max: 46
+AP: "9"
 equiped_by: "[[Lokhust Heavy Destroyer]]"
 Cost_req:
 Cost_pow:
@@ -20,6 +20,7 @@ Cost_dom:
 Time: 10
 Slot:
   - "1"
+Up-to-date:
 ---
 #### Enmitic Exterminator
 > [!example] *Equipment*

@@ -7,9 +7,9 @@ tags:
   - "#Destroyer"
 from:
   - "[[Destroyer Crypt]]"
-Cost_dom:
+Cost_dom: 60
 Supply_dom: 6
-Time:
+Time: 40
 Up-to-date:
 ---
 
@@ -19,7 +19,7 @@ Up-to-date:
 - Good versus all targets
 - Low mobility
 ---
-Base Cost: **??** ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base build time: **??** sec.
+Base Cost: **60** ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | Base build time: **39.8** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel III|Tomb Citadel III]]*
 from [[Destroyer Crypt]]
 

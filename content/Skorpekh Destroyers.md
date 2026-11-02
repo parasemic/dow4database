@@ -7,9 +7,9 @@ tags:
   - Destroyer
 from:
   - "[[Destroyer Crypt]]"
-Cost_dom:
+Cost_dom: 40
 Supply_dom: 4
-Time:
+Time: 40
 Up-to-date:
 ---
 # [[Skorpekh Destroyers]]
@@ -18,22 +18,33 @@ Up-to-date:
 - Good versus all targets
 - High mobility
 - - -
-Base cost:  ![[dom.png|20]] | Supply Cost:  **4** ![[dom.png|20]]/min | Base build time: sec.
+Base cost: **40** ![[dom.png|20]] | Supply Cost:  **4** ![[dom.png|20]]/min | Base build time: **39.8** sec.
 from [[Destroyer Crypt]]
 - - -
 
 | [[Member Count]]      |  3   | max 6 |
 | --------------------- | :--: | ----- |
 | [[Armour]]            |  5   | Heavy |
-| Armour Penetration    |  66  |       |
+| Armour Penetration    |  6   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 2550 |       |
 - - -
 ### Wargear
-Hyperphase blades
-Plasmacyte
-Squad +
-Squad ++ 
+default
+
+![[Hyperphase Reap-Blade#Hyperphase Reap-Blade]]
+
+Undying Legions I
+*Equipment*
+Adds 1 more member to this unit.
+Requires structure: Tomb Citadel III
+8dom 15.0
+
+Undying Legions II
+*Equipment*
+Adds 2 more members to this unit.
+Requires structure: Tomb Citadel IV
+14dom 15.0
 ### Relevant Research
 ```base
 views:

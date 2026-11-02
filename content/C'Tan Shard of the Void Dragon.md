@@ -11,13 +11,38 @@ Up-to-date:
 *Flying Monster*
 - Effective at all ranges
 - Excels versus all targets
-- Ignores obstacles
+- Ignores most obstacles
 - - -
 Base Cost: **150** ![[dom.png|20]] | Supply Cost: **15** ![[dom.png|20]]/min | Base Build Time: **40.0** sec.
 *Requires upgrade: [[Tomb Citadel#Tomb Citadel IV|Tomb Citadel IV]]*
 Build limit: **1**
 from [[Tomb Citadel]]
 - - -
+
+| [[Member Count]]      |  1   |     |
+| --------------------- | :--: | --- |
+| [[Armour]]            |  6   |     |
+| Armour Penetration    |  10  |     |
+| Invulnerability Saves |  -   |     |
+| HP                    | 1000 |     |
+
+
+> [!danger] Spear of the Void Dragon
+> *Active Ability*
+> Launch a projectile at target enemy, dealing heavy area damage.
+
+> [!danger] Hyperphasic Recall
+> *Active Ability*
+> Become invulnerable and immobile for a duration, then teleport to the Reserve.
+
+> [!danger] Matter Absorption
+> *Active Ability*
+> Become immobile and deal damage to all vehicles in range, regaining HP based on damage dealt.
+
+> [!tip] Matter Absorption
+> *Passive Ability*
+> Deal damage to a random mechanical enemy in range, regaining HP based on the damage dealt.
+
 ### Wargear
 ![[Spear of the Void Dragon#Spear of the Void Dragon]]
 ### Relevant Research

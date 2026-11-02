@@ -8,9 +8,9 @@ tags:
   - "#Utility"
 from:
   - "[[Canoptek Foundry]]"
-Cost_dom:
-Supply_dom:
-Time:
+Cost_dom: 25
+Supply_dom: 3
+Time: 25
 Up-to-date:
 ---
 # [[Canoptek Spyder]]
@@ -19,7 +19,7 @@ Up-to-date:
 - Effective in melee
 - Low Durability
 - - -
-Base Cost: **??** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **25** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Build Time: **24.8** sec.
 from [[Canoptek Foundry]]
 - - -
 

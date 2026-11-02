@@ -8,9 +8,9 @@ tags:
   - "#Construct"
 from:
   - "[[Canoptek Foundry]]"
-Cost_dom:
+Cost_dom: 110
 Supply_dom: 8
-Time:
+Time: 40
 Up-to-date:
 ---
 # [[Canoptek Doomstalker]]
@@ -19,7 +19,7 @@ Up-to-date:
 - Excels versus vehicles
 - Low mobility
 - - -
-Base cost:  ![[dom.png|20]] | Supply Cost: **8**  ![[dom.png|20]]/min | Base build time: sec.
+Base cost:  **110** ![[dom.png|20]] | Supply Cost: **8**  ![[dom.png|20]]/min | Base build time: **39.8** sec.
 from [[Canoptek Foundry]]
 - - -
 

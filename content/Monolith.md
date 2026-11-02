@@ -31,10 +31,9 @@ from [[Tomb Citadel]]
 | HP                    | 7000 |         |
 - - -
 ![[Translocation.png]]
-> [!danger] Abilities
-> - Translocation:
->	~~*Active Ability*~~
->	Teleport to target location in range.
+> [!danger] Translocation:
+> *Active Ability*
+> Teleport to target location in range.
 
 ---
 ### Relevant Research

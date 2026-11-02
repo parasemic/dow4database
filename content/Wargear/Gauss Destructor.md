@@ -3,15 +3,15 @@ tags:
   - Wargear
   - Weapon
   - Necron
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
+light_min: 40
+light_max: 99
+heavy_min: 97
+heavy_max: 188
+vehi_min: 288
+vehi_max: 291
+build_min: 202
+build_max: 206
+AP: "10"
 equiped_by: "[[Lokhust Heavy Destroyer]]"
 Cost_req:
 Cost_pow:
@@ -30,3 +30,4 @@ Slot:
 > Cost: **20** ![[dom.png|20]] | **10.0** sec.
 
 ## Details
+AP +1

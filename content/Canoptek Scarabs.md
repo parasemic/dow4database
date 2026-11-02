@@ -11,7 +11,7 @@ from:
 Cost_dom: 6
 Supply_dom: 1
 Time: 9.9
-Up-to-date:
+Up-to-date: true
 ---
 # [[Canoptek Scarabs]]
 *Light Construct*
@@ -32,10 +32,10 @@ from [[Tomb Citadel]] & [[Canoptek Foundry]]
 - - -
 ### Wargear
 ![[Feeder Mandibles#*Feeder mandibles*]]
-==TO-DO==
-Upgrade 1
 
-Upgrade 2
+![[Undying Legions I (Scarabs)#Undying Legions I]]
+
+![[Undying Legions II (Scarabs)#Undying Legions II]]
 - - -
 ### Relevant Research
 ```base

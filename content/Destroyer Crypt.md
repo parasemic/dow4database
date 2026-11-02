@@ -1,12 +1,14 @@
 ---
+dg-publish: true
 tags:
   - Production
   - Necron
   - Structure
   - Destroyer
   - Research
-dg-publish: true
 Cost_dom: 15
+Time: 35
+Up-to-date: true
 ---
 # [[Destroyer Crypt]]
 *Production Structure*
@@ -14,13 +16,13 @@ Cost_dom: 15
 - Expands the Power Matrix
 - Must be built on the Power Matrix
 - - -
-Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
+Base Cost: **15** ![[dom.png|20]] | Build Time: **35.0** sec.
 *Requires structure: [[Tomb Citadel#Tomb Citadel II|Tomb Citadel II]]*
 - - -
 
-| HP     |      |           |
-| ------ | ---- | --------- |
-| Armour | <br> | Structure |
+| HP     | 3500  |           |
+| ------ | ----- | --------- |
+| Armour | 6<br> | Structure |
 - - -
 Produces Units:
 - [[Skorpekh Destroyers]]

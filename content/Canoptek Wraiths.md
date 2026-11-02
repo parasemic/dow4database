@@ -8,9 +8,9 @@ tags:
   - Necron
 from:
   - "[[Canoptek Foundry]]"
-Cost_dom:
+Cost_dom: 55
 Supply_dom: 6
-Time:
+Time: 30
 Up-to-date:
 ---
 # [[Canoptek Wraiths]]
@@ -19,7 +19,7 @@ Up-to-date:
 - Good versus all targets
 - Can phase through obstacles
 - - -
-Base cost:  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | ![[dom.png|20]] build time: **??** sec.
+Base cost: **55**  ![[dom.png|20]] | Supply Cost:  **6** ![[dom.png|20]]/min | ![[dom.png|20]] build time: **29.8** sec.
 from [[Canoptek Foundry]]
 - - -
 

@@ -1,8 +1,8 @@
 ---
+dg-publish: true
 tags:
   - Research
   - Necron
-dg-publish: true
 from: "[[Destroyer Crypt]]"
 affects:
   - Crypt_units
@@ -10,6 +10,7 @@ Time: 180
 Slot:
   - "2"
 pic: "[[Research-ph.png]]"
+Up-to-date: true
 ---
 ##### Oblivion's Call
 *Research*
@@ -18,3 +19,4 @@ Reduces production time for units from Destroyer Crypts.
 **180.0** sec.
 
 ## Details
+Production Time -25%

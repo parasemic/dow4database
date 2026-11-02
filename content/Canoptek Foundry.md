@@ -6,8 +6,9 @@ tags:
   - "#Canoptek"
   - Research
   - Necron
-Up-to-date:
 Cost_dom: 20
+Time: 30
+Up-to-date: true
 ---
 # [[Canoptek Foundry]]
 *Production Structure*
@@ -15,7 +16,7 @@ Cost_dom: 20
 - Expands the Power Matrix
 - Must be built on the Power Matrix
 - - -
-Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
+Base Cost: **20** ![[dom.png|20]] | Build Time: **30.0** sec.
 - - -
 
 | HP     | 2500  |           |

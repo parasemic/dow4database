@@ -29,7 +29,7 @@ views:
     filters:
       and:
         - file.tags.contains("Research")
-        - affects.containsAny("deployed_struct")
+        - affects.containsAny("deployed_struct", link("Thunderhawk Relay"))
     groupBy:
       property: from
       direction: ASC

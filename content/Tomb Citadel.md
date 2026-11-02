@@ -70,3 +70,4 @@ Produces units:
 | HP         | 16000  |           |
 | ---------- | ------ | --------- |
 | [[Armour]] | 10<br> | Structure |
+=> Gets a second production queue (can build 2 units at once).
