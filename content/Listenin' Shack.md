@@ -21,9 +21,9 @@ Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?
 ---
 **+65** ![[req.png|20]]/min income (130)
 
-| HP         | 1500 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 2<br> | Structure |
 
 ---
 > [!tip] Listenin' Shack II
@@ -39,7 +39,10 @@ Base Cost: **100** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?
 - Armed with a Rokkit Launcha
 => **+65** ![[req.png|20]]/min (195)
 
-5000hp
+| HP         | 5000 |           |
+| ---------- | ---- | --------- |
+| [[Armour]] | <br> | Structure |
+
 
 > [!tip]  Listenin' Shack III
 > *Upgrade*

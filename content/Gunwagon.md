@@ -11,7 +11,7 @@ dg-publish: true
 - Good versus all targets
 - High durability
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **500** ![[req.png|20]] / **50** ![[pow.png|20]] | Supply Cost: **60** ![[req.png|20]]/min | Build Time: **25.0** sec.
 from [[Scrap 'Eap]]
 - - -
 

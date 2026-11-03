@@ -1,26 +1,38 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Unit
-dg-publish: true
+  - Heavy
+from:
+  - "[[Scrap 'Eap]]"
+Cost_req: 300
+Cost_pow: 20
+Supply_req: 36
+Time: 20
+Up-to-date: true
 ---
 # [[Deffkoptas]]
-
+*Flying Infantry*
+- Effective at range
+- Good versus vehicles
+- Ignores most obstacles
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **300** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **36** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Scrap 'Eap]]
 - - -
 
-| [[Member Count]]      |     | max |
-| --------------------- | :-: | --- |
-| [[Armour]]            |     |     |
-| Armour Penetration    |     |     |
-| Invulnerability Saves |  -  |     |
-| HP                    |     |     |
+| [[Member Count]]      |  3   | max 4 |
+| --------------------- | :--: | ----- |
+| [[Armour]]            |  5   | Heavy |
+| Armour Penetration    |  4   |       |
+| Invulnerability Saves |  -   |       |
+| HP                    | 2100 |       |
 - - -
 ### Wargear
 ![[Kopta Rokkits#*Kopta Rokkits*]]
-mob up 1 2
+
+![[Mobbin' Up I (Koptas)#Mobbin' Up I]]
 ### Relevant research
 ```base
 views:

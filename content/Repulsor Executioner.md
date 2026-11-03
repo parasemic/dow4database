@@ -14,9 +14,9 @@ Up-to-date:
 ---
 # [[Repulsor Executioner]]
 *Heavy Vehicle*
-- Effective at range
-- Excels versus infantry
-- High durability
+- Excels versus all targets
+- Can launch grenades
+- Very high durability
 - - -
 Base Cost: **700** ![[req.png|20]] / **85** ![[pow.png|20]] | Supply Cost: **80** ![[req.png|20]]/min | Build Time: **45.0** sec.
 *Requires upgrade: Heavy Armour Attachment*

@@ -25,7 +25,7 @@ Slot:
 ---
 #### Mobbin' Up II
 > [!tip] *Upgrade*
-> Adds 5 more members to this unit.
-> Cost: **//** ![[req.png|20]] | Build Time: **10.0** sec.
+> Adds 4 more members to this unit.
+> Cost: **50** ![[req.png|20]] | Build Time: **10.0** sec.
 > *Requires Veterancy Level 6*
 ## Details

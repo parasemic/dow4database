@@ -28,3 +28,7 @@ dg-publish: true
 > 
 > => Slot 1
 ## Details
+Deals 57-69 dmg to a Sentry Pylon per hit
+92 with Ezrael buff
+
+can miss

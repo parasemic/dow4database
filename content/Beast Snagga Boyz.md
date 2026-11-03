@@ -21,19 +21,21 @@ Up-to-date:
 from [[Beast Snagga Hut]]
 - - -
 
-| [[Member Count]]      |     |       |
-| --------------------- | :-: | ----- |
-| [[Armour]]            |     | Light |
-| Armour Penetration    |     |       |
-| Invulnerability Saves |  -  |       |
-| HP                    |     |       |
+| [[Member Count]]      |  10  | max 20 |
+| --------------------- | :--: | ------ |
+| [[Armour]]            |  3   | Light  |
+| Armour Penetration    |  2   |        |
+| Invulnerability Saves |  -   |        |
+| HP                    | 3000 |        |
 - - -
 ### Wargear
 ![[Slugga-Choppa#*Slugga-Choppa*]]
 
 ![[Thump Gun#*Thump Gun*]]
-Mobin' Up I
-Mobin' Up II
+
+![[Mobbin' Up I (Snagga)#Mobbin' Up I]]
+
+![[Mobbin' Up II (Snagga)#Mobbin' Up II]]
 - - -
 ### Relevant Research
 ```base

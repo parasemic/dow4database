@@ -30,12 +30,6 @@ from [[Chapel Barracks]]
 | Invulnerability Saves |  -  |       |
 | HP                    | 900 |       |
 
-| *Armour Effectiveness* | AP 3 |
-| ---------------------- | ---- |
-| Light                  |      |
-| Heavy                  |      |
-| Vehicle                |      |
-| Structure              |      |
 - - -
 > [!danger] ![[Stealth#Stealth]]
 ### Wargear

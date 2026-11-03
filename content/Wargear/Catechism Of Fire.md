@@ -16,6 +16,6 @@ dg-publish: true
 > Base Cost: **130** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **20.0** sec.
 > => Slot 1
 ## Details
-=> Ranged Damage +??%
+=> Ranged Damage **+33%**
 => Area
-=> Duration
+=> Duration **10** sec.

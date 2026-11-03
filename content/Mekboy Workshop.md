@@ -19,9 +19,9 @@ Base Cost: **150** ![[req.png|20]] | **35** ![[pow.png|20]] | Build Time: **??.?
 
 ---
 
-| HP         | 3000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 5<br> | Structure |
 ### Wargear
 Kustom Mega-blasta >\_<
 ### Research
@@ -33,7 +33,7 @@ Kustom Mega-blasta >\_<
 
 > [!tip] ![[Mob Rule#Mob Rule]]
 
-> [!tip] 5th research
+> [!tip] ![[Da Green Tide#Da Green Tide]]
 ### Relevant Research
 ```base
 views:

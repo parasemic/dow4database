@@ -18,4 +18,4 @@ dg-publish: true
 ## Details
 => Damage Reduction
 => Area
-=> Duration
+=> Duration **10** sec.

@@ -15,7 +15,7 @@ dg-publish: true
 ##### Mob Rule
 *Research*
 Increases XP gain for all units.
-=> gain?
+=> XP gain **+10%**
 **120.0** sec.
 
 ## Details

@@ -1,9 +1,10 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Vehicle
   - Unit
-dg-publish: true
+Up-to-date:
 ---
 # [[Deff Dread]]
 *All-Purpose Walker*
@@ -11,16 +12,16 @@ dg-publish: true
 - Good versus infantry
 - Moderate durability
 - - -
-Base Cost: **430** ![[req.png|20]] | **45** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
+Base Cost: **430** ![[req.png|20]] / **40** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Scrap 'Eap]]
 - - -
 
-| [[Member Count]]      |  1  | max     |
-| --------------------- | :-: | ------- |
-| [[Armour]]            |     | Vehicle |
-| Armour Penetration    |     |         |
-| Invulnerability Saves |  -  |         |
-| HP                    |     |         |
+| [[Member Count]]      |  1   | max     |
+| --------------------- | :--: | ------- |
+| [[Armour]]            |  5   | Vehicle |
+| Armour Penetration    |  7   |         |
+| Invulnerability Saves |  -   |         |
+| HP                    | 4000 |         |
 - - -
 ![[Big Shoota (Deff Dread)#*Big Shoota*]]
 

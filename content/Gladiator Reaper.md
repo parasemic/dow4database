@@ -18,7 +18,7 @@ Up-to-date:
 - Excels versus infantry
 - High durability
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **25.0** sec.
+Base Cost: **600** ![[req.png|20]] / **65** ![[pow.png|20]] | Supply Cost: **48** ![[req.png|20]]/min | Build Time: **25.0** sec.
 *Requires upgrade: Heavy Armour Attachment*
 from [[Armoury]]
 - - -

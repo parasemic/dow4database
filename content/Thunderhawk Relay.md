@@ -7,7 +7,7 @@ tags:
 Cost_req: 150
 Cost_pow: 50
 Time:
-Up-to-date:
+Up-to-date: true
 ---
 # [[Thunderhawk Relay]]
 *Utility Structure*
@@ -18,9 +18,11 @@ Up-to-date:
 Base Cost: **150** ![[req.png|20]] | **50** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
-| HP         | 3000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 5<br> | Structure |
+
+Max cap 3. 4 with research. Can only fit one warsuit/dreadnouhgt. Cannot fit tanks.
 ### Relevant Research
 ```base
 views:

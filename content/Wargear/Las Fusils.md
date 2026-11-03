@@ -29,3 +29,6 @@ dg-publish: true
 ## Details
 AP +3
 Range ??
+
+168 dmg to Sentry Pylon with Ezrael buff
+126 witthout

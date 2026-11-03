@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
   - Wargear
   - Weapon
@@ -18,7 +19,7 @@ Cost_pow: 25
 Cost_dom:
 Time: 15
 Slot: "1"
-dg-publish: true
+Up-to-date: true
 ---
 #### Heavy Melta Rifles
 > [!example] *Equipment*

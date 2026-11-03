@@ -22,7 +22,7 @@ from [[Boyz Fort]]
 
 - - -
 
-| [[Member Count]]      |  3   |       |
+| [[Member Count]]      |  3   | max 6 |
 | --------------------- | :--: | ----- |
 | [[Armour]]            |  6   | Heavy |
 | Armour Penetration    |  7   |       |
@@ -35,9 +35,10 @@ from [[Boyz Fort]]
 
 ![[Kombi-Rokkit Launcha#Kombi-Rokkit Launcha]]
 
-2 upgrades
+![[Mobbin' Up I (Meganobz)#Mobbin' Up I]]
 
----
+MU II
+- - -
 ### Relevant Research
 ```base
 views:

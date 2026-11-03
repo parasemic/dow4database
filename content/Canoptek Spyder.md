@@ -23,12 +23,12 @@ Base Cost: **25** ![[dom.png|20]] | Supply Cost: **3** ![[dom.png|20]]/min | Bui
 from [[Canoptek Foundry]]
 - - -
 
-| [[Member Count]]      |  1  | max 1   |
-| --------------------- | :-: | ------- |
-| [[Armour]]            |     | Vehicle |
-| Armour Penetration    |     |         |
-| Invulnerability Saves |  -  |         |
-| HP                    |     |         |
+| [[Member Count]]      |  1   | max 1   |
+| --------------------- | :--: | ------- |
+| [[Armour]]            |  4   | Vehicle |
+| Armour Penetration    |  3   |         |
+| Invulnerability Saves |  -   |         |
+| HP                    | 1500 |         |
 - - -
 > [!danger] Swarm Fabrication
 > *Active Ability*
