@@ -11,6 +11,7 @@ Cost_pow: 110
 Supply_req: 53
 Time: 40
 Up-to-date:
+pop: "12"
 ---
 # [[Skorpius Disintegrator]]
 *Heavy Vehicle*

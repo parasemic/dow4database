@@ -9,6 +9,7 @@ Cost_pow: 30
 Supply_req: 30
 Time: 25
 Up-to-date: true
+pop: "5"
 ---
 # [[Wurrboy]]
 *Psyker Infantry*

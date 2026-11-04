@@ -9,6 +9,7 @@ Cost_pow: 50
 Supply_req: 60
 Time: 25
 Up-to-date:
+pop: "10"
 ---
 # [[Gunwagon]]
 *All-Purpose Vehicles*

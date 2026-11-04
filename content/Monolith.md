@@ -11,6 +11,7 @@ Cost_dom: 120
 Supply_dom: 15
 Time: 44.7
 Up-to-date:
+pop: "12"
 ---
 # [[Monolith]]
 *Super Heavy Construct*

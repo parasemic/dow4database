@@ -12,6 +12,7 @@ Cost_dom: 110
 Supply_dom: 8
 Time: 40
 Up-to-date:
+pop: "10"
 ---
 # [[Canoptek Doomstalker]]
 *Anti-Armour Construct*

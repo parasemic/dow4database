@@ -11,6 +11,7 @@ Cost_pow: 10
 Supply_req: 14
 Time: 10
 Up-to-date:
+pop: "2"
 ---
 # [[Mekboy]]
 *Utility Unit*

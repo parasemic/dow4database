@@ -11,6 +11,7 @@ Cost_pow: 30
 Supply_req: 28
 Time: 30
 Up-to-date:
+pop: "7"
 ---
 # [[Ironstrider Ballistarius]]
 *Anti-Infantry Walker*

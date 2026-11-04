@@ -13,6 +13,7 @@ Cost_pow: 0
 Supply_req: 7
 Time: 10
 Up-to-date: true
+pop: "1"
 ---
 # [[Cybernetica Datasmith]]
 *Utility Infantry*

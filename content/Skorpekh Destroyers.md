@@ -13,6 +13,7 @@ Time: 40
 Up-to-date:
 Attach_to:
   - "[[Destroyer Lord]]"
+pop: "4"
 ---
 # [[Skorpekh Destroyers]]
 *Melee Infantry*

@@ -11,6 +11,7 @@ Cost_dom: 60
 Supply_dom: 6
 Time: 40
 Up-to-date:
+pop: "6"
 ---
 
 # [[Lokhust Heavy Destroyer]]

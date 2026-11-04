@@ -12,6 +12,7 @@ Cost_dom: 25
 Supply_dom: 3
 Time: 25
 Up-to-date:
+pop: "2"
 ---
 # [[Canoptek Spyder]]
 *Utility Construct*

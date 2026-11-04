@@ -10,10 +10,11 @@ Cost_req: 500
 Cost_pow: 20
 Supply_req: 40
 Time: 25
-Up-to-date:
+pop: "6"
 Attach_to:
   - "[[Chief Librarian]]"
   - "[[Company Master]]"
+Up-to-date: true
 ---
 # [[Bladeguard Veteran Squad]]
 *Heavy Infantry*

@@ -10,6 +10,7 @@ Cost_pow: 5
 Supply_req: 30
 Time: 15
 Up-to-date:
+pop: "3"
 ---
 # [[Stormboyz]]
 *Jump Infantry*

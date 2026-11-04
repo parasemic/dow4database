@@ -15,6 +15,7 @@ Attach_to:
   - "[[Chief Librarian]]"
   - "[[Company Master]]"
 Up-to-date:
+pop: "5"
 ---
 # [[Intercessor Squad]]
 *All-Purpose Infantry*

@@ -15,6 +15,7 @@ Up-to-date:
 Attach_to:
   - "[[Captain]]"
   - "[[Chief Librarian]]"
+pop: "3"
 ---
 # [[Infiltrator Squad]]
 *Light Infantry*

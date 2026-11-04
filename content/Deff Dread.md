@@ -5,6 +5,7 @@ tags:
   - Vehicle
   - Unit
 Up-to-date:
+pop: "7"
 ---
 # [[Deff Dread]]
 *All-Purpose Walker*

@@ -158,7 +158,9 @@ views:
       - Cost_req
       - Cost_dom
       - Up-to-date
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
     indentProperties: false
   - type: table
     name: Up to date

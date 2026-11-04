@@ -11,6 +11,7 @@ Cost_pow: 0
 Supply_req: 2
 Time: 10
 Up-to-date:
+pop: "1"
 ---
 # [[Gretchin]]
 *Utility Infantry*

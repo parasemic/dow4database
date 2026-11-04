@@ -1,8 +1,9 @@
 ---
+dg-publish: true
 tags:
   - Neutral
   - Mechanic
-dg-publish: true
+Up-to-date: true
 ---
 # Retreat
 Fall back to the nearest #production structure.

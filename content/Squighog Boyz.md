@@ -13,6 +13,7 @@ Time: 20
 Up-to-date:
 Attach_to:
   - "[[Beastboss on Squigosaur]]"
+pop: "5"
 ---
 # [[Squighog Boyz]]
 *Melee Infantry*

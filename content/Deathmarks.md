@@ -12,6 +12,7 @@ Time: 29.8
 Up-to-date:
 Attach_to:
   - "[[Chronomancer]]"
+pop: "3"
 ---
 # [[Deathmarks]]
 *Sniper Infantry*

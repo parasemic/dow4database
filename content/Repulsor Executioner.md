@@ -11,6 +11,7 @@ Cost_pow: 85
 Supply_req: 80
 Time: 45
 Up-to-date:
+pop: "15"
 ---
 # [[Repulsor Executioner]]
 *Heavy Vehicle*

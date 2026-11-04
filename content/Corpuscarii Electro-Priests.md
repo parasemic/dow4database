@@ -13,6 +13,7 @@ Time: 25
 Up-to-date:
 Attach_to:
   - "[[Technoarcheologist]]"
+pop: "5"
 ---
 # [[Corpuscarii Electro-Priests]]
 *All-Purpose infantry*

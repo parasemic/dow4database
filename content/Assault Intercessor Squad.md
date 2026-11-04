@@ -10,11 +10,12 @@ Cost_req: 400
 Cost_pow: 0
 Supply_req: 32
 Time: 15
-Up-to-date:
 Attach_to:
   - "[[Captain]]"
   - "[[Chief Librarian]]"
   - "[[Company Master]]"
+Up-to-date: true
+pop: "5"
 ---
 # [[Assault Intercessor Squad]]
 *Melee Infantry*

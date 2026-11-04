@@ -12,6 +12,7 @@ Time: 14.9
 Up-to-date:
 Attach_to:
   - "[[Chronomancer]]"
+pop: "2"
 ---
 
 # [[Necron Warriors]]

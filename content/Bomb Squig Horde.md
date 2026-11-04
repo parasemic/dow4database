@@ -9,7 +9,8 @@ Cost_req: 50
 Cost_pow: 25
 Supply_req: 20
 Time: 15
-Up-to-date:
+pop: "2"
+Up-to-date: true
 ---
 # [[Bomb Squig Horde]]
 *Explosive Beasts*
@@ -17,16 +18,16 @@ Up-to-date:
 - Deals area damage
 - High mobility
 - - -
-**50** ![[req.png|20]] | **25** ![[pow.png|20]] | **20** ![[req.png|20]]/min | **15.0** sec.
+**50** ![[req.png|20]] / **25** ![[pow.png|20]] | **20** ![[req.png|20]]/min | **15.0** sec.
 from [[Beast Snagga Hut]]
 - - -
 
-| [[Member Count]]      |     |       |
+| [[Member Count]]      |  5  | max 5 |
 | --------------------- | :-: | ----- |
-| [[Armour]]            |     | Light |
+| [[Armour]]            |  1  | Light |
 | Armour Penetration    |     |       |
 | Invulnerability Saves |  -  |       |
-| HP                    |     |       |
+| HP                    | 250 |       |
 - - -
 ### Relevant Research
 ```base

@@ -13,6 +13,7 @@ Time: 30
 Up-to-date: true
 Attach_to:
   - "[[Company Master]]"
+pop: "8"
 ---
 # [[Terminator Squad]]
 *Elite Infantry*

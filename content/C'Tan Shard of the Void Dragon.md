@@ -6,6 +6,7 @@ dg-publish: true
 Cost_dom: 150
 Time: 39.8
 Up-to-date:
+pop: "10"
 ---
 # [[C'Tan Shard of the Void Dragon]]
 *Flying Monster*

@@ -9,6 +9,7 @@ Cost_pow: 120
 Supply_req:
 Time:
 Up-to-date:
+pop: "13"
 ---
 # [[Gorkanaut]]
 *Super-Heavy Walker*

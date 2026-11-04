@@ -11,6 +11,7 @@ Cost_pow: 20
 Supply_req: 36
 Time: 20
 Up-to-date: true
+pop: "5"
 ---
 # [[Deffkoptas]]
 *Flying Infantry*

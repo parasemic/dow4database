@@ -9,10 +9,11 @@ Cost_req: 150
 Cost_pow: 15
 Supply_req: 28
 Time: 15
-Up-to-date:
 Attach_to:
   - "[[Beastboss]]"
   - "[[Warboss]]"
+Up-to-date: true
+pop: "3"
 ---
 # [[Beast Snagga Boyz]]
 *Heavy Infantry*
@@ -20,7 +21,7 @@ Attach_to:
 - Good versus infantry
 - Moderate durability
 ---
-**150** ![[req.png|20]] | **15** ![[pow.png|20]] | **28** ![[req.png|20]]/min | **15** sec.
+Base Cost: **150** ![[req.png|20]] / **15** ![[pow.png|20]] | **28** ![[req.png|20]]/min | **15** sec.
 from [[Beast Snagga Hut]]
 - - -
 

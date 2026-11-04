@@ -10,6 +10,7 @@ Time: 34.8
 Up-to-date: true
 from:
   - "[[Tomb Citadel]]"
+pop: "7"
 ---
 # [[Triarch Stalker]]
 *All-Purpose Walker*

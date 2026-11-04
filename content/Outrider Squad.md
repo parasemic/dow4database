@@ -13,6 +13,7 @@ from:
 Up-to-date:
 Attach_to:
   - "[[Chaplain on Bike]]"
+pop: "8"
 ---
 # [[Outrider Squad]]
 *Melee Infantry*

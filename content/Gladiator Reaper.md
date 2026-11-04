@@ -11,6 +11,7 @@ Cost_pow: 65
 Supply_req: 48
 Time: 25
 Up-to-date:
+pop: "12"
 ---
 # [[Gladiator Reaper]]
 *Heavy Vehicle*

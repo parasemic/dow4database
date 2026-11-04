@@ -14,6 +14,7 @@ Up-to-date:
 Attach_to:
   - "[[Captain]]"
   - "[[Chief Librarian]]"
+pop: "6"
 ---
 # [[Eliminator Squad]]
 *Sniper Infantry*

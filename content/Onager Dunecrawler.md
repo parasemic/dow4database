@@ -11,6 +11,7 @@ Time: 40
 from:
   - "[[War Cohort Armoury]]"
 Up-to-date:
+pop: "10"
 ---
 # [[Onager Dunecrawler]]
 *Heavy Walker*

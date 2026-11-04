@@ -13,7 +13,7 @@ Cost_req: 550
 Cost_pow: 40
 Supply_req: 50
 Time: 30
-Up-to-date:
+Up-to-date: true
 ---
 # [[Beastboss on Squigosaur]]
 *Commander*
@@ -21,7 +21,7 @@ Up-to-date:
 - Effective at all ranges
 - Empowers friendly units
 - - -
-Base Cost: **550** ![[req.png|20]] | **40** ![[pow.png|20]] | Supply Cost: **50** ![[req.png|20]]/min | Build Time: **30.0** sec.
+Base Cost: **550** ![[req.png|20]] / **40** ![[pow.png|20]] | Supply Cost: **50** ![[req.png|20]]/min | Build Time: **30.0** sec.
 **WAA**
 from [[Mega Bossbunka]]
 - - -

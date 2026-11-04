@@ -14,6 +14,7 @@ Time: 25
 Up-to-date: true
 Attach_to:
   - "[[Chronomancer]]"
+pop: "3"
 ---
 # [[Lychguards|Lunch Guards]]
 *Elite Infantry*

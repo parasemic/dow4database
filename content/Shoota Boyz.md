@@ -15,6 +15,7 @@ Up-to-date:
 Attach_to:
   - "[[Beastboss]]"
   - "[[Warboss]]"
+pop: "1"
 ---
  # [[Shoota Boyz]]
 *Light Infantry*

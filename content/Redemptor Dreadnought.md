@@ -12,6 +12,7 @@ Cost_pow: 55
 Supply_req: 50
 Time: 30
 Up-to-date:
+pop: "12"
 ---
 # [[Redemptor Dreadnought]]
 *All-Purpose Walker*

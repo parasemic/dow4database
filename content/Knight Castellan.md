@@ -1,8 +1,9 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Unit
-dg-publish: true
+pop: "17"
 ---
 # [[Knight Castellan]]
 *Super-Heavy Walker*
@@ -13,6 +14,20 @@ dg-publish: true
 from [[Drop Keep]]
 
 
-> [!danger] Abilities
+| [[Member Count]]      |  1   | 1       |
+| --------------------- | :--: | ------- |
+| [[Armour]]            |  10  | Vehicle |
+| Armour Penetration    |  10  |         |
+| Invulnerability Saves | 15%  |         |
+| HP                    | 7000 |         |
 
-> [!danger] Abilities
+- - -
+
+
+> [!danger] Supercharge Plasma Decimator
+> *Active Ability*
+> Fire a supercharged shot at target enemy, dealing area damage.
+
+> [!danger] Shieldbreaker Missiles
+> *Active Ability*
+> Fire Shieldbreaker missiles at target enemy, dealing heavy damage.

@@ -14,6 +14,7 @@ Up-to-date:
 Attach_to:
   - "[[Skitarii Marshal]]"
   - "[[Technoarcheologist]]"
+pop: "5"
 ---
 # [[Kataphron Breachers]]
 *Anti-Armour Infantry*

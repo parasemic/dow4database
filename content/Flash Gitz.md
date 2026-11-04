@@ -13,6 +13,7 @@ Time: 20
 Up-to-date:
 Attach_to:
   - "[[Warboss]]"
+pop: "5"
 ---
 # [[Flash Gitz]]
 *Anti-Armour Infantry*

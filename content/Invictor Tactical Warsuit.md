@@ -11,6 +11,7 @@ Cost_pow: 40
 Supply_req: 38
 Time: 20
 Up-to-date:
+pop: "8"
 ---
 # [[Invictor Tactical Warsuit]]
 *Anti-Infantry Walker*

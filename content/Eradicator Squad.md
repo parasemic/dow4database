@@ -15,6 +15,7 @@ Attach_to:
   - "[[Captain]]"
   - "[[Chief Librarian]]"
   - "[[Company Master]]"
+pop: "6"
 ---
 # [[Eradicator Squad]]
 *Anti-Armour Infantry*

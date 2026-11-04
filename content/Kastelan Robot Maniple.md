@@ -14,6 +14,7 @@ Time: 40
 Up-to-date: true
 Attach_to:
   - "[[Cybernetica Datasmith]]"
+pop: "8"
 ---
 # [[Kastelan Robot Maniple]]
 *Elite Constructs*

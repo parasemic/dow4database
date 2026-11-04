@@ -14,6 +14,7 @@ Time: 9.9
 Up-to-date: true
 Attach_to:
   - "[[Chronomancer]]"
+pop: "1"
 ---
 # [[Canoptek Scarabs]]
 *Light Construct*

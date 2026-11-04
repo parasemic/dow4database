@@ -14,6 +14,7 @@ Time: 30
 Up-to-date:
 Attach_to:
   - "[[Chronomancer]]"
+pop: "4"
 ---
 # [[Canoptek Wraiths]]
 *Heavy Constructs*

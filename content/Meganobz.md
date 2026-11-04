@@ -13,6 +13,7 @@ Up-to-date:
 Attach_to:
   - "[[Beastboss]]"
   - "[[Warboss]]"
+pop: "7"
 ---
 # [[Meganobz]]
 *Elite Infantry*

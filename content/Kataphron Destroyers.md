@@ -16,6 +16,7 @@ xp_per_lvl: "2950"
 Attach_to:
   - "[[Skitarii Marshal]]"
   - "[[Technoarcheologist]]"
+pop: "5"
 ---
 # [[Kataphron Destroyers]]
 *Heavy Infantry*

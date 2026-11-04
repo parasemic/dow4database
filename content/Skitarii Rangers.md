@@ -15,6 +15,7 @@ Up-to-date: true
 Attach_to:
   - "[[Skitarii Marshal]]"
   - "[[Technoarcheologist]]"
+pop: "2"
 ---
 # [[Skitarii Rangers]]
 *All-Purpose Infantry*
