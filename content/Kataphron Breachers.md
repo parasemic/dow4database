@@ -11,6 +11,9 @@ Cost_pow: 15
 Supply_req: 21
 Time: 25
 Up-to-date:
+Attach_to:
+  - "[[Skitarii Marshal]]"
+  - "[[Technoarcheologist]]"
 ---
 # [[Kataphron Breachers]]
 *Anti-Armour Infantry*

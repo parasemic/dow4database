@@ -6,6 +6,8 @@ tags:
   - Production
   - "#HQ"
   - "#Research"
+Cost_dom: 150
+Time: 40
 Up-to-date: true
 ---
 # [[Tomb Citadel]] I
@@ -16,7 +18,7 @@ Up-to-date: true
   > [!warning] *Cannot have more than one Tomb Citadel*
 
 - - -
-Base Cost: **??** ![[dom.png|20]] |  Build Time: **??.?** sec.
+Base Cost: **150** ![[dom.png|20]] |  Build Time: **40.0** sec.
 - - -
 
 | HP         | 8000  |           |

@@ -11,6 +11,8 @@ Cost_pow: 40
 Supply_req: 44
 Time: 30
 Up-to-date: true
+Attach_to:
+  - "[[Company Master]]"
 ---
 # [[Terminator Squad]]
 *Elite Infantry*

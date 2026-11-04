@@ -38,6 +38,7 @@ Can Attach to:
 ![[Attach.png|25]] Attach Passive:
 ***Litany Of Hate***
 => Increases melee damage dealt by the Commander and attached unit.
+=> +30% damage dealt in melee
 
 ### Wargear
 ![[Crozius Arcanum#*Crozius Arcanum*]]

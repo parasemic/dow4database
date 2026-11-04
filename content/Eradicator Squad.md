@@ -11,6 +11,10 @@ Time: 25
 from:
   - "[[Sanctum]]"
 Up-to-date:
+Attach_to:
+  - "[[Captain]]"
+  - "[[Chief Librarian]]"
+  - "[[Company Master]]"
 ---
 # [[Eradicator Squad]]
 *Anti-Armour Infantry*

@@ -26,15 +26,6 @@ Up-to-date: true
 Base Cost: **350** ![[req.png|20]] | **50** ![[pow.png|20]] | Supply Cost: **36** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[Chapter Keep]]
 - - -
-Can attach to
-infil
-elim
-ints
-bladeguards
-...
-not termie
-not ass int
-not outriders
 
 | [[Member Count]]      |  1   | max 1 |
 | --------------------- | :--: | ----- |
@@ -42,7 +33,18 @@ not outriders
 | Armour Penetration    |  6   |       |
 | Invulnerability Saves |  -   |       |
 | HP                    | 2000 |       |
+- - -
+Can attach to
+- [[Infiltrator Squad]]
+- [[Intercessor Squad]]
+- [[Assault Intercessor Squad]]
+- [[Eradicator Squad]]
+- [[Eliminator Squad]]
+- [[Bladeguard Veteran Squad]]
 
+![[Attach.png|25]] Attach passive: **Mental Fortress**
+Gain resistance to psychic attacks and immunity to status effects for the Commander and attached unit.
+- - -
  > [!example] ![[Force Stave-Heavy Bolt Pistol#Force Stave/Heavy Bolt Pistol]]
 
 | *Armour Effectiveness* | AP 6    |
@@ -52,10 +54,6 @@ not outriders
 | Vehicle                | 65-96   |
 | Structure              | 46-72   |
 
-- - -
-![[Attach.png|25]] Attach passive: **Mental Fortress**
-Gain resistance to psychic attacks and immunity to status effects for the Commander and attached unit.
-- - -
 ### Abilities
 > [!danger] Smite
 > *Active Ability*

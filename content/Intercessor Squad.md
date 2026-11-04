@@ -10,6 +10,10 @@ Cost_req: 400
 Cost_pow: 0
 Supply_req: 32
 Time: 15
+Attach_to:
+  - "[[Captain]]"
+  - "[[Chief Librarian]]"
+  - "[[Company Master]]"
 Up-to-date:
 ---
 # [[Intercessor Squad]]

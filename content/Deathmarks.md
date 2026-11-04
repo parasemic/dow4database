@@ -10,6 +10,8 @@ Cost_dom: 30
 Supply_dom: 3
 Time: 29.8
 Up-to-date:
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 # [[Deathmarks]]
 *Sniper Infantry*

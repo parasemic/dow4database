@@ -13,10 +13,10 @@ build_min:
 build_max:
 AP:
 equiped_by: "[[Cognis Weapon Platform]]"
-Cost_req:
-Cost_pow:
+Cost_req: 100
+Cost_pow: 0
 Cost_dom:
-Time:
+Time: 15
 dg-publish: true
 ---
 #### Cognis Heavy Stubbers
@@ -25,7 +25,7 @@ dg-publish: true
 > - High fire rate
 > - Ineffective versus vehicle
 >
-> Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??** sec.
+> Base Cost: **100** ![[req.png|20]] | Build Time: **15.0** sec.
 
 ## Details
 Equipped by default.

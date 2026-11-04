@@ -11,6 +11,11 @@ Cost_pow: 15
 Supply_req: 21
 Time: 25
 Up-to-date:
+Vision_range: "70"
+xp_per_lvl: "2950"
+Attach_to:
+  - "[[Skitarii Marshal]]"
+  - "[[Technoarcheologist]]"
 ---
 # [[Kataphron Destroyers]]
 *Heavy Infantry*

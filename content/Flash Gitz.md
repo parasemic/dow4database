@@ -11,6 +11,8 @@ Cost_pow: 25
 Supply_req: 36
 Time: 20
 Up-to-date:
+Attach_to:
+  - "[[Warboss]]"
 ---
 # [[Flash Gitz]]
 *Anti-Armour Infantry*

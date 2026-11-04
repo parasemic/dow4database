@@ -11,6 +11,8 @@ Cost_pow: 20
 Supply_req: 30
 Time: 20
 Up-to-date:
+Attach_to:
+  - "[[Beastboss on Squigosaur]]"
 ---
 # [[Squighog Boyz]]
 *Melee Infantry*

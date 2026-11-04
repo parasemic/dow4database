@@ -155,14 +155,10 @@ views:
     order:
       - file.name
       - Supply_req
+      - Cost_req
+      - Cost_dom
       - Up-to-date
-    sort:
-      - property: Supply_req
-        direction: ASC
-      - property: Up-to-date
-        direction: DESC
-      - property: tags
-        direction: ASC
+    sort: []
     indentProperties: false
   - type: table
     name: Up to date

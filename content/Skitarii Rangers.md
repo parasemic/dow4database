@@ -12,6 +12,9 @@ Cost_pow: 0
 Supply_req: 15
 Time: 10
 Up-to-date: true
+Attach_to:
+  - "[[Skitarii Marshal]]"
+  - "[[Technoarcheologist]]"
 ---
 # [[Skitarii Rangers]]
 *All-Purpose Infantry*

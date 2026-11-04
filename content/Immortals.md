@@ -10,6 +10,8 @@ Cost_dom: 20
 Supply_dom: 2
 Time: 14.9
 Up-to-date:
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 # [[Immortals]]
 *All-Purpose Infantry*

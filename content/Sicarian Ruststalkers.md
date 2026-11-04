@@ -6,10 +6,14 @@ tags:
 dg-publish: true
 from:
   - "[[War Cohort Altar]]"
-Cost_req:
-Cost_pow:
-Time:
-Up-to-date:
+Cost_req: 240
+Cost_pow: 18
+Supply_req: 28
+Time: 20
+pop: "5"
+Up-to-date: false
+Attach_to:
+  - "[[Skitarii Marshal]]"
 ---
 # [[Sicarian Ruststalkers]]
 *Melee Infantry*
@@ -17,7 +21,7 @@ Up-to-date:
 - Very high mobility
 - Invisible at a distance
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **240** ![[req.png|20]] / **18** ![[pow.png|20]] | Supply Cost: **28** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[War Cohort Altar]]
 - - -
 
@@ -33,6 +37,9 @@ from [[War Cohort Altar]]
 ![[Transonic Blades#*Transonic Blades*]]
 
 Squad +
+70 5 15
++2
+
 Squad ++
 ### Relevant Research
 ```base

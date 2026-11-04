@@ -32,6 +32,13 @@ from [[Chapter Keep]]
 | Invulnerability Saves | 15%  |       |
 | HP                    | 3000 |       |
 - - -
+Can attach to
+- [[Intercessor Squad]]
+- [[Assault Intercessor Squad]]
+- [[Eradicator Squad]]
+- [[Bladeguard Veteran Squad]]
+- [[Terminator Squad]]
+
 ![[Attach.png|25]] Attach Passive:
 ***Rites Of Battle***
 => Increases damage dealt and reduces damage taken for attached unit.

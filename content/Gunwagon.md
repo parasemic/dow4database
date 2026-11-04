@@ -1,9 +1,14 @@
 ---
+dg-publish: true
 tags:
   - Ork
   - Vehicle
   - Unit
-dg-publish: true
+Cost_req: 500
+Cost_pow: 50
+Supply_req: 60
+Time: 25
+Up-to-date:
 ---
 # [[Gunwagon]]
 *All-Purpose Vehicles*

@@ -16,7 +16,7 @@ Up-to-date: true
 - Provides research
 - Strengthens the Noosphere Network (+3)
 - - -
-Base Cost: **120** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **00.?** sec.
+Base Cost: **120** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **00.?** sec.
 *Requires Network Strength 0*
 - - -
 

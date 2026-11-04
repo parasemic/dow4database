@@ -29,7 +29,8 @@ from [[Armoury]]
 | Armour Penetration    |  8   |         |
 | Invulnerability Saves |  -   |         |
 | HP                    | 9500 |         |
-grenade launcher can't target ground
+
+Grenade launcher can't target ground
 - - -
 ### Wargear
 

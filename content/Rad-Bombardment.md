@@ -11,6 +11,7 @@ Bombard and irradiate target location, dealing damage over time for a duration.
 Cooldown: 360.0 sec.
 
 ## Details
-=> Area
+=> Area 30m radius
 => Damage
-=> Duration
+=> Delay 4sec.
+=> Duration 4.5 sec.

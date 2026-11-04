@@ -8,7 +8,11 @@ tags:
 aliases:
   - Guzzcutta
 from: "[[Mega Bossbunka]]"
-Up-to-date:
+Cost_req: 375
+Cost_pow: 20
+Supply_req: 40
+Time: 30
+Up-to-date: true
 ---
 # [[Beastboss]]
 *Commander*
@@ -16,7 +20,7 @@ Up-to-date:
 - Effective in melee
 - Empowers friendly units
 - - -
-Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **375** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **40** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from: [[Mega Bossbunka]]
 - - -
 

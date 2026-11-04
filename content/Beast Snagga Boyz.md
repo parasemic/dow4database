@@ -10,6 +10,9 @@ Cost_pow: 15
 Supply_req: 28
 Time: 15
 Up-to-date:
+Attach_to:
+  - "[[Beastboss]]"
+  - "[[Warboss]]"
 ---
 # [[Beast Snagga Boyz]]
 *Heavy Infantry*

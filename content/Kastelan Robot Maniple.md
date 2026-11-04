@@ -12,6 +12,8 @@ Cost_pow: 50
 Supply_req: 23
 Time: 40
 Up-to-date: true
+Attach_to:
+  - "[[Cybernetica Datasmith]]"
 ---
 # [[Kastelan Robot Maniple]]
 *Elite Constructs*

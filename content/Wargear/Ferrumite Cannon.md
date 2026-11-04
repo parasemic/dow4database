@@ -14,8 +14,8 @@ build_min: 82
 build_max: 82
 AP: "8"
 equiped_by: "[[Skorpius Disintegrator]]"
-Cost_req:
-Cost_pow:
+Cost_req: 50
+Cost_pow: 0
 Cost_dom:
 Time: 25
 Up-to-date: true
@@ -25,7 +25,7 @@ Up-to-date: true
 > - Good versus vehicles
 > - High fire rate
 > - Long range
-> Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??** sec.
+> Base Cost: **50** ![[req.png|20]] | Build Time: **25.0** sec.
 
 ## Details
 Equipped by default

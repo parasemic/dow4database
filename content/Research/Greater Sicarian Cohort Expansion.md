@@ -5,7 +5,7 @@ tags:
 from: "[[War Cohort Altar]]"
 affects:
   - "[[Sicarian Ruststalkers]]"
-Time: 120
+Time: 180
 Slot:
   - "3"
 pic: "[[Research-ph.png]]"
@@ -14,7 +14,7 @@ dg-publish: true
 ##### Greater Sicarian Cohort Expansion
 *Research*
 Unlocks the **Force Augmentation II** upgrade for Sicarian Ruststalkers.
-**//** sec.
+**180** sec.
 *Requires Network Strength VI* & [[Sicarian Cohort Expansion]]
 
 ## Details

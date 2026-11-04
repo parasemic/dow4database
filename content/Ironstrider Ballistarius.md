@@ -6,10 +6,10 @@ tags:
   - Vehicle
 from:
   - "[[War Cohort Altar]]"
-Cost_req:
-Cost_pow:
-Supply_req:
-Time:
+Cost_req: 370
+Cost_pow: 30
+Supply_req: 28
+Time: 30
 Up-to-date:
 ---
 # [[Ironstrider Ballistarius]]
@@ -18,7 +18,7 @@ Up-to-date:
 - High mobility
 - Good versus infantry
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **370** ![[req.png|20]] / **30** ![[pow.png|20]] | Supply Cost: **28** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[War Cohort Altar]]
 - - -
 
@@ -28,6 +28,7 @@ from [[War Cohort Altar]]
 | Armour Penetration    |  7   |         |
 | Invulnerability Saves | 15%  |         |
 | HP                    | 2000 |         |
+
 ![[Twin Cognis Autocannon#Twin Cognis Autocannon]]
 
 ![[Twin Cognis Lascannon#Twin Cognis Lascannon]]

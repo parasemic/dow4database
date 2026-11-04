@@ -1,17 +1,18 @@
 ---
+dg-publish: true
 tags:
   - AdMech
   - Unit
   - Commander
   - Light
-dg-publish: true
-from:
-  - "[[Dominus Forgeshrine]]"
-Cost_req:
-Supply_req:
-Time:
 aliases:
   - Potentia-Delta-9
+from:
+  - "[[Dominus Forgeshrine]]"
+Cost_req: 400
+Cost_pow: 35
+Supply_req: 40
+Time: 45
 Up-to-date:
 ---
 # [[Technoarcheologist]]
@@ -20,7 +21,7 @@ Up-to-date:
 - Effective at all ranges
 - Can reveal Fog of War
 - - -
-Base Cost: **240**? ![[req.png|20]] / **25**?![[pow.png|20]]| Supply Cost: **?** ![[req.png|20]]/min | Build Time: **00.0** sec.
+Base Cost: **400** ![[req.png|20]] / **35**![[pow.png|20]]| Supply Cost: **40** ![[req.png|20]]/min | Build Time: **45.0** sec.
 from [[Dominus Forgeshrine]]
 - - -
 

@@ -10,6 +10,8 @@ Cost_dom: 12
 Supply_dom: 1
 Time: 14.9
 Up-to-date:
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 
 # [[Necron Warriors]]

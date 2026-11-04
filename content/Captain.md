@@ -9,6 +9,7 @@ from:
   - "[[Chapter Keep]]"
 aliases:
   - Cyrus
+  - phobos
 Cost_req: 350
 Cost_pow: 30
 Supply_req: 28
@@ -20,7 +21,7 @@ Time: 30
 - Effective at long range
 - Invisible at a distance
 - - -
-Base Cost: **350** ![[req.png|20]] / **50** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **350** ![[req.png|20]] / **50** ![[pow.png|20]] | Supply Cost: **28** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[Chapter Keep]]
 - - -
 
@@ -32,11 +33,16 @@ from [[Chapter Keep]]
 | HP                    | 800 |       |
 - - -
 Can Attach to:
-- ==
+- [[Infiltrator Squad]]
+- [[Intercessor Squad]]
+- [[Assault Intercessor Squad]]
+- [[Eradicator Squad]]
+- [[Eliminator Squad]]
 
 ![[Attach.png|25]] Attach Passive:
 ***Tactical Precision***
 => Increases ranged damage dealt by attached unit.
+=> +40% damage at range
 
 ### Wargear
 

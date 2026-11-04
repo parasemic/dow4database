@@ -6,4 +6,15 @@ dg-publish: true
 ---
 # Retreat
 Fall back to the nearest #production structure.
-![Retreat.png](app://01e9e9c47c9777a4d15dc5650ceb554382ce/home/nirgal/Documents/Obsidian%20Vault/Media/Retreat.png?1791628081689)
+![[Retreat.png]]
+
+## Details
+After a delay of forced retreat, you can interrupt it (icon goes from red to yellow).
+Each faction has a different delay:
+
+| Faction | Delay |
+| ------- | ----- |
+| Ork     | 10    |
+| Ad Mech | 10    |
+| Necron  | 0     |
+| SM      | 30    |

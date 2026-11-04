@@ -14,10 +14,10 @@ build_min: 44
 build_max: 44
 AP: "8"
 equiped_by: "[[Onager Dunecrawler]]"
-Cost_req:
-Cost_pow:
+Cost_req: 30
+Cost_pow: 0
 Cost_dom:
-Time:
+Time: 30
 Slot:
   - "1"
 Up-to-date: true
@@ -27,7 +27,7 @@ Up-to-date: true
 > - Good versus infantry
 > - High fire rate
 > - Ineffective versus vehicles
-> Base Cost: **??** ![[req.png|20]] / **??** ![[pow.png|20]] | Build Time: **??** sec.
+> Base Cost: **30** ![[req.png|20]] | Build Time: **30.0** sec.
 
 ## Details
 Equipped by default

@@ -13,8 +13,8 @@ build_min:
 build_max:
 AP:
 equiped_by: "[[Ironstrider Ballistarius]]"
-Cost_req:
-Cost_pow:
+Cost_req: 60
+Cost_pow: 0
 Cost_dom:
 Time: 15
 dg-publish: true
@@ -27,7 +27,7 @@ Slot:
 > - High fire rate
 > - Ineffective versus vehicles
 >
-> Cost: **??** ![[req.png|20]] | Build Time: **15.0** sec.
+> Cost: **60** ![[req.png|20]] | Build Time: **15.0** sec.
 
 ## Details
 Equipped by default.

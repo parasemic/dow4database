@@ -4,8 +4,8 @@ tags:
   - Structure
   - "#Fortification"
 dg-publish: true
-Up-to-date:
 Cost_dom: 50
+Up-to-date:
 ---
 # [[Sentry Pylon]]
 *Fortification*
@@ -13,7 +13,7 @@ Cost_dom: 50
 - Can be built anywhere in vision
 - Can teleport
 - - -
-Base Cost: **??** ![[dom.png|20]] | Build Time: **??.?** sec.
+Base Cost: **50** ![[dom.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 3000  |           |

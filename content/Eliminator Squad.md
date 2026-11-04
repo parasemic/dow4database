@@ -11,6 +11,9 @@ Cost_pow: 0
 Supply_req: 36
 Time: 20
 Up-to-date:
+Attach_to:
+  - "[[Captain]]"
+  - "[[Chief Librarian]]"
 ---
 # [[Eliminator Squad]]
 *Sniper Infantry*

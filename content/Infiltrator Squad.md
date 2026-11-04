@@ -12,6 +12,9 @@ Cost_pow: 0
 Supply_req: 24
 Time: 10
 Up-to-date:
+Attach_to:
+  - "[[Captain]]"
+  - "[[Chief Librarian]]"
 ---
 # [[Infiltrator Squad]]
 *Light Infantry*

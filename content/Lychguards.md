@@ -12,6 +12,8 @@ Cost_dom: 50
 Supply_dom: 6
 Time: 25
 Up-to-date: true
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 # [[Lychguards|Lunch Guards]]
 *Elite Infantry*

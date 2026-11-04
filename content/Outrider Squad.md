@@ -11,6 +11,8 @@ Time: 20
 from:
   - "[[Armoury]]"
 Up-to-date:
+Attach_to:
+  - "[[Chaplain on Bike]]"
 ---
 # [[Outrider Squad]]
 *Melee Infantry*

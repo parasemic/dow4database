@@ -10,6 +10,9 @@ Cost_pow: 40
 Supply_req: 46
 Time: 25
 Up-to-date:
+Attach_to:
+  - "[[Beastboss]]"
+  - "[[Warboss]]"
 ---
 # [[Meganobz]]
 *Elite Infantry*

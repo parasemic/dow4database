@@ -12,6 +12,8 @@ Cost_dom: 6
 Supply_dom: 1
 Time: 9.9
 Up-to-date: true
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 # [[Canoptek Scarabs]]
 *Light Construct*

@@ -11,6 +11,8 @@ Cost_pow: 20
 Supply_req: 19
 Time: 25
 Up-to-date:
+Attach_to:
+  - "[[Technoarcheologist]]"
 ---
 # [[Corpuscarii Electro-Priests]]
 *All-Purpose infantry*

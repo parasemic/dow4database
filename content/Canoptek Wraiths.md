@@ -12,6 +12,8 @@ Cost_dom: 55
 Supply_dom: 6
 Time: 30
 Up-to-date:
+Attach_to:
+  - "[[Chronomancer]]"
 ---
 # [[Canoptek Wraiths]]
 *Heavy Constructs*

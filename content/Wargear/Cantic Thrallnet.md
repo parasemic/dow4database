@@ -20,4 +20,6 @@ Cost: **80** ![[req.png|20]] / **10**![[pow.png|20]]| Build Time: **15.0** sec.
 => Slot 3
 
 ## Details
-=> range about 15m
+=> Range 20m
+=> +25% damage dealt
+=> -25% damage recieved

@@ -22,7 +22,6 @@ Base Cost: **620** ![[req.png|20]] / **110** ![[pow.png|20]] | Supply Cost: **53
 from [[War Cohort Armoury]]
 *Requires Network Strength VII*
 - - -
-434-77 @X
 
 | [[Member Count]]      |  1   | max 1   |
 | --------------------- | :--: | ------- |
@@ -32,6 +31,9 @@ from [[War Cohort Armoury]]
 | HP                    | 4200 |         |
 
 - - -
+Missile Barrage
+Cooldown 20
+
 ### Wargear
 
 ![[Ferrumite Cannon#Ferrumite Cannon]]

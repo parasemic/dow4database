@@ -28,6 +28,7 @@ Slot:
 > - Cannot be repalced
 
 ## Details
+=> 200 damage
 
 | *Armour Effectiveness* |         |
 | ---------------------- | ------- |
@@ -36,3 +37,5 @@ Slot:
 | Vehicle                | 202-202 |
 | Structure              | 99-99   |
 Also uses Twin Gauss Flayer at range, and Doomstalker Limbs in melee.
+Twin Gauss Flayer
+64 dmg, range 55

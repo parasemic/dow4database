@@ -11,6 +11,8 @@ Cost_dom: 40
 Supply_dom: 4
 Time: 40
 Up-to-date:
+Attach_to:
+  - "[[Destroyer Lord]]"
 ---
 # [[Skorpekh Destroyers]]
 *Melee Infantry*

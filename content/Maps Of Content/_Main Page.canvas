@@ -19,7 +19,6 @@
 		{"id":"09bc7719dda89bfc","type":"text","text":"# [[All Entities (bases)]]\nLists all the cards for units/structures so far.\nSorted by armour types.","x":252,"y":-1168,"width":229,"height":174},
 		{"id":"24f86385bdc55ac3","type":"text","text":"# [[Maps.canvas|Maps]]","x":251,"y":-1270,"width":115,"height":60},
 		{"id":"d160e1434c0d0df6","type":"file","file":"Media/badmoons_512.svg","x":-480,"y":-914,"width":60,"height":60,"color":"#212121"},
-		{"id":"3efa83203b0672d5","type":"file","file":"Media/bloodraven_512.svg","x":-480,"y":-821,"width":60,"height":60,"color":"#a81f14"},
 		{
 			"id":"07af4b791d879836",
 			"type":"text",
@@ -30,14 +29,11 @@
 			"width":493,
 			"height":449
 		},
-		{"id":"2b5be90b5116ace8","type":"text","text":"# [[Adeptus Mechanicus Tree.canvas|Adeptus Mechanicus]]","x":-63,"y":-821,"width":197,"height":73,"color":"#f2f2f2"},
-		{"id":"6b049335b74c3ae8","type":"text","text":"# [[Ork Tree.canvas|Ork]]","x":-420,"y":-914,"width":186,"height":60,"color":"#fde600"},
-		{"id":"32ebe2c64d2addbf","type":"text","text":"# [[Space Marines Tree.canvas|Space Marines]]","x":-420,"y":-821,"width":229,"height":72,"color":"#f2e5c7"},
 		{"id":"4bf386f695a5b320","type":"file","file":"Maps Of Content/Mechanics.md","x":567,"y":-1629,"width":230,"height":1496},
 		{
 			"id":"20f725ecbd0963bb",
 			"type":"text",
-			"text":"\nlast updated:\n2026 nov 03",
+			"text":"\nlast updated:\n2026 nov 04",
 			"styleAttributes":{
 				"shape":null
 			},
@@ -46,6 +42,10 @@
 			"width":167,
 			"height":93
 		},
+		{"id":"3efa83203b0672d5","type":"file","file":"Media/bloodraven_512.svg","x":-480,"y":-821,"width":60,"height":60,"color":"#a81f14"},
+		{"id":"2b5be90b5116ace8","type":"text","text":"# [[Adeptus Mechanicus Tree.canvas|Adeptus Mechanicus]]","x":-63,"y":-821,"width":197,"height":73,"color":"#f2f2f2"},
+		{"id":"6b049335b74c3ae8","type":"text","text":"# [[Ork Tree.canvas|Ork]]","x":-420,"y":-914,"width":186,"height":60,"color":"#fde600"},
+		{"id":"32ebe2c64d2addbf","type":"text","text":"# [[Space Marines Tree.canvas|Space Marines]]","x":-420,"y":-821,"width":229,"height":72,"color":"#f2e5c7"},
 		{"id":"a4a4aee635fe1a31","type":"file","file":"Media/necron_512.svg","x":-123,"y":-914,"width":60,"height":60,"color":"#af754e"},
 		{"id":"69eee004e4087207","type":"text","text":"# [[Necron Tree.canvas|Necron]]","x":-63,"y":-914,"width":197,"height":60,"color":"#ccef3a"},
 		{"id":"cf9f6e36c85096ce","type":"file","file":"Media/admech_512.svg","x":-123,"y":-821,"width":60,"height":60,"color":"#e03405"}

@@ -9,11 +9,11 @@ aliases:
   - Gorgutz
 from:
   - "[[Mega Bossbunka]]"
-Cost_req:
-Cost_pow:
-Supply_req:
-Time:
-Up-to-date:
+Cost_req: 400
+Cost_pow: 30
+Supply_req: 30
+Time: 30
+Up-to-date: true
 ---
 # Warboss
 *Commander*
@@ -21,7 +21,7 @@ Up-to-date:
 - Effective at all ranges
 - Can teleport to safety
 - - -
-Base Cost: **??** ![[req.png|20]] | **??** ![[pow.png|20]] | Supply Cost: **??** ![[req.png|20]]/min | Build Time: **??.?** sec.
+Base Cost: **400** ![[req.png|20]] / **30** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[Mega Bossbunka]]
 - - -
 
@@ -41,14 +41,14 @@ Increases maximum HP, Waaagh! gain, XP gain, and damage dealt by attached unit.
 > Deploy explosives around Gorgutz, then teleport to a random Ork production structure.
 > Detaches unit first.
 ### Wargear
-Big Shoota
+Power claw, Kustom Shoota and Big shoota (shoulder)
 ![[Big Shoota.png]]
 *Equipment*
 - Default loadout
 - Effective at range
 - Good versus infantry
 
-Base Cost: **//** ![[req.png|20]] / **//** ![[pow.png|20]] | Build Time: **15.0** sec.
+Base Cost: **150** ![[req.png|20]] | Build Time: **15.0** sec.
 => Slot 1
 
 ![[Kustom Mega-Blasta (Warboss)#Kustom Mega-Blasta]]
