@@ -33,6 +33,18 @@ from [[Tomb Citadel]]
 - - -
 ![[Attach.png|25]] Attach passive: *Timesplitter Mantle*
 Increases [[Invulnerable Save]] for the Commander and attached unit.
+
+Can attach to:
+```base
+views:
+  - type: list
+    name: Chrono_friends
+    filters:
+      and:
+        - Attach_to.contains(link("Chronomancer"))
+
+```
+
 - - -
 ![[Channel Aeonstave.png]]
 > [!danger] Abilities
@@ -60,16 +72,9 @@ Increases [[Invulnerable Save]] for the Commander and attached unit.
 
 ![[Photonic Transubjector#Photonic Transubjector]]
 
-Metalodermal Tesla Weave
-*Active Ability*
-Release a burst of lightning around the Commander, dealing area damage.
-15 ![[dom.png|20]] 20sec.
-=> Slot 1
+![[Metalodermal Tesla Weave#Metalodermal Tesla Weave]]
 
-Autodivinator
-*Passive Ability*
-Increases Command Point gain and Invulnerable Save for the Commander and attached unit.
-15 20 slot2
+![[Autodivinator#Autodivinator]]
 
 ![[Dimensional Sanctum#Dimensional Sanctum]]
 

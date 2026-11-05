@@ -11,9 +11,9 @@ Cost_pow: 18
 Supply_req: 28
 Time: 20
 pop: "5"
-Up-to-date: false
 Attach_to:
   - "[[Skitarii Marshal]]"
+Up-to-date: true
 ---
 # [[Sicarian Ruststalkers]]
 *Melee Infantry*
@@ -36,11 +36,9 @@ from [[War Cohort Altar]]
 ### Research
 ![[Transonic Blades#*Transonic Blades*]]
 
-Squad +
-70 5 15
-+2
+![[Force Augmentation I (Sicarian)#Force Augmentation I]]
 
-Squad ++
+![[Force Augmentation II (Sicarian)#Force Augmentation II]]
 ### Relevant Research
 ```base
 views:

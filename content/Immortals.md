@@ -9,10 +9,10 @@ from:
 Cost_dom: 20
 Supply_dom: 2
 Time: 14.9
-Up-to-date:
 Attach_to:
   - "[[Chronomancer]]"
 pop: "2"
+Up-to-date: true
 ---
 # [[Immortals]]
 *All-Purpose Infantry*
@@ -24,20 +24,21 @@ Base Cost: **20** ![[dom.png|20]] | Supply Cost: **2** ![[dom.png|20]]/min | Bui
 from [[Tomb Citadel]]
 - - -
 
-| [[Member Count]]      |     |     |
-| --------------------- | :-: | --- |
-| [[Armour]]            |     |     |
-| Armour Penetration    |     |     |
-| Invulnerability Saves |  -  |     |
-| HP                    |     |     |
+| [[Member Count]]      |  5   | max 10 |
+| --------------------- | :--: | ------ |
+| [[Armour]]            |  4   | Light  |
+| Armour Penetration    |  6   |        |
+| Invulnerability Saves |  -   |        |
+| HP                    | 2000 |        |
 - - -
 ### Wargear
 ![[Gauss Blaster#*Gauss Blaster*]]
 
 ![[Tesla Carbines#Tesla Carbines]]
 
-Undying Legions I
-Undying Legions II
+![[Undying Legions I (Immortals)#Undying Legions I]]
+
+![[Undying Legions II (Immortals)#Undying Legions II]]
 ### Relevant Research
 ```base
 views:

@@ -7,10 +7,10 @@ Up-to-date: true
 ---
 # Veterancy
 
-> So far is looks like units get +10% hp per level, additive.
+> Ork, Necron, SM, Ad Mech all get +10% per level.
 > A level 0 unit of 2500hp will be 2750 at lvl1, and 5000hp at lvl 10.
-> Space marines also get bonus damage to go with it. (10%?)
-> Orks earn xp much faster by default.
+> Space marines also get bonus damage to go with it: 5% per level, for +50% at lvl 10.
+> Orks earn xp much faster by default. But all units have different xp requirements per level, as well as damage to xp ratios.
  -- Artist
 
 > [!quote] Elliott

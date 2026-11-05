@@ -10,10 +10,10 @@ Cost_req: 250
 Cost_pow: 25
 Supply_req: 36
 Time: 20
-Up-to-date:
 Attach_to:
   - "[[Warboss]]"
 pop: "5"
+Up-to-date: true
 ---
 # [[Flash Gitz]]
 *Anti-Armour Infantry*
@@ -21,18 +21,23 @@ pop: "5"
 - Excels versus vehicles
 - Ineffective in melee
 - - -
-**250** ![[req.png|20]] | **25** ![[pow.png|20]] | **36** req/min | **20.0** sec.
+**250** ![[req.png|20]] / **25** ![[pow.png|20]] | **36** req/min | **20.0** sec.
 from [[Boyz Fort]]
 - - -
 
-| [[Member Count]]      |  5   |       |
-| --------------------- | :--: | ----- |
-| [[Armour]]            |  4   | Heavy |
-| Armour Penetration    |  7   |       |
-| Invulnerability Saves |  -   |       |
-| HP                    | 2500 |       |
+| [[Member Count]]      |  5   | max 10 |
+| --------------------- | :--: | ------ |
+| [[Armour]]            |  4   | Heavy  |
+| Armour Penetration    |  7   |        |
+| Invulnerability Saves |  -   |        |
+| HP                    | 2500 |        |
 
-2 upgrades
+### Wargear
+Snazzgun
+
+![[Mobbin' Up I (Flashgitz)#Mobbin' Up I]]
+
+![[Mobbin' Up II (Flashgitz)#Mobbin' Up II]]
 - - -
 ### Relevant Research
 ```base

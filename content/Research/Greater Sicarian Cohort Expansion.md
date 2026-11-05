@@ -10,6 +10,7 @@ Slot:
   - "3"
 pic: "[[Research-ph.png]]"
 dg-publish: true
+Up-to-date: true
 ---
 ##### Greater Sicarian Cohort Expansion
 *Research*

@@ -39,9 +39,9 @@ from [[Omnissian Cult]]
 
 ![[Torsion Cannon-Hydraulic Claw#Torsion Cannon/Hydraulic Claw]]
 
-![[Force Augmentation I (Breachers)#Force Augmentation I]]
+![[Force Augmentation I (Kataphron)#Force Augmentation I]]
 
-![[Force Augmentation II (Breachers)#Force Augmentation II]]
+![[Force Augmentation II (Kataphron)#Force Augmentation II]]
 
 - - -
 ### Relevant Research

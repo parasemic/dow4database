@@ -4,9 +4,10 @@ tags:
   - SM
   - Resource
   - Structure
-Up-to-date:
 Cost_req: 50
 Cost_pow: 15
+Time:
+Up-to-date:
 ---
  # [[Auspex Shrine]]
 
@@ -14,7 +15,7 @@ Cost_pow: 15
 *Upgrade*
 Prevents enemy capture and increases Requisition gain.
 - - -
-Base Cost: **50** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **20.?** sec.
+Base Cost: **50** ![[req.png|20]] / **15** ![[pow.png|20]] | Build Time: **20.?** sec.
 - - -
 
 +65 ![[req.png|20]]/min
@@ -32,7 +33,7 @@ Base Cost: **50** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **20.?*
 
 ## Auspex Shrine II
 *Resource Point*
-* Provides Requisition
+- Provides Requisition
 - Prevents enemy capture
 - Armed with a Twin Heavy Onslaught Gatling Cannon
 

@@ -2,7 +2,9 @@
 tags:
   - Wargear
   - AdMech
-equiped_by: "[[Kataphron Breachers]]"
+equiped_by:
+  - "[[Kataphron Breachers]]"
+  - "[[Kataphron Destroyers]]"
 Cost_req:
 Cost_pow:
 Cost_dom:

@@ -5,6 +5,8 @@ tags:
   - Fortification
 dg-publish: true
 Cost_dom: 120
+Vision_range: "55"
+Up-to-date:
 ---
 # [[Gauss Pylon]]
 *Heavy Fortification*
@@ -14,6 +16,10 @@ Cost_dom: 120
 - - -
 Base Cost: **120** ![[dom.png|20]] | Base Build Time: ?? sec.
 *Requires structure: Tomb Citadel III*
+
+| HP         | 10000 |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 8<br> | Structure |
 
 ### Relevant Research
 ```base

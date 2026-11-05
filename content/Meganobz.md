@@ -41,7 +41,7 @@ from [[Boyz Fort]]
 
 ![[Mobbin' Up I (Meganobz)#Mobbin' Up I]]
 
-MU II
+![[Mobbin' Up II (Meganobz)#Mobbin' Up II]]
 - - -
 ### Relevant Research
 ```base

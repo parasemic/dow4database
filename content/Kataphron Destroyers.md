@@ -10,13 +10,13 @@ Cost_req: 190
 Cost_pow: 15
 Supply_req: 21
 Time: 25
-Up-to-date:
 Vision_range: "70"
 xp_per_lvl: "2950"
 Attach_to:
   - "[[Skitarii Marshal]]"
   - "[[Technoarcheologist]]"
 pop: "5"
+Up-to-date: true
 ---
 # [[Kataphron Destroyers]]
 *Heavy Infantry*
@@ -28,10 +28,10 @@ Base Cost: **190** ![[req.png|20]] /**15** ![[pow.png|20]] | Supply Cost: **21**
 from [[Omnissian Cult]]
 - - -
 
-| [[Member Count]]      |      |       |
+| [[Member Count]]      |  3   | max 6 |
 | --------------------- | :--: | ----- |
-| [[Armour]]            |      | Heavy |
-| Armour Penetration    |      |       |
+| [[Armour]]            |  3   | Heavy |
+| Armour Penetration    |  4   |       |
 | Invulnerability Saves | 10%  |       |
 | HP                    | 1800 |       |
 
@@ -45,8 +45,9 @@ from [[Omnissian Cult]]
 
 ![[Plasma Culverins (Destroyers)#Plasma Culverins]]
 
-Force Augmentation I
-Force Augmentation II
+![[Force Augmentation I (Kataphron)#Force Augmentation I]]
+
+![[Force Augmentation II (Kataphron)#Force Augmentation II]]
 ### Relevant Research
 ```base
 views:

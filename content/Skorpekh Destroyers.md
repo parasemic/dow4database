@@ -10,10 +10,10 @@ from:
 Cost_dom: 40
 Supply_dom: 4
 Time: 40
-Up-to-date:
 Attach_to:
   - "[[Destroyer Lord]]"
 pop: "4"
+Up-to-date: true
 ---
 # [[Skorpekh Destroyers]]
 *Melee Infantry*
@@ -37,17 +37,9 @@ default
 
 ![[Hyperphase Reap-Blade#Hyperphase Reap-Blade]]
 
-Undying Legions I
-*Equipment*
-Adds 1 more member to this unit.
-Requires structure: Tomb Citadel III
-8dom 15.0
+![[Undying Legions I (Skorpekh)#Undying Legions I]]
 
-Undying Legions II
-*Equipment*
-Adds 2 more members to this unit.
-Requires structure: Tomb Citadel IV
-14dom 15.0
+![[Undying Legions II (Skorpekh)#Undying Legions II]]
 ### Relevant Research
 ```base
 views:

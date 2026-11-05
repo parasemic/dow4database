@@ -2,7 +2,6 @@
 dg-publish: true
 tags:
   - Wargear
-  - Weapon
   - Necron
 equiped_by:
   - "[[Chronomancer]]"
@@ -20,4 +19,5 @@ Up-to-date: true
 > Instead of becoming incapacitated, the Commander creates a holographic decoy, becomes invulnerable and gains increased HP regain rate for a duration.
 > Base Cost: **10** ![[dom.png|20]] | Build Time: **30.0** sec.
 
+=> Slot 1
 ## Details

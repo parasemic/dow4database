@@ -46,7 +46,7 @@ from [[Canoptek Foundry]]
 
 ![[Transdimensional Beamer#Transdimensional Beamer]]
 
-slot 4 Undying Legions I +1
+![[Undying Legions I (Wraiths)#Undying Legions I]]
 ### Relevant Research
 ```base
 views:

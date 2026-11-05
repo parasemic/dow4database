@@ -10,10 +10,10 @@ Cost_req: 250
 Cost_pow: 20
 Supply_req: 30
 Time: 20
-Up-to-date:
 Attach_to:
   - "[[Beastboss on Squigosaur]]"
 pop: "5"
+Up-to-date: true
 ---
 # [[Squighog Boyz]]
 *Melee Infantry*
@@ -21,7 +21,7 @@ pop: "5"
 - High mobility
 - Can throw Explosives
 - - -
-Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **20.0** sec.
+Base Cost: **250** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Beast Snagga Hut]]
 - - -
 
@@ -47,8 +47,9 @@ from [[Beast Snagga Hut]]
 
 - - -
 ### Wargear
-Squad +
-Squad ++
+![[Mobbin' Up I (Squighog)#Mobbin' Up I]]
+
+![[Mobbin' Up II (Squighog)#Mobbin' Up II]]
 ### Relevant Research
 ```base
 views:

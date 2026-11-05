@@ -11,11 +11,11 @@ Cost_req: 160
 Cost_pow: 0
 Supply_req: 28
 Time: 15
-Up-to-date:
 Attach_to:
   - "[[Beastboss]]"
   - "[[Warboss]]"
 pop: "1"
+Up-to-date: true
 ---
  # [[Shoota Boyz]]
 *Light Infantry*

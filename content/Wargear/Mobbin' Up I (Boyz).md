@@ -4,24 +4,16 @@ tags:
   - Wargear
   - Weapon
   - Ork
-light_min:
-light_max:
-heavy_min:
-heavy_max:
-vehi_min:
-vehi_max:
-build_min:
-build_max:
-AP:
 equiped_by:
   - "[[Shoota Boyz]]"
   - "[[Slugga Boyz]]"
-Cost_req:
-Cost_pow:
+Cost_req: 50
+Cost_pow: 0
 Cost_dom:
-Time:
+Time: 10
 Slot:
   - "3"
+Up-to-date:
 ---
 #### Mobbin' Up I
 > [!tip] *Upgrade*

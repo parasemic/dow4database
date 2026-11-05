@@ -37,8 +37,9 @@ from [[Tomb Citadel]]
 
 ![[Gauss Reapers#Gauss Reapers]]
 
-Undying Legions I
-Undying Legions II
+![[Undying Legions I (Warriors)#Undying Legions I]]
+
+![[Undying Legions II (Warriors)#Undying Legions II]]
 ### Relevant Research
 ```base
 views:

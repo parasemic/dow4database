@@ -3,7 +3,9 @@ dg-publish: true
 tags:
   - Wargear
   - AdMech
-equiped_by: "[[Kataphron Breachers]]"
+equiped_by:
+  - "[[Kataphron Breachers]]"
+  - "[[Kataphron Destroyers]]"
 Cost_req: 100
 Cost_pow:
 Cost_dom:

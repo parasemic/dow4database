@@ -4,6 +4,8 @@ tags:
   - Stratagem
 dg-publish: true
 Up-to-date: true
+from:
+  - "[[Chaplain on Bike]]"
 ---
 # [[Angels of Death]]
 *Strategem*

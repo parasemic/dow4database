@@ -28,3 +28,4 @@ Slot:
 > - Cannot be replaced
 
 ## Details
+=> Range 90m

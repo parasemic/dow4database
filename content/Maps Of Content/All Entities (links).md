@@ -104,7 +104,7 @@ Up-to-date:
 - [[Resurrection Gallery]]
 - [[Protocol Relays]]
 - [[Gauss Pylon]]
-- Tomb Pylon
+- [[Tomb Pylon]]
 ## Adeptus Mechanicus
 - [[Dominus Forgeshrine]]
 - [[Cogitator Relay]]

@@ -18,16 +18,16 @@ pop: "3"
 - Good versus infantry
 - Can jump over obstacles
 - - -
-Base Cost: **210** ![[req.png|20]] | **5** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **15.0** sec.
+Base Cost: **210** ![[req.png|20]] / **5** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **15.0** sec.
 from [[Boyz Fort]]
 - - -
 
-| [[Member Count]]      |      | max   |
-| --------------------- | :--: | ----- |
-| [[Armour]]            |  2   | Light |
-| Armour Penetration    |  3   |       |
-| Invulnerability Saves |  -   |       |
-| HP                    | 2500 |       |
+| [[Member Count]]      |  5   | max 10 |
+| --------------------- | :--: | ------ |
+| [[Armour]]            |  2   | Light  |
+| Armour Penetration    |  3   |        |
+| Invulnerability Saves |  -   |        |
+| HP                    | 2500 |        |
 > [!danger] Rokkit Jump
 > *Active Ability*
 > Leap to target location, ignoring obstacles and dealing damage on landing.
@@ -35,8 +35,9 @@ from [[Boyz Fort]]
 ### Wargear
 ![[Slugga-Choppa#*Slugga-Choppa*]]
 
-Mobbin' Up I
-Mobbin' Up II
+![[Mobbin' Up I (Stormboyz)#Mobbin' Up I]]
+
+![[Mobbin' Up II (Stormboyz)#Mobbin' Up II]]
 - - -
 ### Relevant Research
 ```base

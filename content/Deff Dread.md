@@ -4,8 +4,14 @@ tags:
   - Ork
   - Vehicle
   - Unit
-Up-to-date:
+from:
+  - "[[Scrap 'Eap]]"
 pop: "7"
+Cost_req: 430
+Cost_pow: 45
+Supply_req: 52
+Time: 20
+Up-to-date:
 ---
 # [[Deff Dread]]
 *All-Purpose Walker*
@@ -13,7 +19,7 @@ pop: "7"
 - Good versus infantry
 - Moderate durability
 - - -
-Base Cost: **430** ![[req.png|20]] / **40** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
+Base Cost: **430** ![[req.png|20]] / **45** ![[pow.png|20]] | Supply Cost: **52** ![[req.png|20]]/min | Build Time: **20.0** sec.
 from [[Scrap 'Eap]]
 - - -
 
