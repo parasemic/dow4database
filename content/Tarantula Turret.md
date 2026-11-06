@@ -17,7 +17,7 @@ Up-to-date:
 - High fire rate
 - Low durability
 - - -
-Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **250** ![[req.png|20]] / **20** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 2000  |           |
@@ -25,13 +25,7 @@ Base Cost: **250** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **??.?
 | [[Armour]] | 4<br> | Structure |
 ### Wargear
 
-Twin Lascannon
-*Upgrade*
-- Upgrades weaponry for the structure
-- Good versus all targets
-- Reduces fire rate
-  50 25 15
-  +500 hp
+![[Twin Las-talon#Twin Las-talon]]
 ### Relevant Research
 ```base
 views:

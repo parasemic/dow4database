@@ -29,6 +29,9 @@ dg-publish: true
 [[Veterancy]]
 #### Implied but not detailed
 - Accuracy
+	- Some weapons always hit
+	- Some weapons can miss based on target size (3 values, but only 2 sizes used by units)
+	- some weapons can miss based on range (don't know the accuracy drop rate)
 - Damage Reduction
 ## Adeptus Mechanicus
 [[Noosphere Network Strength]]

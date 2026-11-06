@@ -39,6 +39,10 @@ from [[Dominus Forgeshrine]]
 > 3 charges
 
 +3AP, +3Armour
+30 sec. duration
+2 sec. cooldown
+10 sec. /stack refill
+40m range
 
 ![[Attach.png|25]] Attach passive: *Servo-Skull Uplink*
 Increases damage dealt and reduces damage taken by the Commander and attached unit.
