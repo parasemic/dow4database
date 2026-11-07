@@ -20,3 +20,5 @@ Up-to-date: true
 Cost: **100** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **15.0** sec.
 => Slot 3
 ## Details
+=> +20% HP
+=> 15% of damage send to attached squad

@@ -12,7 +12,7 @@ vehi_min: 263
 vehi_max: 276
 build_min: 169
 build_max: 175
-AP:
+AP: "8"
 equiped_by:
   - "[[Destroyer Lord]]"
 Cost_req:

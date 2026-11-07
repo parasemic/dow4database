@@ -21,3 +21,5 @@ Up-to-date: true
 
 => Slot 2
 ## Details
+=> +30% Command Point gain
+=> +25% saves

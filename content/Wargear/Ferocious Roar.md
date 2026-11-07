@@ -22,3 +22,5 @@ Up-to-date: true
 Cost: **150** ![[req.png|20]] / **20** ![[pow.png|20]] | Build Time: **15.0** sec.
 => Slot 2
 ## Details
+-40% damage dealt
+70m radius

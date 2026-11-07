@@ -12,7 +12,7 @@ vehi_min: 328
 vehi_max: 376
 build_min: 156
 build_max: 177
-AP:
+AP: "7"
 equiped_by:
   - "[[Destroyer Lord]]"
 Cost_req:
@@ -26,7 +26,10 @@ Slot:
 > [!example] *Equipment*
 > - Effective in melee
 > - Good all targets
-> - Grants ability: Insanity's Ire
+> - Grants ability: **Insanity's Ire**
 > Base Cost: **8** ![[dom.png|20]] | Build Time: **15.0** sec.
 
 ## Details
+Insanity's Ire
+*Active Ability*
+Perform a melee attack that knocks down or stuns target enemy.

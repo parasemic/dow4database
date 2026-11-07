@@ -39,6 +39,8 @@ Increases damage dealt to vehicles and monsters by the Commander and attached un
 > *Active Ability*
 > Increase damage dealt and Waaagh! gain for units in range for a duration.
 
++40% damage
+40m range
 ### Wargear
 ![[Beastchoppa-Kustom Shoota#Beastchoppa/Kustom Shoota]]
 

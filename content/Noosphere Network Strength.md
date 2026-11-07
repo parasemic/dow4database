@@ -7,15 +7,23 @@ dg-publish: true
 # [[Noosphere Network Strength]]
 The higher the Noosphere Network Strength, the greater the benefits granted to structures and units within. Build structures within range of the network to increase Network Strength.
 
-Any level provides units wthin range  : Damage Dealt: **+15%**
+Any level provides units within range : Damage Dealt: **+15%**
 
 > [!question] How do I increase NS?
 > Every #AdMech #Structure adds some points to the network if they are build within range of a networks connected to [[Dominus Forgeshrine]].
 > 
-> The first Strength level requires 6 such points, with starting HQ providing 3 already. Every Strength level after that requires 4 extra points.
+> The first Strength level requires 6 such points, with starting HQ providing 3 already. Every Strength level after that requires 4 extra points on average.
 >
 >Example: HQ + 2x [[War Cohort Altar]] + link to natural [[Cognis Weapon Platform]] would give 3 + 2x3 + 1 point, reaching Network Strength II (10 points in total: 6 | 4).
 > -- Artist
+
+
+| NS     | I   | II  | III  | IV  | V   | VI  | VII | VIII | IX  | X   |
+| ------ | --- | --- | ---- | --- | --- | --- | --- | ---- | --- | --- |
+| points | 6   | 10  | 14   | 18  | 22  | 27  | 30  | 34   | 38  | 42  |
+| NS     | XI  | XII | XIII | XIV | XV  |     |     |      |     |     |
+| points | 47  | 50  | 54   | 58  | 62  |     |     |      |     |     |
+
 
 > [!info] Cost Reduction
 > #AdMech #Production buildings within the Network have reduced production costs.

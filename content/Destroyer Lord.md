@@ -9,10 +9,10 @@ aliases:
   - Ahmnok
 from:
   - "[[Tomb Citadel]]"
-Cost_dom:
-Supply_dom:
-Time:
-Up-to-date:
+Cost_dom: 60
+Supply_dom: 5
+Time: 30
+Up-to-date: true
 ---
 # [[Destroyer Lord]]
 *Commander*
@@ -20,16 +20,16 @@ Up-to-date:
 - Effective in melee
 - Very high durability
 - - -
-Base cost: **00** ![[dom.png|20]] | Supply Cost: **00** ![[dom.png|20]]/min | Base build time: **00** sec.
+Base cost: **60** ![[dom.png|20]] | Supply Cost: **5** ![[dom.png|20]]/min | Base build time: **30** sec.
 from [[Tomb Citadel]]
 - - -
 
-| Model Count           |  1  |       |
-| --------------------- | :-: | ----- |
-| [[Armour]]            |     | Heavy |
-| Armour Penetration    |     |       |
-| Invulnerability Saves |  -  |       |
-| HP                    |     |       |
+| Model Count           |  1   |       |
+| --------------------- | :--: | ----- |
+| [[Armour]]            |  7   | Heavy |
+| Armour Penetration    |      |       |
+| Invulnerability Saves |  -   |       |
+| HP                    | 2200 |       |
 
 ---
 ### Wargear
@@ -37,41 +37,17 @@ from [[Tomb Citadel]]
 
 ![[Twin Hyperphase Harvesters#Twin Hyperphase Harvesters]]
 
-Twin Flensing Claws
-- Effective in melee
-- Good versus infantry
-- Hit biological targets take damage over time
-8AP
+![[Twin Flensing Claws#Twin Flensing Claws]]
 
 ![[Hyperphase Blade#Hyperphase Blade]]
 
-Insanity's Ire
-*Active Ability*
-Perform a melee attack that knocks down or stuns target enemy.
+![[Ingrained Superiority#Ingrained Superiority]]
 
-Ingrained Superiority
-Passive Ability
-The Commander regularly emits a burst of energy, dealing area damage and reducing Armour for enemies within range for a duration. (at least-5)
-22 15
-S1
+![[Protocol of the Eternal Revenant#Protocol of the Eternal Revenant]]
 
-Protocol of the Eternal Revenant
-Passive Ability
-Teleports the Commander to the Tomb Citadel when at low HP.
-27 30
-S1
+![[Eternal Madness#Eternal Madness]]
 
-Eternal Madness
-Active Ability
-Enter an uncontrollable berserk state, increasing all damage dealt and reducing damage taken for the duration.
-14 15
-S2
-
-Interdimensional Oubliette
-*Active Ability*
-Deploy a [[Skorpekh Destroyers|Skorpekh Destroyer]] unit near the Commander.
-50 dom 30sec
-s2
+![[Interdimensional Oubliette#Interdimensional Oubliette]]
 ### Relevant Research
 ```base
 views:

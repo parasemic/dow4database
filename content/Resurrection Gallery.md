@@ -31,26 +31,9 @@ Can resurrect:
 + [[Skorpekh Destroyers]] - 59.6 sec.
 + [[Lokhust Heavy Destroyer]] - 59.6 sec.
 ### Research
+> [!tip] ![[Rapid Reanimation#Rapid Reanimation]]
 
-Rapid Reanimation
-*Research*
-Increases the resurrection speed bonus for Resurrection Galleries when a unit matching the currently resurrecting unit is lost.
-*Requires structure: Tomb Citadel Il*
-Resurrection Speed Bonus **+60%**
-Research Time 180.0 sec.
-
-Undying Legions
-*Research*
-All resurrected and produced units start with Veterancy Level 1.
-Does not apply to:
-- Monolith
-- C'tan Shard of the Void Dragon
-*Requires structure: Tomb Citadel Il*
-Research Time 180.0 sec.
-
-> [!tip] ![[]]
-
-> [!tip] ![[]]
+> [!tip] ![[Undying Legions#Undying Legions]]
 ### Relevant Research
 ```base
 views:

@@ -2,7 +2,6 @@
 dg-publish: true
 tags:
   - Wargear
-  - Weapon
   - Necron
 equiped_by:
   - "[[Chronomancer]]"
