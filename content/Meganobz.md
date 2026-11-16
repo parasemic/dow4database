@@ -21,9 +21,9 @@ pop: "7"
 - Good versus all targets
 - High durability
 ---
-**350** ![[req.png|20]] | **40** ![[pow.png|20]] | **46** ![[req.png|20]]/min | **25.0** sec.
+**350** ![[req.png|20]] / **40** ![[pow.png|20]] | **46** ![[req.png|20]]/min | **25.0** sec.
 from [[Boyz Fort]]
-
+WAA
 - - -
 
 | [[Member Count]]      |  3   | max 6 |

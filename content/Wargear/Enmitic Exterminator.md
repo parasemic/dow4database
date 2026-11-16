@@ -16,7 +16,7 @@ AP: "9"
 equiped_by: "[[Lokhust Heavy Destroyer]]"
 Cost_req:
 Cost_pow:
-Cost_dom:
+Cost_dom: 15
 Time: 10
 Slot:
   - "1"
@@ -28,6 +28,6 @@ Up-to-date:
 > - Good versus heavy armour
 > - High fire rate
 >
-> Cost: **?** ![[dom.png|20]] | **10.0** sec.
+> Cost: **15** ![[dom.png|20]] | **10.0** sec.
 
 ## Details

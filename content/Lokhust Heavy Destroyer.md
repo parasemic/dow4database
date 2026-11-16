@@ -33,19 +33,11 @@ from [[Destroyer Crypt]]
 | Invulnerability Saves |  -   |       |
 | HP                    | 2000 |       |
 
----
+- - -
 ![[Enmitic Exterminator#Enmitic Exterminator]]
 
 ![[Gauss Destructor#Gauss Destructor]]
-
-| *Armour Effectiveness* |         |
-| ---------------------- | ------- |
-| Light                  | 40-99   |
-| Heavy                  | 97-188  |
-| Vehicle                | 288-291 |
-| Structure              | 202-206 |
-
----
+- - -
 ### Relevant Research
 ```base
 views:

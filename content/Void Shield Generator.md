@@ -24,7 +24,7 @@ Blocks shots from the outside, works on your own  shots, so be careful where you
 | ---------- | ----- | --------- |
 | [[Armour]] | 8<br> | Structure |
 
-NS levels reduce damage of units within:
+NS levels reduce damage to units within:
 
 | NS  | I   | II  | III  | IV  | V   | VI  | VII | VIII | IX  | X   |
 | --- | --- | --- | ---- | --- | --- | --- | --- | ---- | --- | --- |
@@ -34,7 +34,7 @@ NS levels reduce damage of units within:
 
 The shield itself has 8000 HP with 10 armour. It recovers 100 hp per second, and shuts down for 10 seconds when depleted.
 Starts back up at half health.
---Artist
+-- Artist
 
 ### Relevant Research
 ```base

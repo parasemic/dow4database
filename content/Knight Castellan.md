@@ -4,6 +4,8 @@ tags:
   - AdMech
   - Unit
 pop: "17"
+Supply_req: 75
+Up-to-date: true
 ---
 # [[Knight Castellan]]
 *Super-Heavy Walker*
@@ -11,8 +13,9 @@ pop: "17"
 - Excels versus most targets
 - Very high durability
 - - -
+Upkeep: **75** ![[req.png|20]]
 from [[Drop Keep]]
-
+- - -
 
 | [[Member Count]]      |  1   | 1       |
 | --------------------- | :--: | ------- |

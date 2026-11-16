@@ -23,6 +23,7 @@ Up-to-date: true
 - - -
 **250** ![[req.png|20]] / **25** ![[pow.png|20]] | **36** req/min | **20.0** sec.
 from [[Boyz Fort]]
+WA
 - - -
 
 | [[Member Count]]      |  5   | max 10 |
