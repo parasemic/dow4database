@@ -14,7 +14,7 @@ Up-to-date: true
 - Absorbs melee damage to occupants
 - Strengthens the Noosphere Network
 - - -
-Base Cost: **45** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **45** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 NS points +2
 

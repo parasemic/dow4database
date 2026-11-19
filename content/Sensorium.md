@@ -26,7 +26,7 @@ Gets +10% HP per NS level, up to +150% at XV.
 > [!tip] Sensorium II
 > *Upgrade*
 > Adds a mounted weapon and increases Requisition gain. Strengthens the Noosphere Network.
-> Base Cost: **150** ![[req.png|20]] | **20** ![[pow.png|20]] | Build Time: **40.0** sec.
+> Base Cost: **150** ![[req.png|20]] / **20** ![[pow.png|20]] | Build Time: **40.0** sec.
 ## Sensorium II
 *Resource Point*
 - Provides Requisition
@@ -41,7 +41,7 @@ Gets +10% HP per NS level, up to +150% at XV.
 > [!tip] Sensorium III
 > *Upgrade*
 > Upgrades the structure's weaponry and increases Requisition gain. Strengthens the Noosphere Network.
-> Base Cost: **150** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **50.0** sec.
+> Base Cost: **150** ![[req.png|20]] / **30** ![[pow.png|20]] | Build Time: **50.0** sec.
 
 ## Sensorium III
 *Resource Point*

@@ -32,3 +32,4 @@ Deals 57-69 dmg to a Sentry Pylon per hit
 92 with Ezrael buff
 
 can miss
+2 sec. setup tilme

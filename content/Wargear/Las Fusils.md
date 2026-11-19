@@ -25,10 +25,11 @@ dg-publish: true
 > - Upgrades weaponry for the unit
 > - Excels versus vehicles
 > - Good versus heavy armour
-> Base Cost: **100** ![[req.png|20]] | **15** ![[pow.png|20]] | Build Time: **15.0** sec.
+> Base Cost: **100** ![[req.png|20]] / **15** ![[pow.png|20]] | Build Time: **15.0** sec.
 ## Details
 AP +3
-Range ??
+Range 90m
+2 sec. setup time
 
 168 dmg to Sentry Pylon with Ezrael buff
 126 witthout

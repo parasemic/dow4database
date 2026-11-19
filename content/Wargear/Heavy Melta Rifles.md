@@ -26,8 +26,8 @@ Up-to-date: true
 > - Upgrades weaponry for the unit
 > - Increases all ranged damage dealt
 > - Cannot fire while moving
-> Base Cost: **150** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **15.0** sec.
+> Base Cost: **150** ![[req.png|20]] / **25** ![[pow.png|20]] | Build Time: **15.0** sec.
 ## Details
 +2 ![[AP_120.png|15]]
-sets up like eliminator squads
-Range about 5m shorter
+Sets up like eliminator squads (1.35 sec.)
+Range 7m shorter (45>38).

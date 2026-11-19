@@ -29,7 +29,7 @@ Base Cost: **50** ![[req.png|20]] / **15** ![[pow.png|20]] | Build Time: **20.?*
 > - Provides Requisition
 > - Prevents enemy capture
 > - Armed with a Twin Heavy Onslaught Gatling Cannon
-> Base Cost: **70** ![[req.png|20]] | **30** ![[pow.png|20]] | Build Time: **40.0** sec.
+> Base Cost: **70** ![[req.png|20]] / **30** ![[pow.png|20]] | Build Time: **40.0** sec.
 
 ## Auspex Shrine II
 *Resource Point*
@@ -46,7 +46,7 @@ Base Cost: **50** ![[req.png|20]] / **15** ![[pow.png|20]] | Build Time: **20.?*
 > *Upgrade*
 > Upgrades weaponry for the structure and increases Requisition gain.
 > Requisition gain.
-> Base Cost: **100** ![[req.png|20]] | **40** ![[pow.png|20]] | Build Time: **50.0** sec.
+> Base Cost: **100** ![[req.png|20]] / **40** ![[pow.png|20]] | Build Time: **50.0** sec.
 
 ## Auspex Shrine III
 *Resource Point*
