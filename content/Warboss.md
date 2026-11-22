@@ -15,7 +15,7 @@ Supply_req: 30
 Time: 30
 Up-to-date: true
 ---
-# Warboss
+# [[Warboss]]
 *Commander*
 - High-durability brawler
 - Effective at all ranges
@@ -23,6 +23,7 @@ Up-to-date: true
 - - -
 Base Cost: **400** ![[req.png|20]] / **30** ![[pow.png|20]] | Supply Cost: **30** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from [[Mega Bossbunka]]
+**WAA**
 - - -
 
 | [[Member Count]]      |  1   | max 1 |

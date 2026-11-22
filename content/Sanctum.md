@@ -14,7 +14,7 @@ Up-to-date:
 - Provides research
 - Upgrade to unlock units
 - - -
-Base Cost: **400** ![[req.png|20]] | **25** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **400** ![[req.png|20]] / **25** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 3300  |           |

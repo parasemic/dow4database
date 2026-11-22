@@ -46,7 +46,7 @@ produces units:
 > *Upgrade*
 > Unlocks Eliminator Squads, Invictor Tactical Warsuits, and additional research.
 > HP **+700**
-Base Cost: **200** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **10.0** sec.
+Base Cost: **200** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **10.0** sec.
 ### Relevant Research
 ```base
 views:

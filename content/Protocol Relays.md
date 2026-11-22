@@ -14,6 +14,8 @@ Up-to-date: true
 - Prevents enemy capture
 - Upgrade to equip with weaponry
 - - -
+Cost: **10** ![[dom.png|20]]
+
 > [!info] Eco boost
 > A basic Req node increases Dominion gain 5%, each level of Protocol relay on top of it add another 2.5%.
 > Owning a single LVL3 Protocol Relay will increase your ![[dom.png|20]] gain by +12.5%.

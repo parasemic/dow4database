@@ -22,6 +22,7 @@ Up-to-date: true
 - - -
 Base Cost: **375** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **40** ![[req.png|20]]/min | Build Time: **30.0** sec.
 from: [[Mega Bossbunka]]
+**WA**
 - - -
 
 | [[Member Count]]      |  1   | max 1 |

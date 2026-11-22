@@ -29,7 +29,7 @@ from [[Tomb Citadel]]
 
 | [[Member Count]]      |  5   | max 10 |
 | --------------------- | :--: | ------ |
-| [[Armour]]            |  6   |        |
+| [[Armour]]            |  6   | Light  |
 | Armour Penetration    |  4   |        |
 | Invulnerability Saves |  -   |        |
 | HP                    | 2750 |        |
