@@ -5,7 +5,7 @@ tags:
   - Utility
   - Structure
 Cost_req: 150
-Cost_pow: 50
+Cost_pow: 15
 Time:
 Up-to-date: true
 ---
@@ -15,7 +15,7 @@ Up-to-date: true
 - Deployment requires visibility
 - Has a maximum capacity
 - - -
-Base Cost: **150** ![[req.png|20]] | **50** ![[pow.png|20]] | Build Time: **??.?** sec.
+Base Cost: **150** ![[req.png|20]] / **15** ![[pow.png|20]] | Build Time: **??.?** sec.
 - - -
 
 | HP         | 3000  |           |
