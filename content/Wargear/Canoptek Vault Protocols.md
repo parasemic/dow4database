@@ -18,9 +18,13 @@ Up-to-date: true
 #### Canoptek Vault Protocols
 > [!danger] *Active Ability*
 > Deploy a #Canoptek unit at target location. Current Veterancy Level determines the unit deployed.
-> Base Cost: **30** ![[dom.png|20]] | Build Time: **2050** sec.
+> Base Cost: **30** ![[dom.png|20]] | Build Time: **25** sec.
 
 ## Details
 1-2 : Scarabs
 3+: spyder
 ??: Wraiths
+??: Doomstalker
+
+90 sec. cooldown
+range 30

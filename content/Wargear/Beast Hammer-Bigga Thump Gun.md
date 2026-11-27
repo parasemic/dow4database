@@ -33,3 +33,6 @@ Up-to-date: false
 > => Slot 1
 ## Details
 +2 AP
+
+350 direct hit +30 splash
+x2 to vehicles

@@ -16,12 +16,12 @@ Up-to-date: true
 - Provides research
 - Armed with a Big Shoota
 - - -
-Base Cost: **100** ![[req.png|20]] | **5** ![[pow.png|20]] | Build Time: **~20.0** sec.
+Base Cost: **100** ![[req.png|20]] / **5** ![[pow.png|20]] | Build Time: **~20.0** sec.
 - - -
 
-| HP         | 3000 |           |
-| ---------- | ---- | --------- |
-| [[Armour]] | <br> | Structure |
+| HP         | 3000  |           |
+| ---------- | ----- | --------- |
+| [[Armour]] | 4<br> | Structure |
 
 ---
  Produces units:

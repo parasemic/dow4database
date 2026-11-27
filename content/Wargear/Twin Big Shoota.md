@@ -30,7 +30,7 @@ Up-to-date: true
 > - Good versus all targets
 > - Grants ability: **Eat Dakka!**
 > 
-> Cost: **200** ![[req.png|20]] | **40** ![[pow.png|20]] | Build Time: **15.0** sec.
+> Cost: **200** ![[req.png|20]] / **40** ![[pow.png|20]] | Build Time: **15.0** sec.
 > => Slot 1
 
 ## Details

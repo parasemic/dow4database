@@ -30,7 +30,7 @@ Up-to-date: true
 > - Good versus vehicles
 > - Low accuracy
 > 
-> Cost: **150** ![[req.png|20]] | **10** ![[pow.png|20]] | Build Time: **15.0** sec.
+> Cost: **150** ![[req.png|20]] / **10** ![[pow.png|20]] | Build Time: **15.0** sec.
 > => Slot 1
 
 ## Details

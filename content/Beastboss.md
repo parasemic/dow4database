@@ -21,8 +21,8 @@ Up-to-date: true
 - Empowers friendly units
 - - -
 Base Cost: **375** ![[req.png|20]] / **20** ![[pow.png|20]] | Supply Cost: **40** ![[req.png|20]]/min | Build Time: **30.0** sec.
-from: [[Mega Bossbunka]]
 **WA**
+from: [[Mega Bossbunka]]
 - - -
 
 | [[Member Count]]      |  1   | max 1 |
@@ -40,7 +40,7 @@ Increases damage dealt to vehicles and monsters by the Commander and attached un
 > *Active Ability*
 > Increase damage dealt and Waaagh! gain for units in range for a duration.
 
-+40% damage
++50% damage
 40m range
 ### Wargear
 ![[Beastchoppa-Kustom Shoota#Beastchoppa/Kustom Shoota]]
